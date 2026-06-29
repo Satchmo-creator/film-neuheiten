@@ -13,14 +13,16 @@ SOURCES = [
         "label": "Leonine – Vorbestellungen",
         "url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen",
         "base": "https://shop.leoninestudios.com",
-        "type": "shopify",
+        "type": "shopify_api",
+        "api": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen/products.json?limit=250",
     },
     {
         "id": "leonine_neuheiten",
         "label": "Leonine – Neuheiten",
         "url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten",
         "base": "https://shop.leoninestudios.com",
-        "type": "shopify",
+        "type": "shopify_api",
+        "api": "https://shop.leoninestudios.com/collections/neuheiten/products.json?limit=250",
     },
     {
         "id": "capelight_vorschau",
@@ -41,7 +43,8 @@ SOURCES = [
         "label": "EYK Media – Vorbestellen",
         "url": "https://eykmedia.de/collections/vorbestellen",
         "base": "https://eykmedia.de",
-        "type": "shopify",
+        "type": "shopify_api",
+        "api": "https://eykmedia.de/collections/vorbestellen/products.json?limit=250",
     },
     {
         "id": "plaion_neuheiten",
@@ -86,57 +89,26 @@ def fetch(url):
         return r.read().decode("utf-8", errors="replace")
 
 
-class ShopifyParser(HTMLParser):
-    """Parses Shopify-style shops (Leonine, EYK Media)."""
-
-    def __init__(self, base):
-        super().__init__()
-        self.base = base
-        self.products = []
-        self._in_h3 = False
-        self._current_link = None
-        self._current_title = None
-        self._pending_img = None
-        self._in_product = False
-
-    def handle_starttag(self, tag, attrs):
-        attrs = dict(attrs)
-        if tag == "h3":
-            self._in_h3 = True
-        elif tag == "a" and self._in_h3:
-            href = attrs.get("href", "")
-            if href.startswith("/products/"):
-                self._current_link = self.base + href
-                self._current_title = ""
-        elif tag == "img":
-            src = attrs.get("src", "")
-            if src.startswith("//"):
-                src = "https:" + src
-            # Look ahead: store last img before h3
-            if not self._current_link:
-                self._pending_img = src
-
-    def handle_endtag(self, tag):
-        if tag == "h3":
-            self._in_h3 = False
-            if self._current_link and self._current_title:
-                self.products.append({
-                    "title": self._current_title.strip(),
-                    "url": self._current_link,
-                    "image": self._pending_img or "",
-                })
-            self._current_link = None
-            self._current_title = None
-            self._pending_img = None
-
-    def handle_data(self, data):
-        if self._current_link is not None and self._in_h3:
-            self._current_title = (self._current_title or "") + data
+def scrape_shopify_api(source):
+    data = json.loads(fetch(source["api"]))
+    products = []
+    for p in data.get("products", []):
+        url = source["base"] + "/products/" + p["handle"]
+        image = ""
+        if p.get("images"):
+            image = p["images"][0]["src"]
+        products.append({
+            "title": p["title"],
+            "url": url,
+            "image": image,
+            "source_id": source["id"],
+            "source_label": source["label"],
+            "source_url": source["url"],
+        })
+    return products
 
 
 class CapelightParser(HTMLParser):
-    """Parses shop.capelight.de."""
-
     def __init__(self, base):
         super().__init__()
         self.base = base
@@ -145,28 +117,29 @@ class CapelightParser(HTMLParser):
         self._current_title = None
         self._current_img = None
         self._in_link = False
+        self._last_img = None
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
-        if tag == "a":
+        if tag == "img":
+            src = attrs.get("src", "")
+            if "media" in src:
+                self._last_img = src
+        elif tag == "a":
             href = attrs.get("href", "")
-            # Product links have numeric IDs like /Title.../6420001
             if re.search(r"/\d{6,}$", href):
                 self._current_link = self.base + href if href.startswith("/") else href
                 self._current_title = ""
+                self._current_img = self._last_img
                 self._in_link = True
-                self._current_img = None
-        elif tag == "img" and self._current_link is None:
-            src = attrs.get("src", "")
-            if "media" in src:
-                self._current_img = src
 
     def handle_endtag(self, tag):
         if tag == "a" and self._in_link:
             self._in_link = False
-            if self._current_link and self._current_title and self._current_title.strip():
+            title = (self._current_title or "").strip()
+            if self._current_link and title:
                 self.products.append({
-                    "title": self._current_title.strip(),
+                    "title": title,
                     "url": self._current_link,
                     "image": self._current_img or "",
                 })
@@ -179,8 +152,6 @@ class CapelightParser(HTMLParser):
 
 
 class PlaionParser(HTMLParser):
-    """Parses shop.plaionpictures.com."""
-
     def __init__(self, base):
         super().__init__()
         self.base = base
@@ -199,7 +170,6 @@ class PlaionParser(HTMLParser):
                 self._last_img = src if src.startswith("http") else self.base + src
         elif tag == "a":
             href = attrs.get("href", "")
-            # Absolute URLs on this shop
             if href.startswith(self.base):
                 href = href[len(self.base):]
             if href.startswith("/") and "-" in href and href not in ("/", "/#"):
@@ -215,7 +185,6 @@ class PlaionParser(HTMLParser):
             self._in_link = False
             title = (self._current_title or "").strip()
             if self._current_link and title and len(title) > 3:
-                # Deduplicate
                 urls = [p["url"] for p in self.products]
                 if self._current_link not in urls:
                     self.products.append({
@@ -231,24 +200,30 @@ class PlaionParser(HTMLParser):
             self._current_title = (self._current_title or "") + data
 
 
+def scrape_html(source):
+    html = fetch(source["url"])
+    if source["type"] == "capelight":
+        parser = CapelightParser(source["base"])
+    elif source["type"] == "plaion":
+        parser = PlaionParser(source["base"])
+    else:
+        return []
+    parser.feed(html)
+    products = []
+    for p in parser.products:
+        p["source_id"] = source["id"]
+        p["source_label"] = source["label"]
+        p["source_url"] = source["url"]
+        products.append(p)
+    return products
+
+
 def scrape_source(source):
     try:
-        html = fetch(source["url"])
-        if source["type"] == "shopify":
-            parser = ShopifyParser(source["base"])
-        elif source["type"] == "capelight":
-            parser = CapelightParser(source["base"])
-        elif source["type"] == "plaion":
-            parser = PlaionParser(source["base"])
+        if source["type"] == "shopify_api":
+            products = scrape_shopify_api(source)
         else:
-            return []
-        parser.feed(html)
-        products = parser.products
-        # Attach source info
-        for p in products:
-            p["source_id"] = source["id"]
-            p["source_label"] = source["label"]
-            p["source_url"] = source["url"]
+            products = scrape_html(source)
         print(f"  {source['label']}: {len(products)} Produkte", file=sys.stderr)
         return products
     except URLError as e:
@@ -259,12 +234,31 @@ def scrape_source(source):
         return []
 
 
+def deduplicate(products):
+    seen_urls = set()
+    seen_titles = set()
+    result = []
+    for p in products:
+        url = p["url"].rstrip("/").split("?")[0]
+        title = p["title"].strip().lower()
+        if url not in seen_urls and title not in seen_titles:
+            seen_urls.add(url)
+            seen_titles.add(title)
+            result.append(p)
+    return result
+
+
 def main():
     print("Scraping gestartet...", file=sys.stderr)
     all_products = []
     for source in SOURCES:
-        products = scrape_source(source)
-        all_products.extend(products)
+        all_products.extend(scrape_source(source))
+
+    before = len(all_products)
+    all_products = deduplicate(all_products)
+    dupes = before - len(all_products)
+    if dupes:
+        print(f"  Duplikate entfernt: {dupes}", file=sys.stderr)
 
     data = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
