@@ -1,9 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Film-Neuheiten</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23e50914'/%3E%3Ctext x='16' y='23' text-anchor='middle' font-size='20' font-family='system-ui'>🎬%3C/text%3E%3C/svg%3E">
   <style>
     :root {
       --bg: #0e0e0e;
@@ -11,210 +13,125 @@
       --surface2: #252525;
       --border: #2e2e2e;
       --accent: #e50914;
-      --accent2: #ff6b35;
       --text: #f0f0f0;
       --muted: #888;
+      --green: #16a34a;
       --radius: 10px;
     }
-
     * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; min-height: 100vh; }
 
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      min-height: 100vh;
-    }
-
+    /* ── HEADER ── */
     header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 16px 20px;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      flex-wrap: wrap;
+      padding: 13px 20px;
+      position: sticky; top: 0; z-index: 100;
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
     }
-
-    header h1 {
-      font-size: 1.2rem;
-      font-weight: 700;
-      letter-spacing: -0.3px;
-      flex: 1;
-      min-width: 160px;
-    }
-
-    header h1 span {
-      color: var(--accent);
-    }
-
-    #updated {
-      font-size: 0.75rem;
-      color: var(--muted);
-      white-space: nowrap;
-    }
-
+    header h1 { font-size: 1.15rem; font-weight: 700; flex: 1; min-width: 130px; }
+    header h1 span { color: var(--accent); }
+    #updated { font-size: 0.75rem; color: var(--muted); white-space: nowrap; }
     #search {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      color: var(--text);
-      font-size: 0.9rem;
-      padding: 7px 12px;
-      width: 220px;
-      outline: none;
-      transition: border-color 0.15s;
+      background: var(--surface2); border: 1px solid var(--border);
+      border-radius: 8px; color: var(--text); font-size: 0.9rem;
+      padding: 7px 12px; width: 190px; outline: none; transition: border-color 0.15s;
     }
     #search:focus { border-color: var(--accent); }
     #search::placeholder { color: var(--muted); }
 
-    #filters {
-      padding: 14px 20px 10px;
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
+    /* ── FILTER ROWS ── */
+    .filter-row {
+      padding: 10px 20px 8px;
+      display: flex; gap: 7px; flex-wrap: wrap;
       border-bottom: 1px solid var(--border);
     }
-
-    .filter-btn {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      color: var(--muted);
-      cursor: pointer;
-      font-size: 0.8rem;
-      padding: 5px 13px;
-      transition: all 0.15s;
-      white-space: nowrap;
+    .chip {
+      background: var(--surface2); border: 1px solid var(--border);
+      border-radius: 20px; color: var(--muted); cursor: pointer;
+      font-size: 0.78rem; padding: 4px 12px;
+      transition: all 0.15s; white-space: nowrap; user-select: none;
     }
-    .filter-btn:hover { border-color: var(--accent); color: var(--text); }
-    .filter-btn.active {
-      background: var(--accent);
-      border-color: var(--accent);
-      color: #fff;
-      font-weight: 600;
-    }
+    .chip:hover { border-color: #555; color: var(--text); }
+    .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+    .chip.green.active { background: var(--green); border-color: var(--green); }
+    .chip.fav-chip.active { background: #be185d; border-color: #be185d; }
 
-    #stats {
-      padding: 10px 20px;
-      font-size: 0.78rem;
-      color: var(--muted);
+    #mark-seen-btn {
+      margin-left: auto; background: transparent; border: 1px solid var(--border);
+      border-radius: 20px; color: var(--muted); cursor: pointer;
+      font-size: 0.75rem; padding: 4px 11px; transition: all 0.15s; white-space: nowrap;
     }
+    #mark-seen-btn:hover { border-color: var(--green); color: var(--green); }
+    #mark-seen-btn:disabled { opacity: 0.3; cursor: default; }
 
+    #stats { padding: 8px 20px; font-size: 0.78rem; color: var(--muted); }
+
+    /* ── GRID ── */
     #grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-      gap: 14px;
-      padding: 14px 20px 40px;
+      grid-template-columns: repeat(auto-fill, minmax(155px, 1fr));
+      gap: 13px; padding: 13px 20px 40px;
     }
-
-    @media (min-width: 640px) {
-      #grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
-    }
+    @media (min-width: 640px) { #grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); } }
 
     .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      overflow: hidden;
-      text-decoration: none;
-      color: inherit;
-      display: flex;
-      flex-direction: column;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); overflow: visible;
+      text-decoration: none; color: inherit;
+      display: flex; flex-direction: column;
       transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
-    }
-    .card:hover {
-      transform: translateY(-3px);
-      border-color: var(--accent);
-      box-shadow: 0 6px 24px rgba(229,9,20,0.18);
-    }
-
-    .card-img {
-      aspect-ratio: 2/3;
-      background: var(--surface2);
-      overflow: hidden;
       position: relative;
     }
-    .card-img img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-      transition: opacity 0.2s;
+    .card-inner { border-radius: var(--radius); overflow: hidden; flex: 1; display: flex; flex-direction: column; }
+    .card:hover { transform: translateY(-3px); border-color: var(--accent); box-shadow: 0 6px 24px rgba(229,9,20,0.18); }
+    .card.is-new { border-color: var(--green); }
+    .card.is-new:hover { border-color: #22c55e; box-shadow: 0 6px 24px rgba(34,197,94,0.18); }
+
+    .new-badge {
+      position: absolute; top: 8px; left: 8px;
+      background: var(--green); color: #fff;
+      font-size: 0.62rem; font-weight: 700; letter-spacing: 0.5px;
+      padding: 2px 6px; border-radius: 4px; z-index: 3; text-transform: uppercase;
     }
-    .card-img img.loading { opacity: 0; }
+
+    /* heart button */
+    .fav-btn {
+      position: absolute; top: 6px; right: 6px; z-index: 3;
+      background: rgba(0,0,0,0.55); border: none; border-radius: 50%;
+      width: 30px; height: 30px; cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.95rem; transition: transform 0.15s, background 0.15s;
+      backdrop-filter: blur(4px);
+    }
+    .fav-btn:hover { transform: scale(1.15); background: rgba(0,0,0,0.8); }
+    .fav-btn.active { background: rgba(190,24,93,0.85); }
+
+    .card-img { aspect-ratio: 2/3; background: var(--surface2); overflow: hidden; }
+    .card-img img { width: 100%; height: 100%; object-fit: cover; display: block; opacity: 0; transition: opacity 0.2s; }
     .card-img img.loaded { opacity: 1; }
+    .no-img { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: var(--border); }
 
-    .no-img {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 2.5rem;
-      color: var(--border);
+    .card-body { padding: 9px 10px 11px; flex: 1; display: flex; flex-direction: column; gap: 5px; }
+    .card-title { font-size: 0.81rem; font-weight: 600; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .card-meta { display: flex; align-items: center; gap: 5px; margin-top: auto; flex-wrap: wrap; }
+    .card-source { font-size: 0.68rem; color: var(--muted); }
+    .source-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+    .format-tag {
+      font-size: 0.62rem; font-weight: 700; letter-spacing: 0.3px;
+      padding: 1px 5px; border-radius: 3px; text-transform: uppercase; margin-left: auto;
     }
-
-    .card-body {
-      padding: 10px 10px 12px;
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .card-title {
-      font-size: 0.82rem;
-      font-weight: 600;
-      line-height: 1.35;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-
-    .card-source {
-      font-size: 0.7rem;
-      color: var(--muted);
-      margin-top: auto;
-    }
-
-    .source-dot {
-      display: inline-block;
-      width: 7px;
-      height: 7px;
-      border-radius: 50%;
-      margin-right: 5px;
-      vertical-align: middle;
-    }
+    .fmt-4k   { background: #1e3a5f; color: #60a5fa; }
+    .fmt-bluray { background: #1e3a5f; color: #93c5fd; }
+    .fmt-dvd  { background: #2d1b1b; color: #f87171; }
+    .fmt-other { background: var(--surface2); color: var(--muted); }
 
     #empty {
-      display: none;
-      text-align: center;
-      padding: 60px 20px;
-      color: var(--muted);
+      display: none; text-align: center;
+      padding: 60px 20px; color: var(--muted); line-height: 1.8;
     }
-
-    #loading {
-      text-align: center;
-      padding: 80px 20px;
-      color: var(--muted);
-      font-size: 0.95rem;
-    }
-
-    .spinner {
-      display: inline-block;
-      width: 28px;
-      height: 28px;
-      border: 3px solid var(--border);
-      border-top-color: var(--accent);
-      border-radius: 50%;
-      animation: spin 0.7s linear infinite;
-      margin-bottom: 12px;
-    }
+    #loading { text-align: center; padding: 80px 20px; color: var(--muted); }
+    .spinner { display: inline-block; width: 28px; height: 28px; border: 3px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.7s linear infinite; margin-bottom: 12px; }
     @keyframes spin { to { transform: rotate(360deg); } }
   </style>
 </head>
@@ -226,143 +143,215 @@
   <input id="search" type="search" placeholder="Suchen…" autocomplete="off">
 </header>
 
-<div id="filters"></div>
-<div id="stats"></div>
-
-<div id="loading">
-  <div class="spinner"></div><br>Lade Daten…
+<!-- View + Neu -->
+<div class="filter-row">
+  <button class="chip green active" data-view="new" onclick="setView('new')">🟢 Neu (<span id="new-count">…</span>)</button>
+  <button class="chip" data-view="all" onclick="setView('all')">Alle</button>
+  <button class="chip fav-chip" data-view="fav" onclick="setView('fav')">❤️ Favoriten (<span id="fav-count">0</span>)</button>
+  <button id="mark-seen-btn" onclick="markAllSeen()" disabled>✓ Als gesehen markieren</button>
 </div>
 
+<!-- Format filter -->
+<div class="filter-row" id="format-filters">
+  <button class="chip active" data-fmt="all" onclick="setFormat('all')">Alle Formate</button>
+  <button class="chip" data-fmt="4k" onclick="setFormat('4k')">4K UHD</button>
+  <button class="chip" data-fmt="bluray" onclick="setFormat('bluray')">Blu-ray</button>
+  <button class="chip" data-fmt="dvd" onclick="setFormat('dvd')">DVD</button>
+</div>
+
+<!-- Shop filter -->
+<div class="filter-row" id="shop-filters"></div>
+
+<div id="stats"></div>
+<div id="loading"><div class="spinner"></div><br>Lade Daten…</div>
 <div id="grid"></div>
-<div id="empty">Keine Treffer gefunden.</div>
+<div id="empty"></div>
 
 <script>
-const SOURCE_COLORS = {
-  leonine:  "#e50914",
-  capelight:"#0078d7",
-  eykmedia: "#ff6b35",
-  plaion:   "#7c3aed",
-};
-
+const SOURCE_COLORS = { leonine:"#e50914", capelight:"#0078d7", eykmedia:"#ff6b35", plaion:"#7c3aed" };
 function sourceColor(id) {
-  for (const [key, color] of Object.entries(SOURCE_COLORS)) {
-    if (id.startsWith(key)) return color;
-  }
+  for (const [k,c] of Object.entries(SOURCE_COLORS)) if (id.startsWith(k)) return c;
   return "#888";
 }
 
-let allProducts = [];
-let activeFilter = "all";
-let searchQuery = "";
+// ── Format detection ──
+function detectFormat(title) {
+  const t = title.toUpperCase();
+  if (t.includes("4K") || t.includes("UHD")) return "4k";
+  if (t.includes("BLU-RAY") || t.includes("BLU RAY") || t.includes("BLURAY") || t.includes("BD")) return "bluray";
+  if (t.includes("DVD")) return "dvd";
+  return "other";
+}
+const FORMAT_LABELS = { "4k": "4K UHD", bluray: "Blu-ray", dvd: "DVD", other: "" };
+const FORMAT_CLASSES = { "4k": "fmt-4k", bluray: "fmt-bluray", dvd: "fmt-dvd", other: "fmt-other" };
 
+// ── Persistence ──
+const SEEN_KEY = "fneu_seen";
+const FAV_KEY  = "fneu_fav";
+function getSeen() { try { return new Set(JSON.parse(localStorage.getItem(SEEN_KEY)||"[]")); } catch { return new Set(); } }
+function getFavs() { try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY)||"[]")); } catch { return new Set(); } }
+function saveSeen(s) { localStorage.setItem(SEEN_KEY, JSON.stringify([...s])); }
+function saveFavs(s) { localStorage.setItem(FAV_KEY,  JSON.stringify([...s])); }
+
+let allProducts = [], seenUrls = getSeen(), favUrls = getFavs();
+let activeView = "new", activeFormat = "all", activeShop = "all", searchQuery = "";
+
+// ── Load ──
 async function loadData() {
   const resp = await fetch("data.json?_=" + Date.now());
   const data = await resp.json();
   document.getElementById("loading").style.display = "none";
-
   if (data.updated) {
     const d = new Date(data.updated);
     document.getElementById("updated").textContent =
-      "Stand: " + d.toLocaleDateString("de-DE") + " " +
-      d.toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" });
+      "Stand: " + d.toLocaleDateString("de-DE") + " " + d.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"});
   }
-
   allProducts = data.products || [];
-  buildFilters();
+  allProducts.forEach(p => p._fmt = detectFormat(p.title));
+
+  // First visit: silently mark all as seen
+  if (seenUrls.size === 0 && allProducts.length > 0) {
+    seenUrls = new Set(allProducts.map(p=>p.url));
+    saveSeen(seenUrls);
+  }
+  buildShopFilters();
+  updateCounts();
   render();
 }
 
-function buildFilters() {
+function newProducts() { return allProducts.filter(p => !seenUrls.has(p.url)); }
+function updateCounts() {
+  document.getElementById("new-count").textContent = newProducts().length;
+  document.getElementById("fav-count").textContent = favUrls.size;
+  document.getElementById("mark-seen-btn").disabled = newProducts().length === 0;
+}
+function markAllSeen() {
+  allProducts.forEach(p => seenUrls.add(p.url));
+  saveSeen(seenUrls); updateCounts(); render();
+}
+
+// ── Shop filter ──
+function buildShopFilters() {
   const sources = {};
-  for (const p of allProducts) {
-    if (!sources[p.source_id]) sources[p.source_id] = { label: p.source_label, count: 0 };
-    sources[p.source_id].count++;
-  }
-
-  const container = document.getElementById("filters");
-  container.innerHTML = "";
-
-  const all = document.createElement("button");
-  all.className = "filter-btn active";
-  all.dataset.filter = "all";
-  all.textContent = `Alle (${allProducts.length})`;
-  all.onclick = () => setFilter("all");
-  container.appendChild(all);
-
-  for (const [id, { label, count }] of Object.entries(sources)) {
-    const btn = document.createElement("button");
-    btn.className = "filter-btn";
-    btn.dataset.filter = id;
-    const dot = `<span class="source-dot" style="background:${sourceColor(id)}"></span>`;
-    btn.innerHTML = dot + label.replace("– ", "") + ` (${count})`;
-    btn.onclick = () => setFilter(id);
-    container.appendChild(btn);
+  allProducts.forEach(p => { if (!sources[p.source_id]) sources[p.source_id]={label:p.source_label,count:0}; sources[p.source_id].count++; });
+  const c = document.getElementById("shop-filters");
+  c.innerHTML = "";
+  const all = btn("all", `Alle Shops (${allProducts.length})`, true, () => setShop("all"));
+  c.appendChild(all);
+  for (const [id,{label,count}] of Object.entries(sources)) {
+    const b = btn(id, `<span class="source-dot" style="background:${sourceColor(id)}"></span>${label.replace("– ","")} (${count})`, false, () => setShop(id));
+    b.dataset.shop = id;
+    c.appendChild(b);
   }
 }
+function btn(id, html, active, onclick) {
+  const b = document.createElement("button");
+  b.className = "chip" + (active ? " active" : "");
+  b.dataset.shop = id;
+  b.innerHTML = html;
+  b.onclick = onclick;
+  return b;
+}
 
-function setFilter(id) {
-  activeFilter = id;
-  document.querySelectorAll(".filter-btn").forEach(b => {
-    b.classList.toggle("active", b.dataset.filter === id);
-  });
+// ── Setters ──
+function setView(v) {
+  activeView = v;
+  document.querySelectorAll("[data-view]").forEach(b => b.classList.toggle("active", b.dataset.view===v));
+  render();
+}
+function setFormat(f) {
+  activeFormat = f;
+  document.querySelectorAll("[data-fmt]").forEach(b => b.classList.toggle("active", b.dataset.fmt===f));
+  render();
+}
+function setShop(id) {
+  activeShop = id;
+  document.querySelectorAll("[data-shop]").forEach(b => b.classList.toggle("active", b.dataset.shop===id));
   render();
 }
 
+// ── Favorites ──
+function toggleFav(url, btn, e) {
+  e.preventDefault(); e.stopPropagation();
+  if (favUrls.has(url)) { favUrls.delete(url); btn.classList.remove("active"); btn.textContent = "🤍"; }
+  else                  { favUrls.add(url);    btn.classList.add("active");    btn.textContent = "❤️"; }
+  saveFavs(favUrls);
+  updateCounts();
+  if (activeView === "fav") render();
+}
+
+// ── Render ──
 function render() {
   const q = searchQuery.toLowerCase();
-  const filtered = allProducts.filter(p => {
-    const matchFilter = activeFilter === "all" || p.source_id === activeFilter;
-    const matchSearch = !q || p.title.toLowerCase().includes(q) || p.source_label.toLowerCase().includes(q);
-    return matchFilter && matchSearch;
+  let pool = activeView === "new" ? newProducts()
+           : activeView === "fav" ? allProducts.filter(p => favUrls.has(p.url))
+           : allProducts;
+
+  const filtered = pool.filter(p => {
+    const mShop = activeShop === "all" || p.source_id === activeShop;
+    const mFmt  = activeFormat === "all" || p._fmt === activeFormat;
+    const mQ    = !q || p.title.toLowerCase().includes(q) || p.source_label.toLowerCase().includes(q);
+    return mShop && mFmt && mQ;
   });
 
-  document.getElementById("stats").textContent =
-    filtered.length + " von " + allProducts.length + " Titeln";
+  const viewLabel = activeView === "new" ? "neue Titel" : activeView === "fav" ? "Favoriten" : "Titel";
+  document.getElementById("stats").textContent = filtered.length + " " + viewLabel;
 
   const grid = document.getElementById("grid");
   grid.innerHTML = "";
-  document.getElementById("empty").style.display = filtered.length ? "none" : "block";
+  const emptyEl = document.getElementById("empty");
+
+  if (filtered.length === 0) {
+    emptyEl.style.display = "block";
+    emptyEl.innerHTML = activeView === "new"
+      ? "Keine neuen Titel seit deinem letzten Besuch.<br><small style='color:var(--muted)'>Schau später nochmal rein!</small>"
+      : activeView === "fav"
+      ? "Noch keine Favoriten.<br><small style='color:var(--muted)'>Drück auf 🤍 bei einem Film!</small>"
+      : "Keine Treffer gefunden.";
+    return;
+  }
+  emptyEl.style.display = "none";
 
   for (const p of filtered) {
-    const a = document.createElement("a");
-    a.className = "card";
-    a.href = p.url;
-    a.target = "_blank";
-    a.rel = "noopener";
+    const isNew = !seenUrls.has(p.url);
+    const isFav = favUrls.has(p.url);
 
-    let imgHtml;
-    if (p.image) {
-      imgHtml = `<div class="card-img">
-        <img class="loading" src="${p.image}" alt="" loading="lazy"
-          onload="this.classList.replace('loading','loaded')"
-          onerror="this.parentElement.innerHTML='<div class=\\'no-img\\'>🎬</div>'">
-      </div>`;
-    } else {
-      imgHtml = `<div class="card-img"><div class="no-img">🎬</div></div>`;
-    }
+    const card = document.createElement("a");
+    card.className = "card" + (isNew ? " is-new" : "");
+    card.href = p.url; card.target = "_blank"; card.rel = "noopener";
 
-    const color = sourceColor(p.source_id);
-    a.innerHTML = imgHtml + `
-      <div class="card-body">
+    const favBtn = document.createElement("button");
+    favBtn.className = "fav-btn" + (isFav ? " active" : "");
+    favBtn.textContent = isFav ? "❤️" : "🤍";
+    favBtn.title = isFav ? "Aus Favoriten entfernen" : "Zu Favoriten hinzufügen";
+    favBtn.onclick = (e) => toggleFav(p.url, favBtn, e);
+
+    const inner = document.createElement("div");
+    inner.className = "card-inner";
+
+    const fmtLabel = FORMAT_LABELS[p._fmt];
+    const fmtTag = fmtLabel ? `<span class="format-tag ${FORMAT_CLASSES[p._fmt]}">${fmtLabel}</span>` : "";
+
+    inner.innerHTML = (isNew ? `<div class="new-badge">Neu</div>` : "") +
+      (p.image
+        ? `<div class="card-img"><img src="${p.image}" alt="" loading="lazy" onload="this.classList.add('loaded')" onerror="this.parentElement.innerHTML='<div class=\\'no-img\\'>🎬</div>'"></div>`
+        : `<div class="card-img"><div class="no-img">🎬</div></div>`) +
+      `<div class="card-body">
         <div class="card-title">${p.title}</div>
-        <div class="card-source">
-          <span class="source-dot" style="background:${color}"></span>${p.source_label}
+        <div class="card-meta">
+          <div class="card-source"><span class="source-dot" style="background:${sourceColor(p.source_id)}"></span>${p.source_label}</div>
+          ${fmtTag}
         </div>
       </div>`;
 
-    grid.appendChild(a);
+    card.appendChild(favBtn);
+    card.appendChild(inner);
+    grid.appendChild(card);
   }
 }
 
-document.getElementById("search").addEventListener("input", e => {
-  searchQuery = e.target.value;
-  render();
-});
-
-loadData().catch(() => {
-  document.getElementById("loading").innerHTML =
-    "⚠️ Fehler beim Laden. Bitte Seite neu laden.";
-});
+document.getElementById("search").addEventListener("input", e => { searchQuery = e.target.value; render(); });
+loadData().catch(() => { document.getElementById("loading").innerHTML = "⚠️ Fehler beim Laden."; });
 </script>
 </body>
 </html>
