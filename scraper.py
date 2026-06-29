@@ -90,21 +90,28 @@ def fetch(url):
 
 
 def scrape_shopify_api(source):
-    data = json.loads(fetch(source["api"]))
     products = []
-    for p in data.get("products", []):
-        url = source["base"] + "/products/" + p["handle"]
-        image = ""
-        if p.get("images"):
-            image = p["images"][0]["src"]
-        products.append({
-            "title": p["title"],
-            "url": url,
-            "image": image,
-            "source_id": source["id"],
-            "source_label": source["label"],
-            "source_url": source["url"],
-        })
+    page = 1
+    while True:
+        url = source["api"] + f"&page={page}"
+        data = json.loads(fetch(url))
+        batch = data.get("products", [])
+        if not batch:
+            break
+        for p in batch:
+            product_url = source["base"] + "/products/" + p["handle"]
+            image = p["images"][0]["src"] if p.get("images") else ""
+            products.append({
+                "title": p["title"],
+                "url": product_url,
+                "image": image,
+                "source_id": source["id"],
+                "source_label": source["label"],
+                "source_url": source["url"],
+            })
+        if len(batch) < 250:
+            break
+        page += 1
     return products
 
 
@@ -200,22 +207,50 @@ class PlaionParser(HTMLParser):
             self._current_title = (self._current_title or "") + data
 
 
+def get_plaion_total(html):
+    """Extract total product count from 'werden 20 von 130 Produkten angezeigt'."""
+    m = re.search(r"von\s+(\d+)\s+Produkten\s+angezeigt", html, re.IGNORECASE)
+    return int(m.group(1)) if m else None
+
+
 def scrape_html(source):
-    html = fetch(source["url"])
-    if source["type"] == "capelight":
-        parser = CapelightParser(source["base"])
-    elif source["type"] == "plaion":
+    products = []
+    if source["type"] == "plaion":
+        # Fetch page 1, detect total, then paginate
+        html = fetch(source["url"])
         parser = PlaionParser(source["base"])
+        parser.feed(html)
+        products.extend(parser.products)
+
+        total = get_plaion_total(html)
+        per_page = 20
+        if total and total > per_page:
+            import math
+            num_pages = math.ceil(total / per_page)
+            for page in range(2, num_pages + 1):
+                paged_url = source["url"].rstrip("/") + f"/?p={page}"
+                try:
+                    html = fetch(paged_url)
+                    p2 = PlaionParser(source["base"])
+                    p2.feed(html)
+                    products.extend(p2.products)
+                except Exception as e:
+                    print(f"    Seite {page} Fehler: {e}", file=sys.stderr)
+    elif source["type"] == "capelight":
+        html = fetch(source["url"])
+        parser = CapelightParser(source["base"])
+        parser.feed(html)
+        products.extend(parser.products)
     else:
         return []
-    parser.feed(html)
-    products = []
-    for p in parser.products:
+
+    result = []
+    for p in products:
         p["source_id"] = source["id"]
         p["source_label"] = source["label"]
         p["source_url"] = source["url"]
-        products.append(p)
-    return products
+        result.append(p)
+    return result
 
 
 def scrape_source(source):
