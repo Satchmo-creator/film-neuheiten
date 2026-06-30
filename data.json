@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T12:09:26Z",
+  "updated": "2026-06-30T14:38:21Z",
   "count": 903,
   "products": [
     {
@@ -5293,6 +5293,16 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "EPiC: Elvis Presley in Concert (DVD)",
+      "url": "https://shop.plaionpictures.com/epic-elvis-presley-in-concert-dvd",
+      "image": "https://shop.plaionpictures.com/media/db/c9/40/1774534896/1202293_%281%29.webp?ts=1774534896",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Eraser (Steelbook, 4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/eraser-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/83/d1/e7/1781589705/ERASER_4K-Steelbook_2D_JC.webp?ts=1781589705",
@@ -5386,16 +5396,6 @@
       "title": "EPiC: Elvis Presley in Concert (Blu-ray)",
       "url": "https://shop.plaionpictures.com/epic-elvis-presley-in-concert-blu-ray",
       "image": "https://shop.plaionpictures.com/media/35/b7/e4/1774534948/1202294_%281%29.webp?ts=1774534948",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "EPiC: Elvis Presley in Concert (DVD)",
-      "url": "https://shop.plaionpictures.com/epic-elvis-presley-in-concert-dvd",
-      "image": "https://shop.plaionpictures.com/media/db/c9/40/1774534896/1202293_%281%29.webp?ts=1774534896",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
