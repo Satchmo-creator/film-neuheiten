@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-30T17:54:11Z",
-  "count": 907,
+  "updated": "2026-06-30T19:58:45Z",
+  "count": 909,
   "products": [
+    {
+      "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/star-trek-08-der-erste-kontakt-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573297501jpg-202225.jpg?v=1782842148",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Auslöschung Blu-ray Lim. Steelbook (exkl. LEONINE Shop)",
+      "url": "https://shop.leoninestudios.com/products/ausl-schung-blu-ray-lim-steelbook-exkl-leonine-shop",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573304001jpg-202393.jpg?v=1782842448",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Der Teufel trägt Prada 2-Movie-Collection",
       "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-movie-collection",
