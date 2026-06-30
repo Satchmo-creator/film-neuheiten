@@ -1,4 +1,5 @@
 import json
+import math
 import re
 import sys
 from datetime import datetime, timezone
@@ -89,6 +90,22 @@ def fetch(url):
         return r.read().decode("utf-8", errors="replace")
 
 
+def extract_date_from_html(html):
+    """Find a German date pattern DD.MM.YYYY in HTML."""
+    m = re.search(r"\b(\d{2}\.\d{2}\.\d{4})\b", html)
+    return m.group(1) if m else ""
+
+
+def format_price(raw):
+    """Turn '39.99' into '39,99 €'."""
+    if not raw:
+        return ""
+    try:
+        return f"{float(raw):,.2f} €".replace(",", "X").replace(".", ",").replace("X", ".")
+    except ValueError:
+        return ""
+
+
 def scrape_shopify_api(source):
     products = []
     page = 1
@@ -101,10 +118,20 @@ def scrape_shopify_api(source):
         for p in batch:
             product_url = source["base"] + "/products/" + p["handle"]
             image = p["images"][0]["src"] if p.get("images") else ""
+
+            price = ""
+            if p.get("variants"):
+                price = format_price(p["variants"][0].get("price", ""))
+
+            # Try to find a release date in the product description
+            release_date = extract_date_from_html(p.get("body_html", ""))
+
             products.append({
                 "title": p["title"],
                 "url": product_url,
                 "image": image,
+                "price": price,
+                "release_date": release_date,
                 "source_id": source["id"],
                 "source_label": source["label"],
                 "source_url": source["url"],
@@ -115,47 +142,57 @@ def scrape_shopify_api(source):
     return products
 
 
-class CapelightParser(HTMLParser):
-    def __init__(self, base):
-        super().__init__()
-        self.base = base
-        self.products = []
-        self._current_link = None
-        self._current_title = None
-        self._current_img = None
-        self._in_link = False
-        self._last_img = None
+def scrape_capelight(source):
+    """Regex-based scraper for shop.capelight.de."""
+    html = fetch(source["url"])
+    products = []
 
-    def handle_starttag(self, tag, attrs):
-        attrs = dict(attrs)
-        if tag == "img":
-            src = attrs.get("src", "")
-            if "media" in src:
-                self._last_img = src
-        elif tag == "a":
-            href = attrs.get("href", "")
-            if re.search(r"/\d{6,}$", href):
-                self._current_link = self.base + href if href.startswith("/") else href
-                self._current_title = ""
-                self._current_img = self._last_img
-                self._in_link = True
+    # Split HTML into per-product blocks using the product-box div as boundary
+    blocks = re.split(r'(?=<div[^>]+class="[^"]*product-box[^"]*")', html)
 
-    def handle_endtag(self, tag):
-        if tag == "a" and self._in_link:
-            self._in_link = False
-            title = (self._current_title or "").strip()
-            if self._current_link and title:
-                self.products.append({
-                    "title": title,
-                    "url": self._current_link,
-                    "image": self._current_img or "",
-                })
-            self._current_link = None
-            self._current_title = None
+    for block in blocks:
+        # Product link with numeric ID at end (absolute URL)
+        m_link = re.search(
+            r'<a\s[^>]*href="(https://shop\.capelight\.de/[^"]+/\d{6,})"[^>]*>\s*(.*?)\s*</a>',
+            block, re.DOTALL
+        )
+        if not m_link:
+            continue
+        url = m_link.group(1)
+        title = re.sub(r"<[^>]+>", "", m_link.group(2)).strip()
+        if not title or len(title) < 3:
+            continue
 
-    def handle_data(self, data):
-        if self._in_link:
-            self._current_title = (self._current_title or "") + data
+        # Image
+        img = ""
+        m_img = re.search(r'<img[^>]+src="(https://shop\.capelight\.de/media/[^"?]+)"', block)
+        if m_img:
+            img = m_img.group(1)
+
+        # Price from <span class="product-price">14,99 €</span>
+        price = ""
+        m_price = re.search(r'class="product-price"[^>]*>\s*([\d]+,[\d]{2})\s*€', block)
+        if m_price:
+            price = format_price(m_price.group(1).replace(",", "."))
+
+        # Release date from <b>Erscheinungsdatum:</b> DD.MM.YYYY
+        release_date = ""
+        m_date = re.search(r"Erscheinungsdatum.*?(\d{2}\.\d{2}\.\d{4})", block, re.DOTALL)
+        if m_date:
+            release_date = m_date.group(1)
+
+        products.append({
+            "title": title,
+            "url": url,
+            "image": img,
+            "price": price,
+            "release_date": release_date,
+            "source_id": source["id"],
+            "source_label": source["label"],
+            "source_url": source["url"],
+        })
+
+    return products
 
 
 class PlaionParser(HTMLParser):
@@ -166,8 +203,11 @@ class PlaionParser(HTMLParser):
         self._current_link = None
         self._current_title = None
         self._current_img = None
+        self._current_price = ""
         self._in_link = False
         self._last_img = None
+        self._in_price = False
+        self._price_text = ""
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
@@ -185,10 +225,22 @@ class PlaionParser(HTMLParser):
                     self._current_link = self.base + href
                     self._current_title = ""
                     self._current_img = self._last_img
+                    self._current_price = ""
                     self._in_link = True
+        elif tag in ("span", "strong", "p") and self._current_link:
+            self._in_price = True
+            self._price_text = ""
 
     def handle_endtag(self, tag):
-        if tag == "a" and self._in_link:
+        if tag in ("span", "strong", "p") and self._in_price:
+            self._in_price = False
+            t = self._price_text.strip()
+            if "Preis" in t or "€" in t:
+                m = re.search(r"([\d]+[,.][\d]{2})\s*€", t)
+                if m and not self._current_price:
+                    raw = m.group(1).replace(",", ".")
+                    self._current_price = format_price(raw)
+        elif tag == "a" and self._in_link:
             self._in_link = False
             title = (self._current_title or "").strip()
             if self._current_link and title and len(title) > 3:
@@ -198,17 +250,20 @@ class PlaionParser(HTMLParser):
                         "title": title,
                         "url": self._current_link,
                         "image": self._current_img or "",
+                        "price": self._current_price,
+                        "release_date": "",
                     })
             self._current_link = None
             self._current_title = None
 
     def handle_data(self, data):
-        if self._in_link:
+        if self._in_link and not self._in_price:
             self._current_title = (self._current_title or "") + data
+        elif self._in_price:
+            self._price_text += data
 
 
 def get_plaion_total(html):
-    """Extract total product count from 'werden 20 von 130 Produkten angezeigt'."""
     m = re.search(r"von\s+(\d+)\s+Produkten\s+angezeigt", html, re.IGNORECASE)
     return int(m.group(1)) if m else None
 
@@ -216,7 +271,6 @@ def get_plaion_total(html):
 def scrape_html(source):
     products = []
     if source["type"] == "plaion":
-        # Fetch page 1, detect total, then paginate
         html = fetch(source["url"])
         parser = PlaionParser(source["base"])
         parser.feed(html)
@@ -225,7 +279,6 @@ def scrape_html(source):
         total = get_plaion_total(html)
         per_page = 20
         if total and total > per_page:
-            import math
             num_pages = math.ceil(total / per_page)
             for page in range(2, num_pages + 1):
                 paged_url = source["url"].rstrip("/") + f"/?p={page}"
@@ -236,11 +289,6 @@ def scrape_html(source):
                     products.extend(p2.products)
                 except Exception as e:
                     print(f"    Seite {page} Fehler: {e}", file=sys.stderr)
-    elif source["type"] == "capelight":
-        html = fetch(source["url"])
-        parser = CapelightParser(source["base"])
-        parser.feed(html)
-        products.extend(parser.products)
     else:
         return []
 
@@ -257,6 +305,8 @@ def scrape_source(source):
     try:
         if source["type"] == "shopify_api":
             products = scrape_shopify_api(source)
+        elif source["type"] == "capelight":
+            products = scrape_capelight(source)
         else:
             products = scrape_html(source)
         print(f"  {source['label']}: {len(products)} Produkte", file=sys.stderr)
