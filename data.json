@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-30T15:28:25Z",
-  "count": 903,
+  "updated": "2026-06-30T17:54:11Z",
+  "count": 907,
   "products": [
+    {
+      "title": "Der Teufel trägt Prada 2-Movie-Collection",
+      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-movie-collection",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969295301jpg-202057.jpg?v=1782841093",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Der Teufel trägt Prada 2 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969299101jpg-201553.jpg?v=1782840720",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Der Teufel trägt Prada 2 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969291501jpg-201721.jpg?v=1782840730",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Der Teufel trägt Prada 2",
+      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969290801jpg-201889.jpg?v=1782841083",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Hamilton 4K UHD + Blu-ray Collector's Edition",
       "url": "https://shop.leoninestudios.com/products/hamilton-4k-uhd-blu-ray-collector-s-edition",
