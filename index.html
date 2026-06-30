@@ -1,4 +1,6 @@
+Hier ist der komplette Code – einfach alles kopieren:
 
+```html
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -117,6 +119,9 @@
     .card-meta { display: flex; align-items: center; gap: 5px; margin-top: auto; flex-wrap: wrap; }
     .card-source { font-size: 0.68rem; color: var(--muted); }
     .source-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+    .card-price { font-size: 0.8rem; font-weight: 700; color: var(--text); margin-top: 4px; }
+    .card-date { font-size: 0.7rem; color: var(--muted); margin-top: 2px; }
+    .card-date span { color: #facc15; }
     .format-tag {
       font-size: 0.62rem; font-weight: 700; letter-spacing: 0.3px;
       padding: 1px 5px; border-radius: 3px; text-transform: uppercase; margin-left: auto;
@@ -331,6 +336,8 @@ function render() {
 
     const fmtLabel = FORMAT_LABELS[p._fmt];
     const fmtTag = fmtLabel ? `<span class="format-tag ${FORMAT_CLASSES[p._fmt]}">${fmtLabel}</span>` : "";
+    const priceHtml = p.price ? `<div class="card-price">${p.price}</div>` : "";
+    const dateHtml = p.release_date ? `<div class="card-date">📅 <span>${p.release_date}</span></div>` : "";
 
     inner.innerHTML = (isNew ? `<div class="new-badge">Neu</div>` : "") +
       (p.image
@@ -338,6 +345,8 @@ function render() {
         : `<div class="card-img"><div class="no-img">🎬</div></div>`) +
       `<div class="card-body">
         <div class="card-title">${p.title}</div>
+        ${priceHtml}
+        ${dateHtml}
         <div class="card-meta">
           <div class="card-source"><span class="source-dot" style="background:${sourceColor(p.source_id)}"></span>${p.source_label}</div>
           ${fmtTag}
@@ -355,3 +364,6 @@ loadData().catch(() => { document.getElementById("loading").innerHTML = "⚠️ 
 </script>
 </body>
 </html>
+```
+
+Alles auf einmal kopieren, auf GitHub in `index.html` einfügen → Commit → **Cmd+Shift+R** auf der Live-Seite!
