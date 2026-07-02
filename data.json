@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T23:16:17Z",
-  "count": 912,
+  "updated": "2026-07-02T03:35:24Z",
+  "count": 913,
   "products": [
     {
       "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
@@ -1276,7 +1276,7 @@
       "title": "Chucky – Die Mörderpuppe - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray) – Cover B",
       "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-Cover-B/6425107",
       "image": "",
-      "price": "39,99 €",
+      "price": "",
       "release_date": "11.06.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -1286,7 +1286,7 @@
       "title": "Das Schweigen der Lämmer - Limitiertes Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Das-Schweigen-der-Laemmer-Limitiertes-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425202",
       "image": "",
-      "price": "39,99 €",
+      "price": "",
       "release_date": "11.06.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -1346,7 +1346,7 @@
       "title": "Geballte Ladung – Double Impact - Limitiertes Mediabook - Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Geballte-Ladung-Double-Impact-Limitiertes-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425385",
       "image": "",
-      "price": "39,99 €",
+      "price": "",
       "release_date": "07.05.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -7536,6 +7536,16 @@
       "title": "The Hidden - Das unsagbar Böse (Mediabook B, Blu-ray+DVD) (Shop exkl.)",
       "url": "https://shop.plaionpictures.com/the-hidden-das-unsagbar-boese-mediabook-b-blu-ray-dvd-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/0a/96/88/1720012009/TheHidden__MB-B__2Da-FSK16.jpg?ts=1720012010",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_exclusives",
+      "source_label": "Plaion Pictures – Exclusives",
+      "source_url": "https://shop.plaionpictures.com/exclusives/"
+    },
+    {
+      "title": "Gefährliche Brandung - Point Break - Limited Mediabook Edition Cover A (4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/gefaehrliche-brandung-point-break-limited-mediabook-edition-cover-a-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/3f/65/40/1717586199/GefaehrlicheBrandung_MB-A_2D-a.jpg?ts=1717586202",
       "price": "",
       "release_date": "",
       "source_id": "plaion_exclusives",
