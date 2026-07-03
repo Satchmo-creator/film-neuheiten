@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T09:59:30Z",
-  "count": 914,
+  "updated": "2026-07-03T12:16:31Z",
+  "count": 918,
   "products": [
     {
       "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
@@ -1296,7 +1296,7 @@
       "title": "Chucky – Die Mörderpuppe - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray) – Cover B",
       "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-Cover-B/6425107",
       "image": "",
-      "price": "",
+      "price": "39,99 €",
       "release_date": "11.06.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -1306,7 +1306,7 @@
       "title": "Das Schweigen der Lämmer - Limitiertes Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Das-Schweigen-der-Laemmer-Limitiertes-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425202",
       "image": "",
-      "price": "",
+      "price": "39,99 €",
       "release_date": "11.06.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -1366,7 +1366,7 @@
       "title": "Geballte Ladung – Double Impact - Limitiertes Mediabook - Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Geballte-Ladung-Double-Impact-Limitiertes-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425385",
       "image": "",
-      "price": "",
+      "price": "39,99 €",
       "release_date": "07.05.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -6193,36 +6193,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Der Astronaut (DVD)",
-      "url": "https://shop.plaionpictures.com/der-astronaut-dvd",
-      "image": "https://shop.plaionpictures.com/media/fe/d1/19/1781705786/1200622.webp?ts=1781705786",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Astronaut (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/der-astronaut-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a8/1c/45/1781706856/1200624_%281%29.webp?ts=1781706856",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Astronaut (4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/der-astronaut-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7a/15/e5/1781706970/1200623.webp?ts=1781706970",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Obsession - Du sollst mich lieben (4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/obsession-du-sollst-mich-lieben-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/97/84/59/1782307341/1207725.webp?ts=1782307341",
@@ -6356,6 +6326,36 @@
       "title": "The Love That Remains (DVD)",
       "url": "https://shop.plaionpictures.com/the-love-that-remains-dvd",
       "image": "https://shop.plaionpictures.com/media/17/00/33/1781707772/1197409.webp?ts=1781707772",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "The Love That Remains - Special Edition (2 Blu-rays)",
+      "url": "https://shop.plaionpictures.com/the-love-that-remains-special-edition-2-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/d7/46/70/1781707837/1197410.webp?ts=1781707837",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Bight - Fesseln der Sünde (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/bight-fesseln-der-suende-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/fa/7c/eb/1782374569/1199795.webp?ts=1782374569",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Bight - Fesseln der Sünde (DVD)",
+      "url": "https://shop.plaionpictures.com/bight-fesseln-der-suende-dvd",
+      "image": "https://shop.plaionpictures.com/media/31/0d/81/1782374424/1199794.webp?ts=1782374424",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6773,6 +6773,36 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Der Astronaut (DVD)",
+      "url": "https://shop.plaionpictures.com/der-astronaut-dvd",
+      "image": "https://shop.plaionpictures.com/media/fe/d1/19/1781705786/1200622.webp?ts=1781705786",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Der Astronaut (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/der-astronaut-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/a8/1c/45/1781706856/1200624_%281%29.webp?ts=1781706856",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Der Astronaut (4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/der-astronaut-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/7a/15/e5/1781706970/1200623.webp?ts=1781706970",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Die Legende des Wüstenkindes (DVD)",
       "url": "https://shop.plaionpictures.com/die-legende-des-wuestenkindes-dvd",
       "image": "https://shop.plaionpictures.com/media/bc/21/95/1779344208/DIE%20LEGENDE%20DES%20WSTENKINDES_DVD_Packshot_2D.webp?ts=1779344208",
@@ -6926,6 +6956,16 @@
       "title": "Ricky Bobby - König der Rennfahrer (Steelbook, 4K-UHD+2 Blu-rays)",
       "url": "https://shop.plaionpictures.com/ricky-bobby-koenig-der-rennfahrer-steelbook-4k-uhd-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/f8/dc/b9/1779954624/1203325.webp?ts=1779954624",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "The Last Starfighter - Sieger über tausend Sonnen (Mediabook, 2 Blu-rays)",
+      "url": "https://shop.plaionpictures.com/the-last-starfighter-sieger-ueber-tausend-sonnen-mediabook-2-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/8d/df/94/1777529827/1119194.webp?ts=1777529827",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
