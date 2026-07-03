@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T06:37:28Z",
-  "count": 917,
+  "updated": "2026-07-03T09:59:30Z",
+  "count": 914,
   "products": [
     {
       "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
@@ -5233,6 +5233,76 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
+      "title": "Der Super Mario Galaxy Film (DVD)",
+      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-dvd",
+      "image": "https://shop.plaionpictures.com/media/4d/4d/78/1774960120/1197568.webp?ts=1774960120",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Super Mario Galaxy Film (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/b1/06/30/1774959971/1197569.webp?ts=1774959971",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Super Mario Galaxy Film (4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/24/17/9e/1774960205/1197570_%281%29.webp?ts=1774960205",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Super Mario Galaxy Film (Yoshi-Ei-Collector's Edition, 4K-UHD+Blu-ray)(Exkl. Shop)",
+      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-yoshi-ei-collector-s-edition-4k-uhd-blu-ray-exkl.-shop",
+      "image": "https://shop.plaionpictures.com/media/fd/4e/49/1774960043/1197572.webp?ts=1774960043",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Super Mario Galaxy Film (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/8a/62/a1/1774960157/1197571.webp?ts=1774960157",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Alpha (DVD)",
+      "url": "https://shop.plaionpictures.com/alpha-dvd",
+      "image": "https://shop.plaionpictures.com/media/9d/a6/57/1774962188/Alpha_DVD_2D.webp?ts=1774962188",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Alpha (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/alpha-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/dc/15/e7/1774962238/Alpha_BD_2D.webp?ts=1774962238",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Crime 101 (4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/crime-101-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/3f/e6/1d/1776259945/1203271.webp?ts=1776259945",
@@ -5343,6 +5413,26 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "PLAION PICTURES",
+      "url": "https://shop.plaionpictures.com/film-neuheiten/",
+      "image": "https://shop.plaionpictures.com/media/6a/2e/67/1774533970/1158949.webp?ts=1774533970",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warner Bros",
+      "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/6a/2e/67/1774533970/1158949.webp?ts=1774533970",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Das Haus am Strand (Blu-ray)",
       "url": "https://shop.plaionpictures.com/das-haus-am-strand-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f6/3d/ac/1774534323/1201999_%281%29.webp?ts=1774534323",
@@ -5405,26 +5495,6 @@
     {
       "title": "Der verkehrte Sherlock Holmes (DVD)",
       "url": "https://shop.plaionpictures.com/der-verkehrte-sherlock-holmes-dvd",
-      "image": "https://shop.plaionpictures.com/media/fa/35/6d/1774534569/1201996_%281%29.webp?ts=1774534569",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "PLAION PICTURES",
-      "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/fa/35/6d/1774534569/1201996_%281%29.webp?ts=1774534569",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Warner Bros",
-      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/fa/35/6d/1774534569/1201996_%281%29.webp?ts=1774534569",
       "price": "",
       "release_date": "",
@@ -6263,6 +6333,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Der Astronaut (Limited-Collectors Edition, 2 4K-UHDs + Blu-ray) (exkl. Shop)",
+      "url": "https://shop.plaionpictures.com/der-astronaut-limited-collectors-edition-2-4k-uhds-blu-ray-exkl.-shop",
+      "image": "https://shop.plaionpictures.com/media/9f/91/2a/1783063773/UHD%20Steelbook_Der%20Astronaut_2D.webp?ts=1783063773",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Die reichste Frau der Welt (Blu-ray+DVD)",
       "url": "https://shop.plaionpictures.com/die-reichste-frau-der-welt-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/4b/33/b6/1776863159/1201862.webp?ts=1776863159",
@@ -6276,36 +6356,6 @@
       "title": "The Love That Remains (DVD)",
       "url": "https://shop.plaionpictures.com/the-love-that-remains-dvd",
       "image": "https://shop.plaionpictures.com/media/17/00/33/1781707772/1197409.webp?ts=1781707772",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The Love That Remains - Special Edition (2 Blu-rays)",
-      "url": "https://shop.plaionpictures.com/the-love-that-remains-special-edition-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/d7/46/70/1781707837/1197410.webp?ts=1781707837",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Bight - Fesseln der Sünde (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/bight-fesseln-der-suende-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/fa/7c/eb/1782374569/1199795.webp?ts=1782374569",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Bight - Fesseln der Sünde (DVD)",
-      "url": "https://shop.plaionpictures.com/bight-fesseln-der-suende-dvd",
-      "image": "https://shop.plaionpictures.com/media/31/0d/81/1782374424/1199794.webp?ts=1782374424",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6883,16 +6933,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "The Last Starfighter - Sieger über tausend Sonnen (Mediabook, 2 Blu-rays)",
-      "url": "https://shop.plaionpictures.com/the-last-starfighter-sieger-ueber-tausend-sonnen-mediabook-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/8d/df/94/1777529827/1119194.webp?ts=1777529827",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Eyes Wide Shut (Steelbook, 4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/eyes-wide-shut-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/bb/3b/60/1782216079/EYES_WIDE_SHUT_4K-Steelbook_2D_JC.webp?ts=1782216079",
@@ -7186,76 +7226,6 @@
       "title": "Deep Blue Sea (Steelbook, 4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/deep-blue-sea-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f3/12/ef/1779971351/DEEP%20BLUE%20SEA%20SB%204K%20Cover%202D%20J-Card.webp?ts=1779971351",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Super Mario Galaxy Film (DVD)",
-      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-dvd",
-      "image": "https://shop.plaionpictures.com/media/4d/4d/78/1774960120/1197568.webp?ts=1774960120",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Super Mario Galaxy Film (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/b1/06/30/1774959971/1197569.webp?ts=1774959971",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Super Mario Galaxy Film (4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/24/17/9e/1774960205/1197570_%281%29.webp?ts=1774960205",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Super Mario Galaxy Film (Yoshi-Ei-Collector's Edition, 4K-UHD+Blu-ray)(Exkl. Shop)",
-      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-yoshi-ei-collector-s-edition-4k-uhd-blu-ray-exkl.-shop",
-      "image": "https://shop.plaionpictures.com/media/fd/4e/49/1774960043/1197572.webp?ts=1774960043",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Super Mario Galaxy Film (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8a/62/a1/1774960157/1197571.webp?ts=1774960157",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Alpha (DVD)",
-      "url": "https://shop.plaionpictures.com/alpha-dvd",
-      "image": "https://shop.plaionpictures.com/media/9d/a6/57/1774962188/Alpha_DVD_2D.webp?ts=1774962188",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Alpha (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/alpha-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/dc/15/e7/1774962238/Alpha_BD_2D.webp?ts=1774962238",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
