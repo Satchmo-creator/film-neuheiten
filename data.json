@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-07T07:38:13Z",
-  "count": 811,
+  "updated": "2026-07-07T10:56:24Z",
+  "count": 813,
   "products": [
+    {
+      "title": "Star Trek - The Original Series - 60th Anniversary Collector's Edition Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/star-trek-the-original-series-60th-anniversary-collector-s-edition-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573266103jpg-203399.jpg?v=1783409996",
+      "price": "129,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
       "url": "https://shop.leoninestudios.com/products/star-trek-08-der-erste-kontakt-4k-uhd-blu-ray-lim-steelbook",
@@ -457,6 +467,16 @@
       "url": "https://shop.leoninestudios.com/products/scary-movie-6-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972599601jpg-197871.jpg?v=1781265918",
       "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Piano Turner Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-piano-turner-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972701301jpg-203544.jpg?v=1783412355",
+      "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
