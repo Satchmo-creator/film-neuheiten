@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T23:08:16Z",
-  "count": 809,
+  "updated": "2026-07-07T03:22:20Z",
+  "count": 811,
   "products": [
     {
       "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
@@ -1255,6 +1255,26 @@
     {
       "title": "The Furious (Blu-ray)",
       "url": "https://shop.capelight.de/The-Furious-Blu-ray/6425823",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Presence - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/Presence-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425771",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Presence (Blu-ray)",
+      "url": "https://shop.capelight.de/Presence-Blu-ray/6425772",
       "image": "",
       "price": "17,99 €",
       "release_date": "08.10.2026",
