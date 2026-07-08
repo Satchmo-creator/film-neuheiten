@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T02:40:15Z",
-  "count": 813,
+  "updated": "2026-07-08T05:51:34Z",
+  "count": 815,
   "products": [
     {
       "title": "Star Trek - The Original Series - 60th Anniversary Collector's Edition Blu-ray",
@@ -477,6 +477,16 @@
       "url": "https://shop.leoninestudios.com/products/the-piano-turner-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972701301jpg-203544.jpg?v=1783412355",
       "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Death of Robin Hood 4K UHD + Blu-ray (Collector's Edition)",
+      "url": "https://shop.leoninestudios.com/products/the-death-of-robin-hood-4k-uhd-blu-ray-collector-s-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972699301jpg-204617.jpg?v=1783489693",
+      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -7566,6 +7576,16 @@
       "title": "The Hidden - Das unsagbar Böse (Mediabook B, Blu-ray+DVD) (Shop exkl.)",
       "url": "https://shop.plaionpictures.com/the-hidden-das-unsagbar-boese-mediabook-b-blu-ray-dvd-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/0a/96/88/1720012009/TheHidden__MB-B__2Da-FSK16.jpg?ts=1720012010",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_exclusives",
+      "source_label": "Plaion Pictures – Exclusives",
+      "source_url": "https://shop.plaionpictures.com/exclusives/"
+    },
+    {
+      "title": "Gefährliche Brandung - Point Break - Limited Mediabook Edition Cover A (4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/gefaehrliche-brandung-point-break-limited-mediabook-edition-cover-a-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/3f/65/40/1717586199/GefaehrlicheBrandung_MB-A_2D-a.jpg?ts=1717586202",
       "price": "",
       "release_date": "",
       "source_id": "plaion_exclusives",
