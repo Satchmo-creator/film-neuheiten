@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T11:04:46Z",
-  "count": 824,
+  "updated": "2026-07-08T14:06:44Z",
+  "count": 827,
   "products": [
     {
       "title": "The Piano Turner Blu-ray",
@@ -1396,7 +1396,7 @@
       "title": "Presence - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
       "url": "https://shop.capelight.de/Presence-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425771",
       "image": "",
-      "price": "",
+      "price": "34,99 €",
       "release_date": "08.10.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
@@ -6376,6 +6376,36 @@
       "title": "Minions & Monster (Blu-ray)",
       "url": "https://shop.plaionpictures.com/minions-monster-blu-ray",
       "image": "https://shop.plaionpictures.com/media/a7/2f/7e/1782913552/BD_2D_%285%29.webp?ts=1782913552",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Iron Maiden: Burning Ambition (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/91/fb/89/1783512241/Steelbook_Cover_%283%29.webp?ts=1783512241",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Iron Maiden: Burning Ambition (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/88/15/3a/1783080971/BD_2D_%286%29.webp?ts=1783080971",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Iron Maiden: Burning Ambition (Collectors Edition, 4K-UHD+Blu-ray) (Shop exkl.)",
+      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-collectors-edition-4k-uhd-blu-ray-shop-exkl.",
+      "image": "https://shop.plaionpictures.com/media/4c/35/9e/1783337088/CE_2D_%281%29.webp?ts=1783337088",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
