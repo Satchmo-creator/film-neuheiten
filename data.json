@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T15:26:19Z",
-  "count": 833,
+  "updated": "2026-07-09T17:56:32Z",
+  "count": 834,
   "products": [
     {
       "title": "The Piano Turner Blu-ray",
@@ -1401,6 +1401,16 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "My Summer of Love (Blu-ray)",
+      "url": "https://shop.capelight.de/My-Summer-of-Love-Blu-ray/6423079",
+      "image": "",
+      "price": "12,99 €",
+      "release_date": "09.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Kill (UHD-Blu-ray)",
