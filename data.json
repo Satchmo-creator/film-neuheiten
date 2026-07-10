@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T13:11:47Z",
+  "updated": "2026-07-10T16:25:18Z",
   "count": 838,
   "products": [
     {
@@ -6543,36 +6543,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Iron Maiden: Burning Ambition (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/91/fb/89/1783512241/Steelbook_Cover_%283%29.webp?ts=1783512241",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Iron Maiden: Burning Ambition (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/88/15/3a/1783080971/BD_2D_%286%29.webp?ts=1783080971",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Iron Maiden: Burning Ambition (Collectors Edition, 4K-UHD+Blu-ray) (Shop exkl.)",
-      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-collectors-edition-4k-uhd-blu-ray-shop-exkl.",
-      "image": "https://shop.plaionpictures.com/media/4c/35/9e/1783337088/CE_2D_%281%29.webp?ts=1783337088",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Evil Dead Burn (4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/evil-dead-burn-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
@@ -6626,6 +6596,36 @@
       "title": "Der Astronaut (Limited-Collectors Edition, 2 4K-UHDs + Blu-ray) (exkl. Shop)",
       "url": "https://shop.plaionpictures.com/der-astronaut-limited-collectors-edition-2-4k-uhds-blu-ray-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/9f/91/2a/1783063773/UHD%20Steelbook_Der%20Astronaut_2D.webp?ts=1783063773",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Iron Maiden: Burning Ambition (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/91/fb/89/1783512241/Steelbook_Cover_%283%29.webp?ts=1783512241",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Iron Maiden: Burning Ambition (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/88/15/3a/1783080971/BD_2D_%286%29.webp?ts=1783080971",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Iron Maiden: Burning Ambition (Collectors Edition, 4K-UHD+Blu-ray) (Shop exkl.)",
+      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-collectors-edition-4k-uhd-blu-ray-shop-exkl.",
+      "image": "https://shop.plaionpictures.com/media/4c/35/9e/1783337088/CE_2D_%281%29.webp?ts=1783337088",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
