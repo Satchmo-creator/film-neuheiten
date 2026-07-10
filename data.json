@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T03:18:31Z",
-  "count": 834,
+  "updated": "2026-07-10T07:35:34Z",
+  "count": 835,
   "products": [
     {
       "title": "The Piano Turner Blu-ray",
@@ -1298,6 +1298,26 @@
       "image": "",
       "price": "17,99 €",
       "release_date": "10.09.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Lion Fist - Kampf der Champions - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/Lion-Fist-Kampf-der-Champions-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425774",
+      "image": "",
+      "price": "",
+      "release_date": "17.09.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Lion Fist - Kampf der Champions (Blu-ray)",
+      "url": "https://shop.capelight.de/Lion-Fist-Kampf-der-Champions-Blu-ray/6425775",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "17.09.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
@@ -6366,16 +6386,6 @@
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
       "image": "https://shop.plaionpictures.com/media/79/e0/01/1781159074/1207223.webp?ts=1781159074",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Disclosure Day – Der Tag der Wahrheit (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/disclosure-day-der-tag-der-wahrheit-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/4a/c5/d0/1781159145/1207224.webp?ts=1781159145",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
