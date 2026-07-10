@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-10T10:54:06Z",
-  "count": 836,
+  "updated": "2026-07-10T13:11:47Z",
+  "count": 838,
   "products": [
+    {
+      "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/barbarian-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972457901jpg-207221.jpg?v=1783682942",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Barbarian 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/barbarian-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972459301jpg-207473.jpg?v=1783682956",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "The Piano Turner Blu-ray",
       "url": "https://shop.leoninestudios.com/products/the-piano-turner-blu-ray",
@@ -483,16 +503,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Super 8 4K UHD + Blu-ray Lim. Steelbook",
-      "url": "https://shop.leoninestudios.com/products/super-8-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575731770_01.jpg?v=1777385884",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Normal 4K UHD + Blu-ray",
       "url": "https://shop.leoninestudios.com/products/normal-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229508995_01.jpg?v=1776416811",
@@ -646,6 +656,16 @@
       "title": "Jagd auf Roter Oktober 4K UHD + Blu-ray Lim. Steelbook",
       "url": "https://shop.leoninestudios.com/products/jagd-auf-roter-oktober-4k-uhd-blu-ray-lim-steelbook",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575731879_01.jpg?v=1777384993",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Super 8 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/super-8-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575731770_01.jpg?v=1777385884",
       "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
