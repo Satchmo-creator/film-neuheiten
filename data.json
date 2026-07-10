@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T07:35:34Z",
-  "count": 835,
+  "updated": "2026-07-10T10:54:06Z",
+  "count": 836,
   "products": [
     {
       "title": "The Piano Turner Blu-ray",
@@ -6243,16 +6243,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Mortal Kombat II (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/19/c6/df/1782217115/MORTAL%20KOMBAT%20II%204K%20UHD%20SB%20Cover%202D%20J-Card_%281%29.webp?ts=1782217115",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Mortal Kombat II (4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/mortal-kombat-ii-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/76/59/b4/1782216453/MORTAL%20KOMBAT%20II%204K%20UHD%20Cover%202D.webp?ts=1782216453",
@@ -6363,9 +6353,19 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Disclosure Day – Der Tag der Wahrheit (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/disclosure-day-der-tag-der-wahrheit-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/4a/c5/d0/1781159145/1207224.webp?ts=1781159145",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Wicked: Teil 2",
       "url": "https://shop.plaionpictures.com/wicked-teil-2-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/79/e0/01/1781159074/1207223.webp?ts=1781159074",
+      "image": "https://shop.plaionpictures.com/media/4a/c5/d0/1781159145/1207224.webp?ts=1781159145",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6375,7 +6375,7 @@
     {
       "title": "Five Nights at Freddy's 2",
       "url": "https://shop.plaionpictures.com/five-nights-at-freddy-s-2-limitiertes-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/79/e0/01/1781159074/1207223.webp?ts=1781159074",
+      "image": "https://shop.plaionpictures.com/media/4a/c5/d0/1781159145/1207224.webp?ts=1781159145",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6385,7 +6385,7 @@
     {
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/79/e0/01/1781159074/1207223.webp?ts=1781159074",
+      "image": "https://shop.plaionpictures.com/media/4a/c5/d0/1781159145/1207224.webp?ts=1781159145",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7266,6 +7266,16 @@
       "title": "Michael (Steelbook, 4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/michael-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/7a/7c/25/1781767387/Steelbook_Cover_%281%29.webp?ts=1781767387",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Mortal Kombat II (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/19/c6/df/1782217115/MORTAL%20KOMBAT%20II%204K%20UHD%20SB%20Cover%202D%20J-Card_%281%29.webp?ts=1782217115",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
