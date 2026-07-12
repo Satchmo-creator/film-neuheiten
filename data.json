@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T16:01:45Z",
-  "count": 838,
+  "updated": "2026-07-12T17:58:25Z",
+  "count": 841,
   "products": [
     {
       "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
@@ -1441,6 +1441,36 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Red Dawn (Die rote Flut) - 2-Disc Edition (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Red-Dawn-Die-rote-Flut-2-Disc-Edition-UHD-Blu-ray/6424506",
+      "image": "",
+      "price": "",
+      "release_date": "12.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Dressed to Kill - 2-Disc Edition (UHD-Blu-ray + Blu-ray)",
+      "url": "https://shop.capelight.de/Dressed-to-Kill-2-Disc-Edition-UHD-Blu-ray-Blu-ray/6423458",
+      "image": "",
+      "price": "",
+      "release_date": "12.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Misery - 2-Disc Edition (UHD-Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Misery-2-Disc-Edition-UHD-Blu-ray-Bonus-Blu-ray/6424605",
+      "image": "",
+      "price": "",
+      "release_date": "12.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "My Summer of Love (Blu-ray)",
