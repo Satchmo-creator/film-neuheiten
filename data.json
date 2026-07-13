@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T13:26:31Z",
-  "count": 828,
+  "updated": "2026-07-13T16:33:33Z",
+  "count": 829,
   "products": [
     {
       "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
@@ -1441,6 +1441,16 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Addams Family - Die komplette Serie (Blu-ray)",
+      "url": "https://shop.capelight.de/Addams-Family-Die-komplette-Serie-Blu-ray/6425685",
+      "image": "",
+      "price": "",
+      "release_date": "13.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Red Dawn (Die rote Flut) - 2-Disc Edition (UHD-Blu-ray)",
