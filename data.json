@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T05:31:19Z",
+  "updated": "2026-07-15T08:10:07Z",
   "count": 829,
   "products": [
     {
@@ -5673,16 +5673,6 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Der Super Mario Galaxy Film (Yoshi-Ei-Collector's Edition, 4K-UHD+Blu-ray)(Exkl. Shop)",
-      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-yoshi-ei-collector-s-edition-4k-uhd-blu-ray-exkl.-shop",
-      "image": "https://shop.plaionpictures.com/media/fd/4e/49/1774960043/1197572.webp?ts=1774960043",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
       "title": "Der Super Mario Galaxy Film (Steelbook, 4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/8a/62/a1/1774960157/1197571.webp?ts=1774960157",
@@ -5713,9 +5703,19 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "Der Super Mario Galaxy Film (Yoshi-Ei-Collector's Edition, 4K-UHD+Blu-ray)(Exkl. Shop)",
+      "url": "https://shop.plaionpictures.com/der-super-mario-galaxy-film-yoshi-ei-collector-s-edition-4k-uhd-blu-ray-exkl.-shop",
+      "image": "https://shop.plaionpictures.com/media/fd/4e/49/1774960043/1197572.webp?ts=1774960043",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "PLAION PICTURES",
       "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/dc/15/e7/1774962238/Alpha_BD_2D.webp?ts=1774962238",
+      "image": "https://shop.plaionpictures.com/media/fd/4e/49/1774960043/1197572.webp?ts=1774960043",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -5725,7 +5725,7 @@
     {
       "title": "Warner Bros",
       "url": "https://shop.plaionpictures.com/warner-bros/",
-      "image": "https://shop.plaionpictures.com/media/dc/15/e7/1774962238/Alpha_BD_2D.webp?ts=1774962238",
+      "image": "https://shop.plaionpictures.com/media/fd/4e/49/1774960043/1197572.webp?ts=1774960043",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
