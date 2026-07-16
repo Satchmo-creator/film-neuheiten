@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T23:07:08Z",
-  "count": 829,
+  "updated": "2026-07-16T02:34:40Z",
+  "count": 831,
   "products": [
     {
       "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
@@ -1173,6 +1173,26 @@
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
+      "title": "Lord of Illusions - Limitiertes 2-Disc-Mediabook (4k Ultra Hd + Blu-Ray)",
+      "url": "https://shop.capelight.de/Lord-of-Illusions-Limitiertes-2-Disc-Mediabook-4k-Ultra-Hd-Blu-Ray/6425764",
+      "image": "",
+      "price": "",
+      "release_date": "30.07.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Lord of Illusions - Upgrade UHD-Blu-ray (Pappstecktasche) (exklusiv im capelight-Shop)",
+      "url": "https://shop.capelight.de/Lord-of-Illusions-Upgrade-UHD-Blu-ray-Pappstecktasche-exklusiv-im-capelight-Shop/6425765",
+      "image": "",
+      "price": "",
+      "release_date": "30.07.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
       "title": "West Side Story - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/West-Side-Story-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425216",
       "image": "",
@@ -1646,7 +1666,7 @@
       "title": "Geballte Ladung – Double Impact - Limitiertes Mediabook - Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Geballte-Ladung-Double-Impact-Limitiertes-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425385",
       "image": "",
-      "price": "40,00 €",
+      "price": "39,99 €",
       "release_date": "07.05.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
