@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T03:30:35Z",
-  "count": 868,
+  "updated": "2026-07-17T06:16:03Z",
+  "count": 869,
   "products": [
     {
       "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
@@ -5533,6 +5533,16 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
+      "title": "Alpha (Mediabook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/alpha-mediabook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/a3/81/b8/1778661497/Alpha_MB_2D_CCard.webp?ts=1778661497",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Lee Cronin's The Mummy (4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/lee-cronin-s-the-mummy-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/3d/6a/g0/1777035586/THE%20MUMMY%204K%20UHD%20Cover%202D%20vorlufig_%281%29.webp?ts=1777035586",
@@ -5723,19 +5733,9 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Crime 101 (DVD)",
-      "url": "https://shop.plaionpictures.com/crime-101-dvd",
-      "image": "https://shop.plaionpictures.com/media/30/74/00/1776259827/1203269.webp?ts=1776259827",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
       "title": "PLAION PICTURES",
       "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/30/74/00/1776259827/1203269.webp?ts=1776259827",
+      "image": "https://shop.plaionpictures.com/media/79/70/ff/1776259903/1203270.webp?ts=1776259903",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -5745,6 +5745,16 @@
     {
       "title": "Warner Bros",
       "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/79/70/ff/1776259903/1203270.webp?ts=1776259903",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Crime 101 (DVD)",
+      "url": "https://shop.plaionpictures.com/crime-101-dvd",
       "image": "https://shop.plaionpictures.com/media/30/74/00/1776259827/1203269.webp?ts=1776259827",
       "price": "",
       "release_date": "",
