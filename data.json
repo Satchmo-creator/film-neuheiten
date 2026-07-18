@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T23:53:15Z",
-  "count": 874,
+  "updated": "2026-07-18T02:28:01Z",
+  "count": 875,
   "products": [
     {
       "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
@@ -1187,6 +1187,16 @@
       "url": "https://shop.capelight.de/Lord-of-Illusions-Upgrade-UHD-Blu-ray-Pappstecktasche-exklusiv-im-capelight-Shop/6425765",
       "image": "",
       "price": "14,99 €",
+      "release_date": "30.07.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Lord of Illusions (4K remastered) (Blu-ray)",
+      "url": "https://shop.capelight.de/Lord-of-Illusions-4K-remastered-Blu-ray/6425883",
+      "image": "",
+      "price": "",
       "release_date": "30.07.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
