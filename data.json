@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T22:50:14Z",
-  "count": 883,
+  "updated": "2026-07-18T23:54:04Z",
+  "count": 887,
   "products": [
     {
       "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
@@ -1268,6 +1268,46 @@
       "image": "",
       "price": "17,99 €",
       "release_date": "27.08.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425844",
+      "image": "",
+      "price": "",
+      "release_date": "03.09.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425845",
+      "image": "",
+      "price": "",
+      "release_date": "03.09.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Mediabook-Set „WIE EIN WILDER STIER“: Limitiertes 3-Disc-Mediabook – Cover A + B (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Mediabook-Set-WIE-EIN-WILDER-STIER-Limitiertes-3-Disc-Mediabook-Cover-A-B-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425884",
+      "image": "",
+      "price": "",
+      "release_date": "03.09.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Wie ein wilder Stier (Blu-ray)",
+      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Blu-ray/6425885",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "03.09.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
