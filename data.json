@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T17:05:27Z",
-  "count": 785,
+  "updated": "2026-07-19T19:05:52Z",
+  "count": 842,
   "products": [
     {
       "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
@@ -601,6 +601,576 @@
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Gentlemen 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-gentlemen-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4010324011275_01.jpg?v=1778594007",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Die Ältern Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/die-altern-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690515_01.jpg?v=1778067879",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Magier im Kreml Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-magier-im-kreml-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690713_01_33ce6523-f4f8-4a67-bc91-db47e87e8202.jpg?v=1778067796",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Hoppers Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/hoppers-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229692717_01.jpg?v=1777551345",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Hoppers Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/hoppers-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229692748_01.jpg?v=1777551284",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Jagd auf Roter Oktober 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/jagd-auf-roter-oktober-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575731879_01.jpg?v=1777384993",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Super 8 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/super-8-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575731770_01.jpg?v=1777385884",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Avatar 3-Movie-Collection Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/avatar-3-movie-collection-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690362_01.jpg?v=1776940154",
+      "price": "39,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Star Trek - Strange New Worlds - Staffel 3 4K UHD",
+      "url": "https://shop.leoninestudios.com/products/star-trek-strange-new-worlds-staffel-3-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229678599_01.png?v=1776770238",
+      "price": "49,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Fight Club 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/fight-club-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575730278_01.jpg?v=1776770197",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Dead of Winter - Eisige Stille Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/dead-of-winter-eisige-stille-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229453516_01.jpg?v=1776417026",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Graf von Monte Christo Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-graf-von-monte-christo-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229640510_01.jpg?v=1776167665",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Marty Supreme 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/marty-supreme-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229694698_01.jpg?v=1776168239",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Father Mother Sister Brother Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/father-mother-sister-brother-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229687911_01.jpg?v=1776167524",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Marty Supreme Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/marty-supreme-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229694612_01.jpg?v=1776167471",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Return to Silent Hill Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/return-to-silent-hill-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229375610_01.jpg?v=1776167437",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Scream 7 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/scream-7-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229694971_01.jpg?v=1776167390",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Scream 7 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/scream-7-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229694995_01_9214d6f1-ac71-4b74-b799-f0725f7f3105.png?v=1778134530",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Scream 7 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/scream-7-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229694919_01.jpg?v=1776167170",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Return to Silent Hill 4K UHD + Blu-ray Collector's Edition",
+      "url": "https://shop.leoninestudios.com/products/return-to-silent-hill-uhd-bd-collectors-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/ReturnToSilentHill_O-Card_Packshot_2D.jpg?v=1775804959",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "10 Cloverfield Lane 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/10-cloverfield-lane-uhd-bd-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/10_Cloverfield_Lane_SB_UHDBD_Packshot_2D.png?v=1775804920",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Fight Club 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/fight-club-lim-steelbook-4k-ultra-hd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/FightClub2D.jpg?v=1775728962",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Avatar 3-Movie-Collection 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/avatar-3-movie-collection-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690331_01.jpg?v=1776935797",
+      "price": "59,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Avatar: Fire and Ash - Lim. Steelbook 3D Blu-ray + 2D Blu-ray + Bonus-Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/avatar-fire-and-ash-limitiertes-steelbook-3d-blu-ray-2d-blu-ray-bonus-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690379_01.jpg?v=1776935765",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Avatar: Fire and Ash - Lim. Steelbook 4K UHD + Blu-ray + Bonus-Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/avatar-fire-and-ash-limitiertes-steelbook-4k-uhd-blu-ray-bonus-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690386_01.jpg?v=1776935723",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Avatar: Fire and Ash 4K UHD + Blu-ray + Bonus-Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/avatar-fire-and-ash-4k-uhd-blu-ray-bonus-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690393_01.jpg?v=1776935686",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Avatar: Fire and Ash Blu-ray + Bonus-Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/avatar-fire-and-ash-blu-ray-bonus-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690317_01.jpg?v=1776935611",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Flucht aus L.A. 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/flucht-aus-l-a-lim-steelbook-4k-ultra-hd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/Flucht_aus_LA_SB_UHDBD_Packshot_2D_RGB.png?v=1775630399",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Space Pirate Captain Harlock Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/space-pirate-captain-harlock-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/0000UF67931_01.jpg?v=1775109840",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Good Luck, Have Fun, Don't Die Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/good-luck-have-fun-dont-die-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690614_01_2a4caa3a-1e95-47f6-82e0-966975f27172.jpg?v=1778133116",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Good Luck, Have Fun, Don't Die 4K UHD + Blu-ray Collector's Edition",
+      "url": "https://shop.leoninestudios.com/products/good-luck-have-fun-dont-die-4k-uhd-blu-ray-collectors-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690676_01_fa2c9760-4845-4f0d-a28e-caff270bd2df.jpg?v=1778133161",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Greenland 2 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/greenland-2-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229686396_01.jpg?v=1774506298",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Send Help 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/send-help-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690492_01.jpg?v=1774349519",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Send Help Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/send-help-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690416_01.jpg?v=1774349452",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Dust Bunny Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/dust-bunny-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229694513_02_f046db43-c5d7-4821-9286-274dd3dea1c2.jpg?v=1778133691",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Primate Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/primate-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229688017_01.png?v=1774348043",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Medicus 2 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-medicus-2-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229611800_01_6377de85-93ba-4a7d-afd9-7c54e3faa8f5.jpg?v=1773734385",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Dragonball Z: Kampf der Götter Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/dragonball-z-kampf-der-gotter-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229679411_01.jpg?v=1773734433",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Medicus 2",
+      "url": "https://shop.leoninestudios.com/products/der-medicus-2",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229611800_01_95c59523-7655-4b10-aee4-26d8d2d2bdfa.jpg?v=1778132992",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Devil May Cry - Komplettbox Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/devil-may-cry-komplettbox-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229694360_01.jpg?v=1773734175",
+      "price": "39,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "The Strangers: Chapter 3 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-strangers-chapter-3-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/Strangers3_BD_2D_Packshot.jpg?v=1775811224",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Dexter: Wiedererwachen  - Staffel 1 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/dexter-wiedererwachen-staffel-1-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229678667_01_f7bb90df-92ce-4bd4-a14f-93f4112fa2b1.png?v=1773734030",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Top Gun - Sie fürchten weder Tod noch Teufel 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/top-gun-sie-furchten-weder-tod-noch-teufel-4k-uhd-blu-ray-lim-st",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575730193_01.png?v=1773669055",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "The Housemaid 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/the-housemaid-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229537179__01.jpg?v=1774275042",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Greenland 2 4K Ultra HD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/greenland-2-4k-ultra-hd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/GRL2_SB_JCard_Packshot_2D_03.jpg?v=1772692995",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "SpongeBob Schwammkopf - Piraten Ahoi! Blu-ray (Lim. SteelBook)",
+      "url": "https://shop.leoninestudios.com/products/spongebob-schwammkopf-piraten-ahoi-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229678445_01.png?v=1773737358",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "The Housemaid - Wenn sie wüsste 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-housemaid-wenn-sie-wusste-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229537193_01_b0837bf7-ee7c-4d60-b761-ec59cb1059d9.jpg?v=1776663042",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "The Housemaid - Wenn sie wüsste Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-housemaid-wenn-sie-wusste-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229537117_01_f1fe2d9d-2d64-479a-970f-351d20b26e42.jpg?v=1776663000",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Greenland 2 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/greenland-2-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/GL2_BD_Packshot_2D_02Kopie.jpg?v=1767611504",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Alien: Romulus  –  4K UHD + Blu-ray Lim. Steelbook 2026",
+      "url": "https://shop.leoninestudios.com/products/alien-romulus-4k-uhd-blu-ray-lim-steelbook-2026",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/AlienRomulus2DLowresRGB.jpg?v=1766144992",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Springsteen: Deliver Me from Nowhere Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/springsteen-deliver-me-from-nowhere-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229655019_01.jpg?v=1766131533",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Springsteen: Deliver Me from Nowhere 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/springsteen-deliver-me-from-nowhere-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229655095_01.jpg?v=1766131430",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "The Running Man (2025) 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/the-running-man-2025-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229656870_01.png?v=1769682339",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "The Running Man (2025) 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-running-man-2025-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229656894_01.png?v=1769680907",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "The Running Man (2025) Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-running-man-2025-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/running_man_2025_BD_Packshot_2D_RGB.png?v=1763032956",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Die Unfassbaren 3 - Now you see me 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/die-unfassbaren-3-now-you-see-me-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229488778_01.png?v=1770107139",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "John Wick: Kapitel 1-4 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/john-wick-kapitel-1-4-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/johnwickkapitel14bdbluraybox40612293116632d72dpijpg.jpg?v=1738936382",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
       "title": "Lord of Illusions - Limitiertes 2-Disc-Mediabook (4k Ultra Hd + Blu-Ray)",
