@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T10:10:50Z",
+  "updated": "2026-07-20T13:06:16Z",
   "count": 842,
   "products": [
     {
@@ -1276,7 +1276,7 @@
       "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425844",
       "image": "",
-      "price": "",
+      "price": "37,99 €",
       "release_date": "03.09.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
@@ -1286,7 +1286,7 @@
       "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425845",
       "image": "",
-      "price": "",
+      "price": "37,99 €",
       "release_date": "03.09.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
@@ -1296,7 +1296,7 @@
       "title": "Mediabook-Set „WIE EIN WILDER STIER“: Limitiertes 3-Disc-Mediabook – Cover A + B (exklusiv im capelight-Shop) (UHD Blu-ray)",
       "url": "https://shop.capelight.de/Mediabook-Set-WIE-EIN-WILDER-STIER-Limitiertes-3-Disc-Mediabook-Cover-A-B-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425884",
       "image": "",
-      "price": "",
+      "price": "75,98 €",
       "release_date": "03.09.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
@@ -7233,6 +7233,26 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Mars Attacks (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/mars-attacks-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/fc/1d/36/1781708916/1204988_%281%29.webp?ts=1781708916",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Mars Attacks (Collector's Edition, 4K-UHD+Blu-ray) (Shop)",
+      "url": "https://shop.plaionpictures.com/mars-attacks-collector-s-edition-4k-uhd-blu-ray-shop",
+      "image": "https://shop.plaionpictures.com/media/0e/ac/2f/1781707920/1204988.webp?ts=1781707920",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "The Card Player (Dario Argento) (Mediabook, 4K-UHD+2 Blu-rays)",
       "url": "https://shop.plaionpictures.com/the-card-player-dario-argento-mediabook-4k-uhd-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/9b/d6/e1/1777013129/TheCardPlayer_2D_FSK-PET_%281%29.webp?ts=1777013129",
@@ -7256,26 +7276,6 @@
       "title": "Die Schlacht von Marathon (DVD)",
       "url": "https://shop.plaionpictures.com/die-schlacht-von-marathon-dvd",
       "image": "https://shop.plaionpictures.com/media/8e/19/bb/1779952048/1205041.webp?ts=1779952048",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Mars Attacks (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/mars-attacks-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/fc/1d/36/1781708916/1204988_%281%29.webp?ts=1781708916",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Mars Attacks (Collector's Edition, 4K-UHD+Blu-ray) (Shop)",
-      "url": "https://shop.plaionpictures.com/mars-attacks-collector-s-edition-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/0e/ac/2f/1781707920/1204988.webp?ts=1781707920",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
