@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T09:25:56Z",
+  "updated": "2026-07-22T11:47:03Z",
   "count": 867,
   "products": [
     {
@@ -1253,26 +1253,6 @@
       "source_url": "https://shop.capelight.de/VORSCHAU/"
     },
     {
-      "title": "West Side Story - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
-      "url": "https://shop.capelight.de/West-Side-Story-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425216",
-      "image": "",
-      "price": "39,99 €",
-      "release_date": "06.08.2026",
-      "source_id": "capelight_vorschau",
-      "source_label": "Capelight – Vorschau",
-      "source_url": "https://shop.capelight.de/VORSCHAU/"
-    },
-    {
-      "title": "West Side Story (Blu-ray)",
-      "url": "https://shop.capelight.de/West-Side-Story-Blu-ray/6425554",
-      "image": "",
-      "price": "17,99 €",
-      "release_date": "06.08.2026",
-      "source_id": "capelight_vorschau",
-      "source_label": "Capelight – Vorschau",
-      "source_url": "https://shop.capelight.de/VORSCHAU/"
-    },
-    {
       "title": "Wege zum Ruhm - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
       "url": "https://shop.capelight.de/Wege-zum-Ruhm-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425819",
       "image": "",
@@ -1288,6 +1268,26 @@
       "image": "",
       "price": "17,99 €",
       "release_date": "13.08.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "West Side Story - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/West-Side-Story-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425216",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "20.08.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "West Side Story (Blu-ray)",
+      "url": "https://shop.capelight.de/West-Side-Story-Blu-ray/6425554",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "20.08.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
