@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-22T06:27:40Z",
-  "count": 864,
+  "updated": "2026-07-22T09:25:56Z",
+  "count": 867,
   "products": [
+    {
+      "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray (Lim. Beskar Collector's Edition)",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray-lim-beskar-collector-s-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969307303jpg-208768.jpg?v=1784699944",
+      "price": "149,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray (Lim. Steelbook)",
       "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray-lim-steelbook",
@@ -13,10 +23,30 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray (Lim. Beskar Collector's Edition)",
-      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray-lim-beskar-collector-s-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969307303jpg-208768.jpg?v=1784699944",
-      "price": "149,99 €",
+      "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969308001jpg-209487.jpg?v=1784702591",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969301101jpg-209571.jpg?v=1784703831",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969300401jpg-209739.jpg?v=1784703839",
+      "price": "14,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
