@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-22T03:18:56Z",
-  "count": 862,
+  "updated": "2026-07-22T06:27:40Z",
+  "count": 864,
   "products": [
+    {
+      "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969309701jpg-209003.jpg?v=1784700566",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray (Lim. Beskar Collector's Edition)",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray-lim-beskar-collector-s-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969307303jpg-208768.jpg?v=1784699944",
+      "price": "149,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
       "url": "https://shop.leoninestudios.com/products/barbarian-4k-uhd-blu-ray-lim-steelbook",
