@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-28T07:38:33Z",
-  "count": 861,
+  "updated": "2026-07-28T10:35:10Z",
+  "count": 863,
   "products": [
+    {
+      "title": "Friedhof der Kuscheltiere 4K UHD + Blu-ray Lim. SteelBook",
+      "url": "https://shop.leoninestudios.com/products/friedhof-der-kuscheltiere-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/friedhofkuscheltieresbuhdbdpackshot3djpg-212003.jpg?v=1785230520",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Avatar Ultimate 3-Movie-Collection [4K UHD + Blu-ray + Bonus]",
       "url": "https://shop.leoninestudios.com/products/avatar-ultimate-3-movie-collection-4k-uhd-blu-ray-bonus",
@@ -385,7 +395,7 @@
     {
       "title": "Operation: Overlord 4K UHD + Blu-ray Lim. Steelbook",
       "url": "https://shop.leoninestudios.com/products/operation-overlord-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575732272_01.jpg?v=1779177739",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/operationoverlordsbuhdbdpackshotfrontcmykjpg-196489.jpg?v=1780917022",
       "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
@@ -705,7 +715,7 @@
     {
       "title": "Super 8 4K UHD + Blu-ray Lim. Steelbook",
       "url": "https://shop.leoninestudios.com/products/super-8-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575731770_01.jpg?v=1777385884",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/super8sbuhdbdpackshotfrontcmykjpg-212207.jpg?v=1785231358",
       "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
@@ -6413,16 +6423,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Masters of the Universe (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/masters-of-the-universe-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7b/5c/e0/1781158945/1207221.webp?ts=1781158945",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Disclosure Day – Der Tag der Wahrheit (DVD)",
       "url": "https://shop.plaionpictures.com/disclosure-day-der-tag-der-wahrheit-dvd",
       "image": "https://shop.plaionpictures.com/media/79/e0/01/1781159074/1207223.webp?ts=1781159074",
@@ -6523,9 +6523,19 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Supergirl (DVD)",
+      "url": "https://shop.plaionpictures.com/supergirl-dvd",
+      "image": "https://shop.plaionpictures.com/media/a8/17/43/1782308004/SUPERGIRL_DVD_2D_vorlufig.webp?ts=1782308004",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Wicked: Teil 2",
       "url": "https://shop.plaionpictures.com/wicked-teil-2-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8b/72/32/1782308071/SUPERGIRL_BD_2D_vorlufig.webp?ts=1782308071",
+      "image": "https://shop.plaionpictures.com/media/a8/17/43/1782308004/SUPERGIRL_DVD_2D_vorlufig.webp?ts=1782308004",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6535,7 +6545,7 @@
     {
       "title": "Five Nights at Freddy's 2",
       "url": "https://shop.plaionpictures.com/five-nights-at-freddy-s-2-limitiertes-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8b/72/32/1782308071/SUPERGIRL_BD_2D_vorlufig.webp?ts=1782308071",
+      "image": "https://shop.plaionpictures.com/media/a8/17/43/1782308004/SUPERGIRL_DVD_2D_vorlufig.webp?ts=1782308004",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6545,7 +6555,7 @@
     {
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8b/72/32/1782308071/SUPERGIRL_BD_2D_vorlufig.webp?ts=1782308071",
+      "image": "https://shop.plaionpictures.com/media/a8/17/43/1782308004/SUPERGIRL_DVD_2D_vorlufig.webp?ts=1782308004",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6716,6 +6726,16 @@
       "title": "Masters of the Universe (4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/masters-of-the-universe-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/70/42/88/1781158994/1207220.webp?ts=1781158994",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Masters of the Universe (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/masters-of-the-universe-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/9d/40/d8/1785220170/MOTU_Steelbook_2D_FSK_bunt.webp?ts=1785220170",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
