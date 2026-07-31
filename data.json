@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T06:14:02Z",
+  "updated": "2026-07-31T09:45:06Z",
   "count": 857,
   "products": [
     {
@@ -393,16 +393,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Operation: Overlord 4K UHD + Blu-ray Lim. Steelbook",
-      "url": "https://shop.leoninestudios.com/products/operation-overlord-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/operationoverlordsbuhdbdpackshotfrontcmykjpg-196489.jpg?v=1780917022",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Mother Mary Blu-ray",
       "url": "https://shop.leoninestudios.com/products/mother-mary-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229558310_01.jpg?v=1779167849",
@@ -513,26 +503,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Normal 4K UHD + Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/normal-4k-uhd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122950899501jpg-207949.jpg?v=1784015632",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Normal Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/normal-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122950891901jpg-208022.jpg?v=1784015644",
-      "price": "17,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Shelter 4K UHD + Blu-ray",
       "url": "https://shop.leoninestudios.com/products/shelter-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229698597_01.jpg?v=1774342234",
@@ -601,6 +571,36 @@
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Normal Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/normal-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122950891901jpg-208022.jpg?v=1784015644",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Normal 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/normal-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122950899501jpg-207949.jpg?v=1784015632",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Operation: Overlord 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/operation-overlord-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/operationoverlordsbuhdbdpackshotfrontcmykjpg-196489.jpg?v=1780917022",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
       "title": "Navy CIS: Tony & Ziva",
