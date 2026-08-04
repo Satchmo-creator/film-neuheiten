@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-04T13:02:39Z",
-  "count": 839,
+  "updated": "2026-08-04T16:12:33Z",
+  "count": 841,
   "products": [
+    {
+      "title": "Andor - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/andor-staffel-1-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122945817701jpg-101648.jpg?v=1774525566",
+      "price": "59,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/the-mandalorian-staffel-1-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/themandalorianstaffel1uhdbdlimsteelbookuhdbox4k40612294000912d72dpijpg-49590.jpg?v=1785848590",
+      "price": "59,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Friedhof der Kuscheltiere 4K UHD + Blu-ray Lim. SteelBook",
       "url": "https://shop.leoninestudios.com/products/friedhof-der-kuscheltiere-4k-uhd-blu-ray-lim-steelbook",
