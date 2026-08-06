@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T00:05:09Z",
-  "count": 837,
+  "updated": "2026-08-06T04:12:02Z",
+  "count": 838,
   "products": [
     {
       "title": "Andor - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -1578,6 +1578,16 @@
       "image": "",
       "price": "",
       "release_date": "08.10.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Sunny Dancer (Blu-ray)",
+      "url": "https://shop.capelight.de/Sunny-Dancer-Blu-ray/6425895",
+      "image": "",
+      "price": "15,99 €",
+      "release_date": "19.11.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
