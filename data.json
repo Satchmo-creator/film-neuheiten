@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T15:14:18Z",
-  "count": 838,
+  "updated": "2026-08-06T23:58:09Z",
+  "count": 846,
   "products": [
     {
       "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -5833,6 +5833,86 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
+      "title": "Michael (DVD)",
+      "url": "https://shop.plaionpictures.com/michael-dvd",
+      "image": "https://shop.plaionpictures.com/media/92/dd/d3/1781767293/DVD_2D_%2811%29.webp?ts=1781767293",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Michael (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/michael-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/c7/94/9c/1781767340/BD_2D_%284%29.webp?ts=1781767340",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Michael (4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/michael-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/c3/f0/e4/1781767318/UHD_2D_%282%29.webp?ts=1781767318",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Michael (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/michael-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/7a/7c/25/1781767387/Steelbook_Cover_%281%29.webp?ts=1781767387",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Mortal Kombat II (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/19/c6/df/1782217115/MORTAL%20KOMBAT%20II%204K%20UHD%20SB%20Cover%202D%20J-Card_%281%29.webp?ts=1782217115",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Eine Wahnsinnsfamilie (4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/eine-wahnsinnsfamilie-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/b9/d8/2c/1780039810/Eine_Wahnsinnsfamilie_vorabcover.webp?ts=1780039810",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Ricky Bobby - König der Rennfahrer (Steelbook, 4K-UHD+2 Blu-rays)",
+      "url": "https://shop.plaionpictures.com/ricky-bobby-koenig-der-rennfahrer-steelbook-4k-uhd-2-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/f8/dc/b9/1779954624/1203325.webp?ts=1779954624",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Eyes Wide Shut (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/eyes-wide-shut-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/bb/3b/60/1782216079/EYES_WIDE_SHUT_4K-Steelbook_2D_JC.webp?ts=1782216079",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "The Last Starfighter - Sieger über tausend Sonnen (Mediabook, 2 Blu-rays)",
       "url": "https://shop.plaionpictures.com/the-last-starfighter-sieger-ueber-tausend-sonnen-mediabook-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/8d/df/94/1777529827/1119194.webp?ts=1777529827",
@@ -5953,6 +6033,26 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "PLAION PICTURES",
+      "url": "https://shop.plaionpictures.com/film-neuheiten/",
+      "image": "https://shop.plaionpictures.com/media/3d/e7/bd/1776931294/1202703.webp?ts=1776931294",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warner Bros",
+      "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/3d/e7/bd/1776931294/1202703.webp?ts=1776931294",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Monsieur Claude und seine Töchter (DVD)",
       "url": "https://shop.plaionpictures.com/monsieur-claude-und-seine-toechter-dvd",
       "image": "https://shop.plaionpictures.com/media/7e/9a/7e/1776931252/1202702.webp?ts=1776931252",
@@ -6025,26 +6125,6 @@
     {
       "title": "Lee Cronin's The Mummy (Blu-ray)",
       "url": "https://shop.plaionpictures.com/lee-cronin-s-the-mummy-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/da/c2/8d/1777035504/THE%20MUMMY%20BD%20Cover%202D%20vorlufig_%281%29.webp?ts=1777035504",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "PLAION PICTURES",
-      "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/da/c2/8d/1777035504/THE%20MUMMY%20BD%20Cover%202D%20vorlufig_%281%29.webp?ts=1777035504",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Warner Bros",
-      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/da/c2/8d/1777035504/THE%20MUMMY%20BD%20Cover%202D%20vorlufig_%281%29.webp?ts=1777035504",
       "price": "",
       "release_date": "",
