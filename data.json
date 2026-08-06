@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T10:38:30Z",
-  "count": 835,
+  "updated": "2026-08-06T12:56:08Z",
+  "count": 837,
   "products": [
     {
       "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -33,6 +33,16 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
+      "title": "Hell House LLC: The Complete Collection BD",
+      "url": "https://shop.leoninestudios.com/products/hell-house-llc-the-complete-collection-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122949116701jpg-215355.jpg?v=1786011447",
+      "price": "39,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
       "title": "Tulsa King - Staffel 3 (3 DVDs)",
       "url": "https://shop.leoninestudios.com/products/tulsa-king-staffel-3-3-dvds",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972585901jpg-214827.jpg?v=1786008070",
@@ -47,6 +57,16 @@
       "url": "https://shop.leoninestudios.com/products/landman-staffel-2-bd-3-bds",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972736501jpg-215003.jpg?v=1786009864",
       "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Landman - Staffel 2 (4 DVDs)",
+      "url": "https://shop.leoninestudios.com/products/landman-staffel-2-4-dvds",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972735801jpg-215179.jpg?v=1786011192",
+      "price": "24,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
