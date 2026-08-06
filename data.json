@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T12:56:08Z",
-  "count": 837,
+  "updated": "2026-08-06T15:14:18Z",
+  "count": 838,
   "products": [
     {
       "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -6506,6 +6506,16 @@
       "title": "Ice Cream Man (Blu-ray)",
       "url": "https://shop.plaionpictures.com/ice-cream-man-blu-ray",
       "image": "https://shop.plaionpictures.com/media/5f/fe/01/1785999863/PP_IceCreamMan-BD_2D.webp?ts=1785999863",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Ice Cream Man (Steelbook, 4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/ice-cream-man-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/91/c6/01/1785999863/PP_IceCreamMan-SB_2D.webp?ts=1785999863",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
