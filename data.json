@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T08:13:55Z",
+  "updated": "2026-08-07T10:01:14Z",
   "count": 845,
   "products": [
     {
@@ -313,46 +313,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Der Teufel trägt Prada 2-Movie-Collection",
-      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-movie-collection",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969295301jpg-202057.jpg?v=1782841093",
-      "price": "19,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Der Teufel trägt Prada 2 4K UHD + Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-4k-uhd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969299101jpg-201553.jpg?v=1782840720",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Der Teufel trägt Prada 2 Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969291501jpg-201721.jpg?v=1782840730",
-      "price": "17,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Der Teufel trägt Prada 2",
-      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969290801jpg-201889.jpg?v=1782841083",
-      "price": "17,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Hamilton 4K UHD + Blu-ray Collector's Edition",
       "url": "https://shop.leoninestudios.com/products/hamilton-4k-uhd-blu-ray-collector-s-edition",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122971907003jpg-200938.jpg?v=1782478181",
@@ -553,26 +513,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Shelter 4K UHD + Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/shelter-4k-uhd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229698597_01.jpg?v=1774342234",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Shelter Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/shelter-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229698511_01.jpg?v=1774342445",
-      "price": "17,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Pillion",
       "url": "https://shop.leoninestudios.com/products/pillion",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229689113_01.jpg?v=1774348127",
@@ -597,6 +537,46 @@
       "url": "https://shop.leoninestudios.com/products/scary-movie-6-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972599601jpg-197871.jpg?v=1781265918",
       "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Horst Schlämmer sucht das Glück Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/horst-schlammer-sucht-das-gluck-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122954351401jpg-208115.jpg?v=1784025509",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Horst Schlämmer sucht das Glück",
+      "url": "https://shop.leoninestudios.com/products/horst-schlammer-sucht-das-gluck",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122954350701jpg-208199.jpg?v=1784025519",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Der Wunderweltenbaum",
+      "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677905_01.jpg?v=1777980870",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Der Wunderweltenbaum Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677912_01.jpg?v=1777980972",
+      "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -1183,9 +1163,9 @@
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
-      "title": "Horst Schlämmer sucht das Glück Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/horst-schlammer-sucht-das-gluck-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122954351401jpg-208115.jpg?v=1784025509",
+      "title": "Shelter Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/shelter-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229698511_01.jpg?v=1774342445",
       "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
@@ -1193,29 +1173,49 @@
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
-      "title": "Horst Schlämmer sucht das Glück",
-      "url": "https://shop.leoninestudios.com/products/horst-schlammer-sucht-das-gluck",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122954350701jpg-208199.jpg?v=1784025519",
-      "price": "14,99 €",
+      "title": "Shelter 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/shelter-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229698597_01.jpg?v=1774342234",
+      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
       "source_label": "Leonine – Neuheiten",
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
-      "title": "Der Wunderweltenbaum",
-      "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677905_01.jpg?v=1777980870",
-      "price": "14,99 €",
+      "title": "Der Teufel trägt Prada 2 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969299101jpg-201553.jpg?v=1782840720",
+      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
       "source_label": "Leonine – Neuheiten",
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
-      "title": "Der Wunderweltenbaum Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677912_01.jpg?v=1777980972",
+      "title": "Der Teufel trägt Prada 2 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969291501jpg-201721.jpg?v=1782840730",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Teufel trägt Prada 2-Movie-Collection",
+      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2-movie-collection",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969295301jpg-202057.jpg?v=1782841093",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Teufel trägt Prada 2",
+      "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969290801jpg-201889.jpg?v=1782841083",
       "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
@@ -8103,16 +8103,6 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Kreator - Hate & Hope (DVD)",
-      "url": "https://shop.plaionpictures.com/kreator-hate-hope-dvd",
-      "image": "https://shop.plaionpictures.com/media/54/0a/2a/1756905323/KREA_DVD_frontal.webp?ts=1756905323",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
       "title": "This is Spinal Tap 2 (4K-UHD + Blu-ray)",
       "url": "https://shop.plaionpictures.com/this-is-spinal-tap-2-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/06/g0/54/1764229676/Spinal%20Tap%202_UHD_2D.webp?ts=1764229676",
@@ -8293,9 +8283,19 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
+      "title": "Tarantino (Blu-ray)",
+      "url": "https://shop.plaionpictures.com/tarantino-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/d9/b7/cd/1656500682/1040130.jpg?ts=1656500682",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
       "title": "Special Editions",
       "url": "https://shop.plaionpictures.com/special-editions/",
-      "image": "https://shop.plaionpictures.com/media/e1/f6/b7/1666700279/1040128.jpg?ts=1715845641",
+      "image": "https://shop.plaionpictures.com/media/d9/b7/cd/1656500682/1040130.jpg?ts=1656500682",
       "price": "",
       "release_date": "",
       "source_id": "plaion_sale",
