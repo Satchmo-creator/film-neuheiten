@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T10:00:22Z",
-  "count": 838,
+  "updated": "2026-08-11T10:59:07Z",
+  "count": 837,
   "products": [
     {
       "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -5885,7 +5885,7 @@
     {
       "title": "Eine Wahnsinnsfamilie (4K-UHD+Blu-ray)",
       "url": "https://shop.plaionpictures.com/eine-wahnsinnsfamilie-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/b9/d8/2c/1780039810/Eine_Wahnsinnsfamilie_vorabcover.webp?ts=1780039810",
+      "image": "https://shop.plaionpictures.com/media/40/eb/55/1786440496/UHD_2D_%283%29.webp?ts=1786440496",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -6213,16 +6213,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Sexy Beast (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/sexy-beast-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/17/47/3a/1779953204/1204978.webp?ts=1779953204",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "This is England (Blu-ray)",
       "url": "https://shop.plaionpictures.com/this-is-england-blu-ray",
       "image": "https://shop.plaionpictures.com/media/e4/91/75/1779953278/1204979.webp?ts=1779953278",
@@ -6343,9 +6333,19 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Evil Dead Burn (4K-UHD+Blu-ray)",
+      "url": "https://shop.plaionpictures.com/evil-dead-burn-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Wicked: Teil 2",
       "url": "https://shop.plaionpictures.com/wicked-teil-2-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7a/e7/83/1784184308/BD_2D_%287%29.webp?ts=1784184308",
+      "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6355,7 +6355,7 @@
     {
       "title": "Five Nights at Freddy's 2",
       "url": "https://shop.plaionpictures.com/five-nights-at-freddy-s-2-limitiertes-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7a/e7/83/1784184308/BD_2D_%287%29.webp?ts=1784184308",
+      "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6365,16 +6365,6 @@
     {
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7a/e7/83/1784184308/BD_2D_%287%29.webp?ts=1784184308",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Evil Dead Burn (4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/evil-dead-burn-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
       "price": "",
       "release_date": "",
