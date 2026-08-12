@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T10:04:34Z",
-  "count": 832,
+  "updated": "2026-08-12T11:45:24Z",
+  "count": 757,
   "products": [
     {
       "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -5833,7 +5833,7 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
-      "title": "Michael (DVD)",
+      "title": "Michael",
       "url": "https://shop.plaionpictures.com/michael-dvd",
       "image": "https://shop.plaionpictures.com/media/92/dd/d3/1781767293/DVD_2D_%2811%29.webp?ts=1781767293",
       "price": "",
@@ -5843,37 +5843,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Michael (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/michael-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/c7/94/9c/1781767340/BD_2D_%284%29.webp?ts=1781767340",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Michael (4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/michael-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/c3/f0/e4/1781767318/UHD_2D_%282%29.webp?ts=1781767318",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Michael (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/michael-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7a/7c/25/1781767387/Steelbook_Cover_%281%29.webp?ts=1781767387",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Mortal Kombat II (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Mortal Kombat II",
       "url": "https://shop.plaionpictures.com/mortal-kombat-ii-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/19/c6/df/1782217115/MORTAL%20KOMBAT%20II%204K%20UHD%20SB%20Cover%202D%20J-Card_%281%29.webp?ts=1782217115",
       "price": "",
@@ -5883,7 +5853,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Eine Wahnsinnsfamilie (4K-UHD+Blu-ray)",
+      "title": "Eine Wahnsinnsfamilie",
       "url": "https://shop.plaionpictures.com/eine-wahnsinnsfamilie-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/40/eb/55/1786440496/UHD_2D_%283%29.webp?ts=1786440496",
       "price": "",
@@ -5893,7 +5863,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Ricky Bobby - König der Rennfahrer (Steelbook, 4K-UHD+2 Blu-rays)",
+      "title": "Ricky Bobby - König der Rennfahrer",
       "url": "https://shop.plaionpictures.com/ricky-bobby-koenig-der-rennfahrer-steelbook-4k-uhd-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/f8/dc/b9/1779954624/1203325.webp?ts=1779954624",
       "price": "",
@@ -5903,7 +5873,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Eyes Wide Shut (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Eyes Wide Shut",
       "url": "https://shop.plaionpictures.com/eyes-wide-shut-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/bb/3b/60/1782216079/EYES_WIDE_SHUT_4K-Steelbook_2D_JC.webp?ts=1782216079",
       "price": "",
@@ -5913,7 +5883,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "The Last Starfighter - Sieger über tausend Sonnen (Mediabook, 2 Blu-rays)",
+      "title": "The Last Starfighter - Sieger über tausend Sonnen",
       "url": "https://shop.plaionpictures.com/the-last-starfighter-sieger-ueber-tausend-sonnen-mediabook-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/8d/df/94/1777529827/1119194.webp?ts=1777529827",
       "price": "",
@@ -5923,7 +5893,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Bettgeflüster (4K-UHD+Blu-ray)",
+      "title": "Bettgeflüster",
       "url": "https://shop.plaionpictures.com/bettgefluester-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/a7/29/0f/1779951833/Front_BETTGEFLUSTER_Sleeve_UHD.webp?ts=1779951833",
       "price": "",
@@ -5933,7 +5903,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Der General starb im Morgengrauen (Blu-ray)",
+      "title": "Der General starb im Morgengrauen",
       "url": "https://shop.plaionpictures.com/der-general-starb-im-morgengrauen-blu-ray",
       "image": "https://shop.plaionpictures.com/media/61/85/59/1772110860/1200703.webp?ts=1772110860",
       "price": "",
@@ -5943,17 +5913,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Der General starb im Morgengrauen (DVD)",
-      "url": "https://shop.plaionpictures.com/der-general-starb-im-morgengrauen-dvd",
-      "image": "https://shop.plaionpictures.com/media/e1/38/b5/1772110746/1200702.webp?ts=1772110746",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Paris Murder Mystery (DVD)",
+      "title": "Paris Murder Mystery",
       "url": "https://shop.plaionpictures.com/paris-murder-mystery-dvd",
       "image": "https://shop.plaionpictures.com/media/7e/96/61/1776339629/1203303.webp?ts=1776339629",
       "price": "",
@@ -5963,17 +5923,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Paris Murder Mystery (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/paris-murder-mystery-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/b6/d5/8e/1776339639/1203304.webp?ts=1776339639",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Die Tore der Welt (2 Blu-rays)",
+      "title": "Die Tore der Welt",
       "url": "https://shop.plaionpictures.com/die-tore-der-welt-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/ab/2f/f9/1776929491/1203321.webp?ts=1776929491",
       "price": "",
@@ -5983,17 +5933,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Die Tore der Welt (2 DVDs)",
-      "url": "https://shop.plaionpictures.com/die-tore-der-welt-2-dvds",
-      "image": "https://shop.plaionpictures.com/media/f3/3f/75/1776929571/1203320.webp?ts=1776929571",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Ein Rucksack voller Ärger (Blu-ray)",
+      "title": "Ein Rucksack voller Ärger",
       "url": "https://shop.plaionpictures.com/ein-rucksack-voller-aerger-blu-ray",
       "image": "https://shop.plaionpictures.com/media/0c/c2/c8/1776930372/1203362.webp?ts=1776930372",
       "price": "",
@@ -6003,17 +5943,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Ein Rucksack voller Ärger (DVD)",
-      "url": "https://shop.plaionpictures.com/ein-rucksack-voller-aerger-dvd",
-      "image": "https://shop.plaionpictures.com/media/74/61/44/1776930315/1203361.webp?ts=1776930315",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Howard the Duck - Ein tierischer Held (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Howard the Duck - Ein tierischer Held",
       "url": "https://shop.plaionpictures.com/howard-the-duck-ein-tierischer-held-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f5/4a/ee/1777012499/Howard_4K-SB_2D-FSK.webp?ts=1777012499",
       "price": "",
@@ -6023,7 +5953,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Monsieur Claude und seine Töchter (Blu-ray)",
+      "title": "Monsieur Claude und seine Töchter",
       "url": "https://shop.plaionpictures.com/monsieur-claude-und-seine-toechter-blu-ray",
       "image": "https://shop.plaionpictures.com/media/3d/e7/bd/1776931294/1202703.webp?ts=1776931294",
       "price": "",
@@ -6053,17 +5983,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Monsieur Claude und seine Töchter (DVD)",
-      "url": "https://shop.plaionpictures.com/monsieur-claude-und-seine-toechter-dvd",
-      "image": "https://shop.plaionpictures.com/media/7e/9a/7e/1776931252/1202702.webp?ts=1776931252",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Der schwarze Falke (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Der schwarze Falke",
       "url": "https://shop.plaionpictures.com/der-schwarze-falke-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/97/cf/64/1782215809/THE%20SEARCHERS_4K-Steelbook_2D_JC_%281%29.webp?ts=1782215809",
       "price": "",
@@ -6073,7 +5993,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Keoma (Special Edition, 4K-UHD + 2 Blu-rays + CD) (Shop exkl.)",
+      "title": "Keoma",
       "url": "https://shop.plaionpictures.com/keoma-special-edition-4k-uhd-2-blu-rays-cd-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/40/db/0d/1784613317/Keoma__Box__2D.webp?ts=1784613317",
       "price": "",
@@ -6083,7 +6003,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Stargate Atlantis - Die komplette Serie (20 Blu-rays) (Shop)",
+      "title": "Stargate Atlantis - Die komplette Serie",
       "url": "https://shop.plaionpictures.com/stargate-atlantis-die-komplette-serie-20-blu-rays-shop",
       "image": "https://shop.plaionpictures.com/media/28/0f/ff/1784100273/StargateAtlantis_Box_2D-FSK.webp?ts=1784100273",
       "price": "",
@@ -6093,7 +6013,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "My Mother's Wedding (DVD)",
+      "title": "My Mother's Wedding",
       "url": "https://shop.plaionpictures.com/my-mother-s-wedding-dvd",
       "image": "https://shop.plaionpictures.com/media/de/89/a4/1776930761/1203313.webp?ts=1776930761",
       "price": "",
@@ -6103,7 +6023,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Alpha (Mediabook, 4K-UHD+Blu-ray)",
+      "title": "Alpha",
       "url": "https://shop.plaionpictures.com/alpha-mediabook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/a3/81/b8/1778661497/Alpha_MB_2D_CCard.webp?ts=1778661497",
       "price": "",
@@ -6113,7 +6033,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Lee Cronin's The Mummy (4K-UHD+Blu-ray)",
+      "title": "Lee Cronin's The Mummy",
       "url": "https://shop.plaionpictures.com/lee-cronin-s-the-mummy-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/3d/6a/g0/1777035586/THE%20MUMMY%204K%20UHD%20Cover%202D%20vorlufig_%281%29.webp?ts=1777035586",
       "price": "",
@@ -6123,27 +6043,7 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Lee Cronin's The Mummy (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/lee-cronin-s-the-mummy-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/da/c2/8d/1777035504/THE%20MUMMY%20BD%20Cover%202D%20vorlufig_%281%29.webp?ts=1777035504",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Lee Cronin's The Mummy (DVD)",
-      "url": "https://shop.plaionpictures.com/lee-cronin-s-the-mummy-dvd",
-      "image": "https://shop.plaionpictures.com/media/f8/a1/c3/1777035524/THE%20MUMMY%20DVD%20Cover%202D%20vorlufig_%281%29.webp?ts=1777035524",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Michael Jackson: This is it (2 DVDs)",
+      "title": "Michael Jackson: This is it",
       "url": "https://shop.plaionpictures.com/michael-jackson-this-is-it-2-dvds",
       "image": "https://shop.plaionpictures.com/media/80/g0/54/1769698939/DVD%202D.webp?ts=1769698939",
       "price": "",
@@ -6153,7 +6053,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Lawrence von Arabien (2 4K-UHDs+2 Blu-rays)",
+      "title": "Lawrence von Arabien",
       "url": "https://shop.plaionpictures.com/lawrence-von-arabien-2-4k-uhds-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/87/5d/ed/1769700154/%28Precover%29_LawrenceVonArabien_UHD_2D.webp?ts=1769700154",
       "price": "",
@@ -6163,37 +6063,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Mortal Kombat II (DVD)",
-      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-dvd",
-      "image": "https://shop.plaionpictures.com/media/eb/56/62/1782216278/MORTAL%20KOMBAT%20II%20DVD%20Cover%202D.webp?ts=1782216278",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Mortal Kombat II (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/13/93/14/1782217209/MORTAL%20KOMBAT%20II%20BD%20Cover%202D.webp?ts=1782217209",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Mortal Kombat II (4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/76/59/b4/1782216453/MORTAL%20KOMBAT%20II%204K%20UHD%20Cover%202D.webp?ts=1782216453",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Glennkill: Ein Schafskrimi (DVD)",
+      "title": "Glennkill: Ein Schafskrimi",
       "url": "https://shop.plaionpictures.com/glennkill-ein-schafskrimi-dvd",
       "image": "https://shop.plaionpictures.com/media/6c/4c/47/1778678138/DVD_2D_%2810%29.webp?ts=1778678138",
       "price": "",
@@ -6203,17 +6073,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Glennkill: Ein Schafskrimi (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/glennkill-ein-schafskrimi-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/87/3c/de/1778678082/BD_2D_%283%29.webp?ts=1778678082",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "This is England (Blu-ray)",
+      "title": "This is England",
       "url": "https://shop.plaionpictures.com/this-is-england-blu-ray",
       "image": "https://shop.plaionpictures.com/media/e4/91/75/1779953278/1204979.webp?ts=1779953278",
       "price": "",
@@ -6223,7 +6083,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Obsession - Du sollst mich lieben (4K-UHD+Blu-ray)",
+      "title": "Obsession - Du sollst mich lieben",
       "url": "https://shop.plaionpictures.com/obsession-du-sollst-mich-lieben-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/97/84/59/1782307341/1207725.webp?ts=1782307341",
       "price": "",
@@ -6233,27 +6093,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Obsession - Du sollst mich lieben (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/obsession-du-sollst-mich-lieben-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/4f/50/21/1782307441/1207724.webp?ts=1782307441",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Obsession - Du sollst mich lieben (DVD)",
-      "url": "https://shop.plaionpictures.com/obsession-du-sollst-mich-lieben-dvd",
-      "image": "https://shop.plaionpictures.com/media/16/4c/e4/1782307016/1207723.webp?ts=1782307016",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Resurrection (Mediabook DVD+Blu-ray)",
+      "title": "Resurrection",
       "url": "https://shop.plaionpictures.com/resurrection-mediabook-dvd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/43/20/dc/1782307715/1176943.webp?ts=1782307715",
       "price": "",
@@ -6263,7 +6103,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Supergirl (4K-UHD+Blu-ray)",
+      "title": "Supergirl",
       "url": "https://shop.plaionpictures.com/supergirl-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/38/4d/28/1782308235/SUPERGIRL_UHD_2D_vorlufig_%281%29.webp?ts=1782308235",
       "price": "",
@@ -6273,47 +6113,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Supergirl (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/supergirl-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8b/72/32/1782308071/SUPERGIRL_BD_2D_vorlufig.webp?ts=1782308071",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Supergirl (DVD)",
-      "url": "https://shop.plaionpictures.com/supergirl-dvd",
-      "image": "https://shop.plaionpictures.com/media/a8/17/43/1782308004/SUPERGIRL_DVD_2D_vorlufig.webp?ts=1782308004",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Supergirl (Steelbook A, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/supergirl-steelbook-a-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a5/13/0a/1785762476/SUPERGIRL_JC_2D-9.webp?ts=1785762476",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Supergirl (Steelbook B, 4K-UHD+Blu-ray) (Shop)",
-      "url": "https://shop.plaionpictures.com/supergirl-steelbook-b-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/42/f2/99/1785763532/SUPERGIRL_2026_SHADES_GESB2DJC-22.webp?ts=1785763532",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Minions & Monster (DVD)",
+      "title": "Minions & Monster",
       "url": "https://shop.plaionpictures.com/minions-monster-dvd",
       "image": "https://shop.plaionpictures.com/media/c7/4f/a7/1784184275/DVD_2D_%2813%29.webp?ts=1784184275",
       "price": "",
@@ -6323,17 +6123,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Minions & Monster (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/minions-monster-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7a/e7/83/1784184308/BD_2D_%287%29.webp?ts=1784184308",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Evil Dead Burn (4K-UHD+Blu-ray)",
+      "title": "Evil Dead Burn",
       "url": "https://shop.plaionpictures.com/evil-dead-burn-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
       "price": "",
@@ -6373,37 +6163,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Evil Dead Burn (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/evil-dead-burn-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/ef/bd/a9/1783512964/1207749.webp?ts=1783512964",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Evil Dead Burn (DVD)",
-      "url": "https://shop.plaionpictures.com/evil-dead-burn-dvd",
-      "image": "https://shop.plaionpictures.com/media/15/35/cf/1783512318/1207748.webp?ts=1783512318",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Evil Dead Burn (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/evil-dead-burn-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/29/11/be/1783942116/Steelbook_2D_%281%29.webp?ts=1783942116",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Freitag der 13. (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Freitag der 13.",
       "url": "https://shop.plaionpictures.com/freitag-der-13.-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/11/1b/15/1784806257/FRIDAY%20THE%2013THE%20SB%204K%20UHD%20Cover%202D%20vorlufig.webp?ts=1784806257",
       "price": "",
@@ -6413,7 +6173,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Chéri, ich komme! - Die Erfindung der Lust (Blu-ray + DVD)",
+      "title": "Chéri, ich komme! - Die Erfindung der Lust",
       "url": "https://shop.plaionpictures.com/cheri-ich-komme-die-erfindung-der-lust-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/12/c0/a0/1784806338/CHIK_FSB_frontal.webp?ts=1784806338",
       "price": "",
@@ -6423,7 +6183,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Mit leiser Stimme (DVD)",
+      "title": "Mit leiser Stimme",
       "url": "https://shop.plaionpictures.com/mit-leiser-stimme-dvd",
       "image": "https://shop.plaionpictures.com/media/f5/14/08/1783513083/1207227.webp?ts=1783513083",
       "price": "",
@@ -6433,7 +6193,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Kill Bill: The Whole Bloody Affair (2 Blu-rays)",
+      "title": "Kill Bill: The Whole Bloody Affair",
       "url": "https://shop.plaionpictures.com/kill-bill-the-whole-bloody-affair-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/48/2e/04/1784806474/KILLBILL-TWBA_UHD-BluRay_Fullsleeve.webp?ts=1784806474",
       "price": "",
@@ -6443,27 +6203,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Kill Bill: The Whole Bloody Affair (Steelbook, 2 4K-UHDs+2 Blu-rays) (Shop)",
-      "url": "https://shop.plaionpictures.com/kill-bill-the-whole-bloody-affair-steelbook-2-4k-uhds-2-blu-rays-shop",
-      "image": "https://shop.plaionpictures.com/media/ea/b1/eb/1784806634/KILLBILL-TWBA-SB-J-Card.webp?ts=1784806634",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Kill Bill: The Whole Bloody Affair (Collectors Steelbook Edition, 2 4K-UHDs+2 Blu-rays) (Shop)",
-      "url": "https://shop.plaionpictures.com/kill-bill-the-whole-bloody-affair-collectors-steelbook-edition-2-4k-uhds-2-blu-rays-shop",
-      "image": "https://shop.plaionpictures.com/media/d7/fb/13/1785248500/KILLBILL-TWBA_CE_Schuber-J-Card_%281%29.webp?ts=1785248500",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "EPiC: Elvis Presley in Concert (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "EPiC: Elvis Presley in Concert",
       "url": "https://shop.plaionpictures.com/epic-elvis-presley-in-concert-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/85/4c/1d/1785763640/EPiC_Steelbook_Cover.webp?ts=1785763640",
       "price": "",
@@ -6473,7 +6213,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Ice Cream Man (DVD)",
+      "title": "Ice Cream Man",
       "url": "https://shop.plaionpictures.com/ice-cream-man-dvd",
       "image": "https://shop.plaionpictures.com/media/34/a3/61/1785999863/PP_IceCreamMan-DVD_2D.webp?ts=1785999863",
       "price": "",
@@ -6483,27 +6223,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Ice Cream Man (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/ice-cream-man-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/5f/fe/01/1785999863/PP_IceCreamMan-BD_2D.webp?ts=1785999863",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Ice Cream Man (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/ice-cream-man-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/91/c6/01/1785999863/PP_IceCreamMan-SB_2D.webp?ts=1785999863",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Bitteres Fest (DVD)",
+      "title": "Bitteres Fest",
       "url": "https://shop.plaionpictures.com/bitteres-fest-dvd",
       "image": "https://shop.plaionpictures.com/media/74/d2/08/1785328657/BitteresFest-DVD_HE_2D.webp?ts=1785328657",
       "price": "",
@@ -6513,17 +6233,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Bitteres Fest (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/bitteres-fest-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/50/f2/0c/1785328695/BitteresFest-BD_2D.webp?ts=1785328695",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Masters of the Universe (DVD)",
+      "title": "Masters of the Universe",
       "url": "https://shop.plaionpictures.com/masters-of-the-universe-dvd",
       "image": "https://shop.plaionpictures.com/media/35/73/36/1781158841/1207218.webp?ts=1781158841",
       "price": "",
@@ -6533,47 +6243,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Masters of the Universe (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/masters-of-the-universe-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/4e/85/e2/1781158904/1207219.webp?ts=1781158904",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Masters of the Universe (4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/masters-of-the-universe-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/70/42/88/1781158994/1207220.webp?ts=1781158994",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Masters of the Universe (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/masters-of-the-universe-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/9d/40/d8/1785220170/MOTU_Steelbook_2D_FSK_bunt.webp?ts=1785220170",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Masters of the Universe (Collector's Steelbook Edition, 4K-UHD+Blu-ray) (Shop)",
-      "url": "https://shop.plaionpictures.com/masters-of-the-universe-collector-s-steelbook-edition-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/b3/af/71/1781171827/1207222.webp?ts=1781171827",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Astronaut (Limited-Collectors Edition, 2 4K-UHDs + Blu-ray) (exkl. Shop)",
+      "title": "Der Astronaut",
       "url": "https://shop.plaionpictures.com/der-astronaut-limited-collectors-edition-2-4k-uhds-blu-ray-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/9f/91/2a/1783063773/UHD%20Steelbook_Der%20Astronaut_2D.webp?ts=1783063773",
       "price": "",
@@ -6583,7 +6253,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Iron Maiden: Burning Ambition (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Iron Maiden: Burning Ambition",
       "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/91/fb/89/1783512241/Steelbook_Cover_%283%29.webp?ts=1783512241",
       "price": "",
@@ -6593,27 +6263,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Iron Maiden: Burning Ambition (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/88/15/3a/1783080971/BD_2D_%286%29.webp?ts=1783080971",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Iron Maiden: Burning Ambition (Collectors Edition, 4K-UHD+Blu-ray) (Shop exkl.)",
-      "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-collectors-edition-4k-uhd-blu-ray-shop-exkl.",
-      "image": "https://shop.plaionpictures.com/media/4c/35/9e/1783337088/CE_2D_%281%29.webp?ts=1783337088",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die reichste Frau der Welt (Blu-ray+DVD)",
+      "title": "Die reichste Frau der Welt",
       "url": "https://shop.plaionpictures.com/die-reichste-frau-der-welt-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/4b/33/b6/1776863159/1201862.webp?ts=1776863159",
       "price": "",
@@ -6623,7 +6273,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "The Love That Remains (DVD)",
+      "title": "The Love That Remains",
       "url": "https://shop.plaionpictures.com/the-love-that-remains-dvd",
       "image": "https://shop.plaionpictures.com/media/17/00/33/1781707772/1197409.webp?ts=1781707772",
       "price": "",
@@ -6633,7 +6283,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "The Love That Remains - Special Edition (2 Blu-rays)",
+      "title": "The Love That Remains - Special Edition",
       "url": "https://shop.plaionpictures.com/the-love-that-remains-special-edition-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/d7/46/70/1781707837/1197410.webp?ts=1781707837",
       "price": "",
@@ -6643,7 +6293,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Bight - Fesseln der Sünde (Blu-ray)",
+      "title": "Bight - Fesseln der Sünde",
       "url": "https://shop.plaionpictures.com/bight-fesseln-der-suende-blu-ray",
       "image": "https://shop.plaionpictures.com/media/cf/87/78/1785922046/Bight_BD_2D.webp?ts=1785922046",
       "price": "",
@@ -6653,17 +6303,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Bight - Fesseln der Sünde (DVD)",
-      "url": "https://shop.plaionpictures.com/bight-fesseln-der-suende-dvd",
-      "image": "https://shop.plaionpictures.com/media/99/c2/b0/1785922121/Bight_DVD_2D.webp?ts=1785922121",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Chicago P.D.: Staffel 12 (5 DVDs)",
+      "title": "Chicago P.D.: Staffel 12",
       "url": "https://shop.plaionpictures.com/chicago-p.d.-staffel-12-5-dvds",
       "image": "https://shop.plaionpictures.com/media/d1/7f/78/1782374638/1207746.webp?ts=1782374638",
       "price": "",
@@ -6673,7 +6313,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Cutter's Way – Keine Gnade (Blu-ray)",
+      "title": "Cutter's Way – Keine Gnade",
       "url": "https://shop.plaionpictures.com/cutter-s-way-keine-gnade-blu-ray",
       "image": "https://shop.plaionpictures.com/media/bb/4d/ba/1782374760/1207572.webp?ts=1782374760",
       "price": "",
@@ -6683,17 +6323,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Cutter's Way – Keine Gnade (DVD)",
-      "url": "https://shop.plaionpictures.com/cutter-s-way-keine-gnade-dvd",
-      "image": "https://shop.plaionpictures.com/media/3c/g0/57/1782374705/1207571.webp?ts=1782374705",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der goldene Pfeil (Mediabook, Blu-ray+DVD)",
+      "title": "Der goldene Pfeil",
       "url": "https://shop.plaionpictures.com/der-goldene-pfeil-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/59/cf/4b/1782375060/1207743.webp?ts=1782375060",
       "price": "",
@@ -6703,7 +6333,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Der Ritt nach Alamo (Blu-ray)",
+      "title": "Der Ritt nach Alamo",
       "url": "https://shop.plaionpictures.com/der-ritt-nach-alamo-blu-ray",
       "image": "https://shop.plaionpictures.com/media/ac/e1/62/1782375206/1207574.webp?ts=1782375206",
       "price": "",
@@ -6713,17 +6343,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Der Ritt nach Alamo (DVD)",
-      "url": "https://shop.plaionpictures.com/der-ritt-nach-alamo-dvd",
-      "image": "https://shop.plaionpictures.com/media/16/61/60/1782375133/1207573.webp?ts=1782375133",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The Island - Feuer im Pazifik (Blu-ray)",
+      "title": "The Island - Feuer im Pazifik",
       "url": "https://shop.plaionpictures.com/the-island-feuer-im-pazifik-blu-ray",
       "image": "https://shop.plaionpictures.com/media/c6/e2/21/1784883450/PP_TheIsland-BD_2D.webp?ts=1784883450",
       "price": "",
@@ -6733,17 +6353,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "The Island - Feuer im Pazifik (DVD)",
-      "url": "https://shop.plaionpictures.com/the-island-feuer-im-pazifik-dvd",
-      "image": "https://shop.plaionpictures.com/media/aa/25/c1/1784883412/PP_TheIsland-DVD_2D.webp?ts=1784883412",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Dragnet - Schlappe Bullen beißen nicht (Mediabook, 2 Blu-rays)",
+      "title": "Dragnet - Schlappe Bullen beißen nicht",
       "url": "https://shop.plaionpictures.com/dragnet-schlappe-bullen-beissen-nicht-mediabook-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/69/f4/86/1782375575/1207740.webp?ts=1782375575",
       "price": "",
@@ -6753,7 +6363,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Heroic Trio 1+2 (2 4K-UHDs+2 Blu-rays)",
+      "title": "Heroic Trio 1+2",
       "url": "https://shop.plaionpictures.com/heroic-trio-1-2-2-4k-uhds-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/16/79/85/1782376082/BOX__HeroicTrio__FrontVorab.webp?ts=1782376082",
       "price": "",
@@ -6763,7 +6373,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Highway Heat - Die Wahnsinnsjagd (Mediabook, Blu-ray+DVD)",
+      "title": "Highway Heat - Die Wahnsinnsjagd",
       "url": "https://shop.plaionpictures.com/highway-heat-die-wahnsinnsjagd-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/d8/01/f5/1782376280/1056726.webp?ts=1782376280",
       "price": "",
@@ -6773,7 +6383,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Opera (Dario Argento) (Mediabook 4K-UHD+2 Blu-rays)",
+      "title": "Opera",
       "url": "https://shop.plaionpictures.com/opera-dario-argento-mediabook-4k-uhd-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/78/f5/3d/1782377844/1207753.webp?ts=1782377844",
       "price": "",
@@ -6783,7 +6393,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Outlander - Season 8 (4 Blu-rays)",
+      "title": "Outlander - Season 8",
       "url": "https://shop.plaionpictures.com/outlander-season-8-4-blu-rays",
       "image": "https://shop.plaionpictures.com/media/15/7d/e6/1782378011/1207751.webp?ts=1782378011",
       "price": "",
@@ -6793,17 +6403,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Outlander - Season 8 (4 DVDs)",
-      "url": "https://shop.plaionpictures.com/outlander-season-8-4-dvds",
-      "image": "https://shop.plaionpictures.com/media/b0/3e/a0/1782377937/1207750.webp?ts=1782377937",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The Hunted Survivors (Blu-ray)",
+      "title": "The Hunted Survivors",
       "url": "https://shop.plaionpictures.com/the-hunted-survivors-blu-ray",
       "image": "https://shop.plaionpictures.com/media/8c/a3/68/1785923555/TheHunted_BD_2D.webp?ts=1785923555",
       "price": "",
@@ -6813,17 +6413,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "The Hunted Survivors (DVD)",
-      "url": "https://shop.plaionpictures.com/the-hunted-survivors-dvd",
-      "image": "https://shop.plaionpictures.com/media/2a/dd/49/1785923486/TheHunted_DVD_2D.webp?ts=1785923486",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Vampires of the Velvet Lounge (Blu-ray)",
+      "title": "Vampires of the Velvet Lounge",
       "url": "https://shop.plaionpictures.com/vampires-of-the-velvet-lounge-blu-ray",
       "image": "https://shop.plaionpictures.com/media/7e/6e/2a/1782378501/1199783.webp?ts=1782378501",
       "price": "",
@@ -6833,17 +6423,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Vampires of the Velvet Lounge (DVD)",
-      "url": "https://shop.plaionpictures.com/vampires-of-the-velvet-lounge-dvd",
-      "image": "https://shop.plaionpictures.com/media/30/7e/3b/1782378442/1199782.webp?ts=1782378442",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die Camino-Therapie - Finde deinen Weg (Blu-ray + DVD)",
+      "title": "Die Camino-Therapie - Finde deinen Weg",
       "url": "https://shop.plaionpictures.com/die-camino-therapie-finde-deinen-weg-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/62/09/56/1782913432/PP_Camino-DVDBD_2D.webp?ts=1782913432",
       "price": "",
@@ -6853,7 +6433,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Interview mit einem Vampir (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Interview mit einem Vampir",
       "url": "https://shop.plaionpictures.com/interview-mit-einem-vampir-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/5c/55/0c/1785326969/INTERVIEW%20WITH%20THE%20VAMPIRE%204K%20UHD%20SB%20Cover%202D%20J-Card.webp?ts=1785326969",
       "price": "",
@@ -6863,7 +6443,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Nightmare on Elm Street - 7-Film Collection (7 4K-UHDs, 4 Blu-rays) (Shop exklusiv)",
+      "title": "Nightmare on Elm Street - 7-Film Collection",
       "url": "https://shop.plaionpictures.com/nightmare-on-elm-street-7-film-collection-7-4k-uhds-4-blu-rays-shop-exklusiv",
       "image": "https://shop.plaionpictures.com/media/9f/01/0f/1786100545/NOES_7-Film%20Coll_4K-LibraryCase_2D_JC.webp?ts=1786100545",
       "price": "",
@@ -6873,7 +6453,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Disclosure Day – Der Tag der Wahrheit (DVD)",
+      "title": "Disclosure Day – Der Tag der Wahrheit",
       "url": "https://shop.plaionpictures.com/disclosure-day-der-tag-der-wahrheit-dvd",
       "image": "https://shop.plaionpictures.com/media/79/e0/01/1781159074/1207223.webp?ts=1781159074",
       "price": "",
@@ -6883,37 +6463,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Disclosure Day – Der Tag der Wahrheit (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/disclosure-day-der-tag-der-wahrheit-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/4a/c5/d0/1781159145/1207224.webp?ts=1781159145",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Disclosure Day – Der Tag der Wahrheit (4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/disclosure-day-der-tag-der-wahrheit-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/e3/f7/07/1781159243/1207225.webp?ts=1781159243",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Disclosure Day – Der Tag der Wahrheit (Steelbook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/disclosure-day-der-tag-der-wahrheit-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/f1/3f/73/1781159192/1207226.webp?ts=1781159192",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Lucky Luke: Die große Spielfilm-Collection (4 Blu-rays)",
+      "title": "Lucky Luke: Die große Spielfilm-Collection",
       "url": "https://shop.plaionpictures.com/lucky-luke-die-grosse-spielfilm-collection-4-blu-rays",
       "image": "https://shop.plaionpictures.com/media/f4/d0/a5/1782376769/1207731.webp?ts=1782376769",
       "price": "",
@@ -6923,17 +6473,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Lucky Luke: Die große Spielfilm-Collection (4 DVDs)",
-      "url": "https://shop.plaionpictures.com/lucky-luke-die-grosse-spielfilm-collection-4-dvds",
-      "image": "https://shop.plaionpictures.com/media/69/84/91/1782376383/1207726.webp?ts=1782376383",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "DJ Ahmet (DVD)",
+      "title": "DJ Ahmet",
       "url": "https://shop.plaionpictures.com/dj-ahmet-dvd",
       "image": "https://shop.plaionpictures.com/media/d8/81/36/1773838518/1201857.webp?ts=1773838518",
       "price": "",
@@ -6943,7 +6483,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Goodbye und Amen (Blu-ray)",
+      "title": "Goodbye und Amen",
       "url": "https://shop.plaionpictures.com/goodbye-und-amen-blu-ray",
       "image": "https://shop.plaionpictures.com/media/97/57/44/1782375729/1207570.webp?ts=1782375729",
       "price": "",
@@ -6953,17 +6493,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Goodbye und Amen (DVD)",
-      "url": "https://shop.plaionpictures.com/goodbye-und-amen-dvd",
-      "image": "https://shop.plaionpictures.com/media/56/8f/5f/1782375636/1207569.webp?ts=1782375636",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "American Sweatshop (Blu-ray)",
+      "title": "American Sweatshop",
       "url": "https://shop.plaionpictures.com/american-sweatshop-blu-ray",
       "image": "https://shop.plaionpictures.com/media/34/32/83/1777530119/PP_AmericanSweat-BD_2D.webp?ts=1777530119",
       "price": "",
@@ -6973,17 +6503,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "American Sweatshop (DVD)",
-      "url": "https://shop.plaionpictures.com/american-sweatshop-dvd",
-      "image": "https://shop.plaionpictures.com/media/3d/e6/ec/1777530131/PP_AmericanSweat-DVD_2D.webp?ts=1777530131",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "28 Days Later (Limitiertes Steelbook, 4K-UHD)",
+      "title": "28 Days Later",
       "url": "https://shop.plaionpictures.com/28-days-later-limitiertes-steelbook-4k-uhd",
       "image": "https://shop.plaionpictures.com/media/05/4b/4c/1777886918/1174440.webp?ts=1777886918",
       "price": "",
@@ -6993,7 +6513,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Stray Kids: The Dominate Experience (DVD)",
+      "title": "Stray Kids: The Dominate Experience",
       "url": "https://shop.plaionpictures.com/stray-kids-the-dominate-experience-dvd",
       "image": "https://shop.plaionpictures.com/media/0d/bb/5f/1784118660/StrayKids__DVD_2D.webp?ts=1784118660",
       "price": "",
@@ -7003,17 +6523,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Stray Kids: The Dominate Experience (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/stray-kids-the-dominate-experience-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/4d/19/92/1784118661/StrayKids__BD_2D.webp?ts=1784118661",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Kindergarten Cop (Mediabook, 4K-UHD+Blu-ray)",
+      "title": "Kindergarten Cop",
       "url": "https://shop.plaionpictures.com/kindergarten-cop-mediabook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/86/1b/0d/1774535415/1202292_%281%29.webp?ts=1774535415",
       "price": "",
@@ -7023,7 +6533,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Pinocchio Unstrung (Blu-ray)",
+      "title": "Pinocchio Unstrung",
       "url": "https://shop.plaionpictures.com/pinocchio-unstrung-blu-ray",
       "image": "https://shop.plaionpictures.com/media/d9/55/42/1774536196/1146554.webp?ts=1774536196",
       "price": "",
@@ -7033,27 +6543,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Pinocchio Unstrung (DVD)",
-      "url": "https://shop.plaionpictures.com/pinocchio-unstrung-dvd",
-      "image": "https://shop.plaionpictures.com/media/19/23/18/1774536087/1146553.webp?ts=1774536087",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Pinocchio Unstrung (Steelcase, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/pinocchio-unstrung-steelcase-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/cd/c5/8a/1774536257/1146555.webp?ts=1774536257",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Klute (Mediabook, Blu-ray+DVD)",
+      "title": "Klute",
       "url": "https://shop.plaionpictures.com/klute-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/fc/0e/f3/1776930702/1119164.webp?ts=1776930702",
       "price": "",
@@ -7063,7 +6553,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Bang Bang - Der härteste Schlag (Blu-ray)",
+      "title": "Bang Bang - Der härteste Schlag",
       "url": "https://shop.plaionpictures.com/bang-bang-der-haerteste-schlag-blu-ray",
       "image": "https://shop.plaionpictures.com/media/e7/82/7a/1779951431/1204970.webp?ts=1779951431",
       "price": "",
@@ -7073,17 +6563,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Bang Bang - Der härteste Schlag (DVD)",
-      "url": "https://shop.plaionpictures.com/bang-bang-der-haerteste-schlag-dvd",
-      "image": "https://shop.plaionpictures.com/media/ea/08/e1/1779951540/1204969.webp?ts=1779951540",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die Jury (Mediabook, Blu-ray+DVD)",
+      "title": "Die Jury",
       "url": "https://shop.plaionpictures.com/die-jury-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/6e/4f/f6/1779951908/1119223.webp?ts=1779951908",
       "price": "",
@@ -7093,7 +6573,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Geheimaktion Crossbow (Mediabook, Blu-ray+DVD)",
+      "title": "Geheimaktion Crossbow",
       "url": "https://shop.plaionpictures.com/geheimaktion-crossbow-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/bc/4d/16/1779952799/PP_Crossbow-MB_2D.webp?ts=1779952799",
       "price": "",
@@ -7103,7 +6583,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Prophecy of the Devil (Blu-ray)",
+      "title": "Prophecy of the Devil",
       "url": "https://shop.plaionpictures.com/prophecy-of-the-devil-blu-ray",
       "image": "https://shop.plaionpictures.com/media/0d/89/77/1779953072/1203406.webp?ts=1779953072",
       "price": "",
@@ -7113,17 +6593,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Prophecy of the Devil (DVD)",
-      "url": "https://shop.plaionpictures.com/prophecy-of-the-devil-dvd",
-      "image": "https://shop.plaionpictures.com/media/60/0a/c3/1779953138/1203405.webp?ts=1779953138",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Warum mußte Staatsanwalt Traini sterben? (Blu-ray)",
+      "title": "Warum mußte Staatsanwalt Traini sterben?",
       "url": "https://shop.plaionpictures.com/warum-musste-staatsanwalt-traini-sterben-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f0/b9/6b/1779953451/1205044.webp?ts=1779953451",
       "price": "",
@@ -7133,17 +6603,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Warum mußte Staatsanwalt Traini sterben? (DVD)",
-      "url": "https://shop.plaionpictures.com/warum-musste-staatsanwalt-traini-sterben-dvd",
-      "image": "https://shop.plaionpictures.com/media/03/4c/c6/1779953592/1205043.webp?ts=1779953592",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Zwei Engel mit vier Fäusten - Die komplette Serie (6 DVDs)",
+      "title": "Zwei Engel mit vier Fäusten - Die komplette Serie",
       "url": "https://shop.plaionpictures.com/zwei-engel-mit-vier-faeusten-die-komplette-serie-6-dvds",
       "image": "https://shop.plaionpictures.com/media/01/87/e0/1779953766/ZweiEngelMit4Faeusten__2D.webp?ts=1779953766",
       "price": "",
@@ -7153,7 +6613,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "The Fast and the Furious - 25th Anniversary Edition (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "The Fast and the Furious - 25th Anniversary Edition",
       "url": "https://shop.plaionpictures.com/the-fast-and-the-furious-25th-anniversary-edition-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/15/07/df/1783513195/1202250.webp?ts=1783513195",
       "price": "",
@@ -7173,7 +6633,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Terminator 2 - Tag der Abrechnung (Casaro Collection) (Mediabook, 4K-UHD+Blu-ray) (Shop)",
+      "title": "Terminator 2 - Tag der Abrechnung",
       "url": "https://shop.plaionpictures.com/terminator-2-tag-der-abrechnung-casaro-collection-mediabook-4k-uhd-blu-ray-shop",
       "image": "https://shop.plaionpictures.com/media/c9/38/39/1785327631/Terminator2-Casaro__MB2D.webp?ts=1785327631",
       "price": "",
@@ -7183,37 +6643,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Der Astronaut (DVD)",
-      "url": "https://shop.plaionpictures.com/der-astronaut-dvd",
-      "image": "https://shop.plaionpictures.com/media/fe/d1/19/1781705786/1200622.webp?ts=1781705786",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Astronaut (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/der-astronaut-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a8/1c/45/1781706856/1200624_%281%29.webp?ts=1781706856",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Astronaut (4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/der-astronaut-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7a/15/e5/1781706970/1200623.webp?ts=1781706970",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die Legende des Wüstenkindes (DVD)",
+      "title": "Die Legende des Wüstenkindes",
       "url": "https://shop.plaionpictures.com/die-legende-des-wuestenkindes-dvd",
       "image": "https://shop.plaionpictures.com/media/bc/21/95/1779344208/DIE%20LEGENDE%20DES%20WSTENKINDES_DVD_Packshot_2D.webp?ts=1779344208",
       "price": "",
@@ -7223,17 +6653,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Die Legende des Wüstenkindes (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/die-legende-des-wuestenkindes-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a2/3b/f1/1779344208/DIE%20LEGENDE%20DES%20WSTENKINDES_Blu-ray_Packshot_weiss_2D.webp?ts=1779344208",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Echoes of Tomorrow (aka Looking through Water) (DVD)",
+      "title": "Echoes of Tomorrow",
       "url": "https://shop.plaionpictures.com/echoes-of-tomorrow-aka-looking-through-water-dvd",
       "image": "https://shop.plaionpictures.com/media/66/c3/05/1779952113/1199777.webp?ts=1779952113",
       "price": "",
@@ -7243,7 +6663,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Ist ja irre - 1964-1966 Collection (4 Filme, 2 Blu-rays)",
+      "title": "Ist ja irre - 1964-1966 Collection",
       "url": "https://shop.plaionpictures.com/ist-ja-irre-1964-1966-collection-4-filme-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/20/58/80/1779975695/IstJaIrreColl_BluRay_2D.webp?ts=1779975695",
       "price": "",
@@ -7253,7 +6673,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Geliebter Spinner (4K-UHD+Blu-ray)",
+      "title": "Geliebter Spinner",
       "url": "https://shop.plaionpictures.com/geliebter-spinner-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/7c/24/55/1779954398/1204975.webp?ts=1779954398",
       "price": "",
@@ -7263,17 +6683,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Geliebter Spinner (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/geliebter-spinner-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/5a/75/d2/1779954521/1204974.webp?ts=1779954521",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Mars Attacks (Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Mars Attacks",
       "url": "https://shop.plaionpictures.com/mars-attacks-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/fc/1d/36/1781708916/1204988_%281%29.webp?ts=1781708916",
       "price": "",
@@ -7283,17 +6693,7 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Mars Attacks (Collector's Edition, 4K-UHD+Blu-ray) (Shop)",
-      "url": "https://shop.plaionpictures.com/mars-attacks-collector-s-edition-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/0e/ac/2f/1781707920/1204988.webp?ts=1781707920",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The Card Player (Dario Argento) (Mediabook, 4K-UHD+2 Blu-rays)",
+      "title": "The Card Player",
       "url": "https://shop.plaionpictures.com/the-card-player-dario-argento-mediabook-4k-uhd-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/9b/d6/e1/1777013129/TheCardPlayer_2D_FSK-PET_%281%29.webp?ts=1777013129",
       "price": "",
@@ -7303,19 +6703,9 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Die Schlacht von Marathon (Blu-ray)",
+      "title": "Die Schlacht von Marathon",
       "url": "https://shop.plaionpictures.com/die-schlacht-von-marathon-blu-ray",
       "image": "https://shop.plaionpictures.com/media/12/34/78/1779951970/1205042.webp?ts=1779951970",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die Schlacht von Marathon (DVD)",
-      "url": "https://shop.plaionpictures.com/die-schlacht-von-marathon-dvd",
-      "image": "https://shop.plaionpictures.com/media/8e/19/bb/1779952048/1205041.webp?ts=1779952048",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7343,7 +6733,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Der dunkle Kristall - Collector´s Steelbook Edition (4K-UHD+2 Blu-rays) (Shop)",
+      "title": "Der dunkle Kristall - Collector´s Steelbook Edition",
       "url": "https://shop.plaionpictures.com/der-dunkle-kristall-collector-s-steelbook-edition-4k-uhd-2-blu-rays-shop",
       "image": "https://shop.plaionpictures.com/media/fa/25/43/1774534505/1161410.webp?ts=1774534505",
       "price": "",
@@ -7353,7 +6743,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Die Reise ins Labyrinth - Collector´s Steelbook Edition (4K-UHD+2 Blu-rays) (Shop)",
+      "title": "Die Reise ins Labyrinth - Collector´s Steelbook Edition",
       "url": "https://shop.plaionpictures.com/die-reise-ins-labyrinth-collector-s-steelbook-edition-4k-uhd-2-blu-rays-shop",
       "image": "https://shop.plaionpictures.com/media/g0/1e/e4/1774534840/1161424.webp?ts=1774534840",
       "price": "",
@@ -7363,7 +6753,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "American Monster (Mediabook C, 2 Blu-rays) (exkl. Shop)",
+      "title": "American Monster",
       "url": "https://shop.plaionpictures.com/american-monster-mediabook-c-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/a9/4e/c4/1765352598/AmericanMonster_CoverC-FSK_2D.webp?ts=1765352598",
       "price": "",
@@ -7373,7 +6763,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Ben-Hur (Steelbook, 2 4K-UHD+Blu-ray) (Exkl. Shop)",
+      "title": "Ben-Hur",
       "url": "https://shop.plaionpictures.com/ben-hur-steelbook-2-4k-uhd-blu-ray-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/81/b1/11/1773666637/1194673.webp?ts=1773666637",
       "price": "",
@@ -7383,7 +6773,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Mickey 17 (2025) (Limitiertes Steelbook C, 4K-UHD + Blu-ray)",
+      "title": "Mickey 17",
       "url": "https://shop.plaionpictures.com/mickey-17-2025-limitiertes-steelbook-c-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/4e/65/93/1772027407/1194427_%281%29.webp?ts=1772027407",
       "price": "",
@@ -7393,7 +6783,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Ein Minecraft Film (2025) (Limitiertes Steelbook B, 4K-UHD + Blu-ray)",
+      "title": "Ein Minecraft Film",
       "url": "https://shop.plaionpictures.com/ein-minecraft-film-2025-limitiertes-steelbook-b-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/bf/7d/21/1772027616/1194426.webp?ts=1772027616",
       "price": "",
@@ -7403,17 +6793,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "F1 (2025) (Limitiertes Steelbook C, 4K-UHD + Blu-ray)",
-      "url": "https://shop.plaionpictures.com/f1-2025-limitiertes-steelbook-c-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/0a/32/dc/1772027956/1191901.webp?ts=1772027957",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
-    },
-    {
-      "title": "The Last of Us: Die komplette 1. Staffel (Limitiertes Steelbook, 4K-UHD)",
+      "title": "The Last of Us: Die komplette 1. Staffel",
       "url": "https://shop.plaionpictures.com/the-last-of-us-die-komplette-1.-staffel-limitiertes-steelbook-4k-uhd",
       "image": "https://shop.plaionpictures.com/media/65/2e/21/1772029288/1194425_%281%29.webp?ts=1772029288",
       "price": "",
@@ -7423,7 +6803,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Der Herr der Ringe: Die zwei Türme (Limitiertes Steelbook, 4K-UHD) (SHOP)",
+      "title": "Der Herr der Ringe: Die zwei Türme",
       "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-zwei-tuerme-limitiertes-steelbook-4k-uhd-shop",
       "image": "https://shop.plaionpictures.com/media/55/5f/90/1772028322/1193421_%281%29.webp?ts=1772028322",
       "price": "",
@@ -7433,7 +6813,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Der Herr der Ringe: Die Rückkehr des Königs (Limitiertes Steelbook, 4K-UHD) (SHOP)",
+      "title": "Der Herr der Ringe: Die Rückkehr des Königs",
       "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-rueckkehr-des-koenigs-limitiertes-steelbook-4k-uhd-shop",
       "image": "https://shop.plaionpictures.com/media/ea/da/25/1772028556/1193422_%281%29.webp?ts=1772028556",
       "price": "",
@@ -7443,7 +6823,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Der Herr der Ringe: Die Gefährten (Limitiertes Steelbook, 4K-UHD) (SHOP)",
+      "title": "Der Herr der Ringe: Die Gefährten",
       "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-gefaehrten-limitiertes-steelbook-4k-uhd-shop",
       "image": "https://shop.plaionpictures.com/media/73/d0/18/1772028770/1191903_%281%29.webp?ts=1772028770",
       "price": "",
@@ -7453,7 +6833,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "The Penguin: Die komplette 1. Staffel (Limitiertes Steelbook, Blu-ray)",
+      "title": "The Penguin: Die komplette 1. Staffel",
       "url": "https://shop.plaionpictures.com/the-penguin-die-komplette-1.-staffel-limitiertes-steelbook-blu-ray",
       "image": "https://shop.plaionpictures.com/media/16/a0/c1/1772028961/1191899_%281%29.webp?ts=1772028961",
       "price": "",
@@ -7463,7 +6843,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Texas Chainsaw Massacre: The Beginning (Mediabook A, 2 Blu-rays) (exkl. Shop)",
+      "title": "Texas Chainsaw Massacre: The Beginning",
       "url": "https://shop.plaionpictures.com/texas-chainsaw-massacre-the-beginning-mediabook-a-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/f6/1d/24/1772029038/1147387_%281%29.webp?ts=1772029038",
       "price": "",
@@ -7473,17 +6853,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Texas Chainsaw Massacre: The Beginning (Mediabook B, 2 Blu-rays) (exkl. Shop)",
-      "url": "https://shop.plaionpictures.com/texas-chainsaw-massacre-the-beginning-mediabook-b-2-blu-rays-exkl.-shop",
-      "image": "https://shop.plaionpictures.com/media/9b/da/4e/1772029091/1176844_%281%29.webp?ts=1772029091",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
-    },
-    {
-      "title": "Street Trash (Collector's Edition, 2 4K-UHDs, 3 Blu-rays) (Shop exkl)",
+      "title": "Street Trash",
       "url": "https://shop.plaionpictures.com/street-trash-collector-s-edition-2-4k-uhds-3-blu-rays-shop-exkl",
       "image": "https://shop.plaionpictures.com/media/8e/8f/48/1772029180/1155912_%281%29.webp?ts=1772029180",
       "price": "",
@@ -7493,17 +6863,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Ben-Hur (Ultimate Collector’s Edition, 2 4K-UHDs+1 Bonus-Blu-ray) (Exkl. Shop)",
-      "url": "https://shop.plaionpictures.com/ben-hur-ultimate-collector-s-edition-2-4k-uhds-1-bonus-blu-ray-exkl.-shop",
-      "image": "https://shop.plaionpictures.com/media/aa/4d/f2/1767786176/BEN-HUR_4K-UCE_2D_JC.webp?ts=1767786176",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
-    },
-    {
-      "title": "Tampeko (Western All'arrabbiata #9, Blu-ray+DVD) (Exkl. Shop)",
+      "title": "Tampeko",
       "url": "https://shop.plaionpictures.com/tampeko-western-all-arrabbiata-9-blu-ray-dvd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/58/ce/9f/1768570091/Tampeko__2DmFSK_%281%29.webp?ts=1768570091",
       "price": "",
@@ -7513,7 +6873,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Blue Velvet (Mediabook C, 4K-UHD+2 Blu-rays) (exkl. Shop)",
+      "title": "Blue Velvet",
       "url": "https://shop.plaionpictures.com/blue-velvet-mediabook-c-4k-uhd-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/96/6f/3a/1760694462/BlueVelvet__MB-C__2D-Shopexclusive_mFSK-o.webp?ts=1760694462",
       "price": "",
@@ -7523,7 +6883,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Arcane - League of Legends: Staffel 2 (Deluxe Edition, 3 4K-UHDs+3 Blu-rays) (exkl. Shop)",
+      "title": "Arcane - League of Legends: Staffel 2",
       "url": "https://shop.plaionpictures.com/arcane-league-of-legends-staffel-2-deluxe-edition-3-4k-uhds-3-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/be/93/f7/1752762874/Arcane2_CE-FSK.webp?ts=1752762874",
       "price": "",
@@ -7533,7 +6893,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Getaway - Ihre Chance war gleich Null (Mediabook B, 2 Blu-rays) (exkl. Shop)",
+      "title": "Getaway - Ihre Chance war gleich Null",
       "url": "https://shop.plaionpictures.com/getaway-ihre-chance-war-gleich-null-mediabook-b-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/1a/4f/00/1757057043/Getaway_CoverB_2D_Shop%20exklusiv.webp?ts=1757057043",
       "price": "",
@@ -7543,7 +6903,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Superman (Limitiertes Steelbook C, 4K-UHD+Blu-ray) (excl. Shop)",
+      "title": "Superman",
       "url": "https://shop.plaionpictures.com/superman-limitiertes-steelbook-c-4k-uhd-blu-ray-excl.-shop",
       "image": "https://shop.plaionpictures.com/media/75/33/5f/1752062102/Superman%20SB%20C_2D.webp?ts=1752062102",
       "price": "",
@@ -7553,7 +6913,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "A Nightmare on Elm Street - 7-Filme-Steelbook-Collection (7 4K-UHDs, 4 Blu-rays) (Shop exkl.)",
+      "title": "A Nightmare on Elm Street - 7-Filme-Steelbook-Collection",
       "url": "https://shop.plaionpictures.com/a-nightmare-on-elm-street-7-filme-steelbook-collection-7-4k-uhds-4-blu-rays-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/a8/39/a4/1758265335/NOES_4K_7Film-COLLECTION_2D_JC.webp?ts=1758265335",
       "price": "",
@@ -7563,7 +6923,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Flammendes Inferno (Limitiertes Steelbook, 2 Blu-rays) (Shop exkl.)",
+      "title": "Flammendes Inferno",
       "url": "https://shop.plaionpictures.com/flammendes-inferno-limitiertes-steelbook-2-blu-rays-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/f3/28/70/1753966575/FlammendesInferno-SB__2D.webp?ts=1753966575",
       "price": "",
@@ -7573,7 +6933,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Django der Rächer (Western all'arrabbiata 8) (exkl. Shop)",
+      "title": "Django der Rächer",
       "url": "https://shop.plaionpictures.com/django-der-raecher-western-all-arrabbiata-8-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/b1/f2/d4/1753965911/Django2__Ansicht2D.webp?ts=1753965911",
       "price": "",
@@ -7583,7 +6943,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Magnum - Die komplette Serie (38 Blu-rays) (exkl. Shop)",
+      "title": "Magnum - Die komplette Serie",
       "url": "https://shop.plaionpictures.com/magnum-die-komplette-serie-38-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/eb/7d/47/1738048497/Magnum_Box_view.webp?ts=1738048497",
       "price": "",
@@ -7593,7 +6953,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Waterworld - Die Langfassung (Mediabook, 4K-UHD+2 Blu-rays) (exkl. Shop)",
+      "title": "Waterworld - Die Langfassung",
       "url": "https://shop.plaionpictures.com/waterworld-die-langfassung-mediabook-4k-uhd-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/74/cf/db/1749644591/Waterworld-MB__2D.webp?ts=1749644591",
       "price": "",
@@ -7603,7 +6963,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Infernal Affairs Trilogy (Collector's Edition, 3 UHDs, 3 Blu-rays, 3 Bonus-Blu-rays) (exkl. Shop)",
+      "title": "Infernal Affairs Trilogy",
       "url": "https://shop.plaionpictures.com/infernal-affairs-trilogy-collector-s-edition-3-uhds-3-blu-rays-3-bonus-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/cf/dd/43/1747920386/InfernalAffairs__Box-Front2D.webp?ts=1747920386",
       "price": "",
@@ -7613,7 +6973,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Andy Warhols Frankenstein (Mediabook C, 4K-UHD+2 Blu-rays) (exkl. Shop)",
+      "title": "Andy Warhols Frankenstein",
       "url": "https://shop.plaionpictures.com/andy-warhols-frankenstein-mediabook-c-4k-uhd-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/b7/ae/fe/1740059340/WarholsFrankenstein_CoverC1__2D-FSK16.webp?ts=1740059340",
       "price": "",
@@ -7623,7 +6983,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Das große Rennen rund um die Welt (Mediabook B, Blu-ray+DVD) (exkl. Shop)",
+      "title": "Das große Rennen rund um die Welt",
       "url": "https://shop.plaionpictures.com/das-grosse-rennen-rund-um-die-welt-mediabook-b-blu-ray-dvd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/71/67/e0/1729165618/DasGrosseRennen__CoverB_2D-FSK--NEU.jpg?ts=1729165627",
       "price": "",
@@ -7633,7 +6993,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Arcane - League of Legends - Staffel 1 (Deluxe Edition, 3 4K-UHDs+3 Blu-rays) (exkl. Shop)",
+      "title": "Arcane - League of Legends - Staffel 1",
       "url": "https://shop.plaionpictures.com/arcane-league-of-legends-staffel-1-deluxe-edition-3-4k-uhds-3-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/83/5c/31/1721912684/Arcane-CE-cover-preview-FSK.jpg?ts=1721912686",
       "price": "",
@@ -7643,7 +7003,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Django (Special Edition, 4K-UHD+3 Blu-rays+CD) (exkl. Shop)",
+      "title": "Django",
       "url": "https://shop.plaionpictures.com/django-special-edition-4k-uhd-3-blu-rays-cd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/a1/e6/bc/1731405329/Django-Ultimate__2Da.jpg?ts=1731405334",
       "price": "",
@@ -7653,7 +7013,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Columbia Classics Collection, Vol. 5 (8 4K-UHDs + 6 Blu-rays) (exkl. Shop)",
+      "title": "Columbia Classics Collection, Vol. 5",
       "url": "https://shop.plaionpictures.com/columbia-classics-collection-vol.-5-8-4k-uhds-6-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/10/10/fd/1722344408/COLUMBIA_CLASSICS_v5_ps_fsk_%281%29.jpg?ts=1722344421",
       "price": "",
@@ -7663,7 +7023,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Tanz der Vampire (Mediabook C, Blu-ray+DVD) (exkl. Shop)",
+      "title": "Tanz der Vampire",
       "url": "https://shop.plaionpictures.com/tanz-der-vampire-mediabook-c-blu-ray-dvd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/78/58/f0/1721988021/TanzDerVampire__MB-CoverC-Schuber__2D.jpg?ts=1721988021",
       "price": "",
@@ -7673,7 +7033,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Dario Argento - World of Horror (Special Edition, 3 Blu-rays+CD) (Shop exkl.)",
+      "title": "Dario Argento - World of Horror",
       "url": "https://shop.plaionpictures.com/dario-argento-world-of-horror-special-edition-3-blu-rays-cd-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/aa/f4/2a/1729235087/WoldOfHorror-Box-FSK16__2Da.webp?ts=1729235087",
       "price": "",
@@ -7683,7 +7043,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "The Hidden - Das unsagbar Böse (Mediabook B, Blu-ray+DVD) (Shop exkl.)",
+      "title": "The Hidden - Das unsagbar Böse",
       "url": "https://shop.plaionpictures.com/the-hidden-das-unsagbar-boese-mediabook-b-blu-ray-dvd-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/0a/96/88/1720012009/TheHidden__MB-B__2Da-FSK16.jpg?ts=1720012010",
       "price": "",
@@ -7693,7 +7053,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Gefährliche Brandung - Point Break - Limited Mediabook Edition Cover B (4K-UHD+Blu-ray)",
+      "title": "Gefährliche Brandung - Point Break - Limited Mediabook Edition Cover B",
       "url": "https://shop.plaionpictures.com/gefaehrliche-brandung-point-break-limited-mediabook-edition-cover-b-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/45/ba/42/1717586225/GefaehrlicheBrandung_MB-B_2D-a.jpg?ts=1717586226",
       "price": "",
@@ -7703,7 +7063,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Tammy and the T-Rex (Special Edition, 4K-UHD, 3 Blu-rays) (Shop exkl.)",
+      "title": "Tammy and the T-Rex",
       "url": "https://shop.plaionpictures.com/tammy-and-the-t-rex-special-edition-4k-uhd-3-blu-rays-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/a6/d7/9c/1721294026/Tammy-the-T-Rex_Box_Packshot_2D.jpg?ts=1721294026",
       "price": "",
@@ -7713,7 +7073,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Waterworld (Special Edition, 2 4K-UHDs, 3 Blu-rays, CD) (Shop exkl.)",
+      "title": "Waterworld",
       "url": "https://shop.plaionpictures.com/waterworld-special-edition-2-4k-uhds-3-blu-rays-cd-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/df/6e/b6/1721295431/Waterworld-2D-a.jpg?ts=1721295437",
       "price": "",
@@ -7723,7 +7083,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Ghostbusters: Frozen Empire (Steelbook B, 4K-UHD+Blu-ray) (Shop exkl.)",
+      "title": "Ghostbusters: Frozen Empire",
       "url": "https://shop.plaionpictures.com/ghostbusters-frozen-empire-steelbook-b-4k-uhd-blu-ray-shop-exkl.",
       "image": "https://shop.plaionpictures.com/media/f8/36/ab/1711448628/UHD-Steelbook-02_Ghostbusters-Frozen-Empire_Shop.jpg?ts=1711448628",
       "price": "",
@@ -7733,7 +7093,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "MacGyver - Die komplette Serie (34 Blu-rays) (exkl. Shop)",
+      "title": "MacGyver - Die komplette Serie",
       "url": "https://shop.plaionpictures.com/macgyver-die-komplette-serie-34-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/3e/8d/44/1702460398/PP-MacGyver-Komplettbox_Front_FSK.jpg?ts=1702460398",
       "price": "",
@@ -7753,7 +7113,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "God's Army (Special Edition, 4K-UHD + 3 Blu-rays) (exkl. Shop)",
+      "title": "God's Army",
       "url": "https://shop.plaionpictures.com/god-s-army-special-edition-4k-uhd-3-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/c6/23/10/1712586507/Gods-Army_2D-Packshot.jpg?ts=1712586512",
       "price": "",
@@ -7763,7 +7123,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Columbia Classics Collection, Vol. 4 (8 4K-UHDs + 6 Blu-rays) (exkl. Shop)",
+      "title": "Columbia Classics Collection, Vol. 4",
       "url": "https://shop.plaionpictures.com/columbia-classics-collection-vol.-4-8-4k-uhds-6-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/7e/7b/92/1703155337/ColumbiaClass4_3D_%281%29.jpg?ts=1703155337",
       "price": "",
@@ -7773,7 +7133,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Sicario 1 & 2 - Limited Collector´s Edition Cover A (2 4K UHDs + 2 Blu-rays) (exkl. Shop)",
+      "title": "Sicario 1 & 2 - Limited Collector´s Edition Cover A",
       "url": "https://shop.plaionpictures.com/sicario-1-2-limited-collector-s-edition-cover-a-2-4k-uhds-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/82/6b/37/1698130864/Sicario_507830_MB-A__2D.jpg?ts=1698130864",
       "price": "",
@@ -7783,7 +7143,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Sicario 1 & 2 - Limited Collector´s Edition Cover B (2 4K UHDs + 2 Blu-rays) (exkl. Shop)",
+      "title": "Sicario 1 & 2 - Limited Collector´s Edition Cover B",
       "url": "https://shop.plaionpictures.com/sicario-1-2-limited-collector-s-edition-cover-b-2-4k-uhds-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/c5/06/7c/1698130916/Sicario_507899_MB-B__2D.jpg?ts=1698130916",
       "price": "",
@@ -7793,7 +7153,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Die Trampler - Western All’Arrabbiata 7 (Blu-ray+DVD) (exkl. Shop)",
+      "title": "Die Trampler - Western All’Arrabbiata 7",
       "url": "https://shop.plaionpictures.com/die-trampler-western-all-arrabbiata-7-blu-ray-dvd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/61/67/10/1702308026/DieTrampler__2D-FSK.jpg?ts=1702308026",
       "price": "",
@@ -7803,7 +7163,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Terminator 2 - Limited Endo Skull Edition (4K Ultra HD + 2 Blu-rays) (exkl. Shop)",
+      "title": "Terminator 2 - Limited Endo Skull Edition",
       "url": "https://shop.plaionpictures.com/terminator-2-limited-endo-skull-edition-4k-ultra-hd-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/18/e8/7a/1701068588/terminator%20pack%20shots.png?ts=1701068588",
       "price": "",
@@ -7813,7 +7173,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Return of the Living Dead 2 (Mediabook B, 2 Blu-rays) (exkl. Shop)",
+      "title": "Return of the Living Dead 2",
       "url": "https://shop.plaionpictures.com/return-of-the-living-dead-2-mediabook-b-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/86/41/56/1690877479/ReturnOfTheLivingDead2__MB-CoverB__2D.jpg?ts=1690877479",
       "price": "",
@@ -7823,7 +7183,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Return of the Living Dead 3 (Mediabook B, 2 Blu-rays) (exkl. Shop)",
+      "title": "Return of the Living Dead 3",
       "url": "https://shop.plaionpictures.com/return-of-the-living-dead-3-mediabook-b-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/bf/52/d8/1690877535/ReturnOfTheLivingDead3__MB-CoverB__2D.jpg?ts=1690877535",
       "price": "",
@@ -7843,7 +7203,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Die Straßen von San Francisco - Die komplette Serie (25 BRs) (exkl. Shop)",
+      "title": "Die Straßen von San Francisco - Die komplette Serie",
       "url": "https://shop.plaionpictures.com/die-strassen-von-san-francisco-die-komplette-serie-25-brs-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/71/e7/da/1685949725/SanFrancisco__2D-FSK.jpg?ts=1685949725",
       "price": "",
@@ -7853,7 +7213,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "High Tension (Mediabook C, 4K-UHD+2 Blu-rays) (exkl. Shop)",
+      "title": "High Tension",
       "url": "https://shop.plaionpictures.com/high-tension-mediabook-c-4k-uhd-2-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/cd/4a/11/1683800819/PP_HighTension-MBC.jpg?ts=1683800819",
       "price": "",
@@ -7863,7 +7223,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Vier Fliegen auf grauem Samt (Special Edition, 4K-UHD, 2 Blu-rays, CD) (exkl. Shop)",
+      "title": "Vier Fliegen auf grauem Samt",
       "url": "https://shop.plaionpictures.com/vier-fliegen-auf-grauem-samt-special-edition-4k-uhd-2-blu-rays-cd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/0d/2e/a1/1681298911/VierFliegen_UHD-Box__2D.jpg?ts=1681298911",
       "price": "",
@@ -7873,7 +7233,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Falling Down - Ein ganz normaler Tag (Mediabook A, Blu-ray+DVD) (exkl. Shop)",
+      "title": "Falling Down - Ein ganz normaler Tag",
       "url": "https://shop.plaionpictures.com/falling-down-ein-ganz-normaler-tag-mediabook-a-blu-ray-dvd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/e7/f9/a0/1683800493/FallingDown__CoverA__2DmCCard_%281%29.jpg?ts=1683800493",
       "price": "",
@@ -7883,7 +7243,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Carlito´s Way - Collector´s Edition (4K Ultra HD+Blu-ray) (exkl. Shop)",
+      "title": "Carlito´s Way - Collector´s Edition",
       "url": "https://shop.plaionpictures.com/carlito-s-way-collector-s-edition-4k-ultra-hd-blu-ray-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/bf/a8/d4/1683872767/CarlitosWay_Mediabook_2D-mJ-Card.jpg?ts=1683872767",
       "price": "",
@@ -7893,19 +7253,9 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Django - Nur der Colt war sein Freund - Western All’Arrabbiata 6 (Blu-ray+DVD) (exkl. Shop)",
+      "title": "Django - Nur der Colt war sein Freund - Western All’Arrabbiata 6",
       "url": "https://shop.plaionpictures.com/django-nur-der-colt-war-sein-freund-western-all-arrabbiata-6-blu-ray-dvd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/0e/d3/7a/1685949596/Django_NurDerColt__2D-FSK.jpg?ts=1685949596",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
-    },
-    {
-      "title": "Opera (Special Edition, 2 UHDs+3 Blu-rays) (exkl. Shop)",
-      "url": "https://shop.plaionpictures.com/opera-special-edition-2-uhds-3-blu-rays-exkl.-shop",
-      "image": "https://shop.plaionpictures.com/media/ec/b6/62/1681298869/Opera_2D.jpg?ts=1681298869",
       "price": "",
       "release_date": "",
       "source_id": "plaion_exclusives",
@@ -7923,7 +7273,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Ein Halleluja für Spirito Santo (Western All'Arrabbiata #5, Blu-ray+DVD) (exkl. Shop)",
+      "title": "Ein Halleluja für Spirito Santo",
       "url": "https://shop.plaionpictures.com/ein-halleluja-fuer-spirito-santo-western-all-arrabbiata-5-blu-ray-dvd-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/e9/64/15/1677661806/EinHallelujaFuerSpirito__2D-FSK.jpg?ts=1677661806",
       "price": "",
@@ -7933,7 +7283,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Ringu (J-Horror Collection #2) (Mediabook, 4K-UHD+Blu-ray) (exkl. Shop)",
+      "title": "Ringu",
       "url": "https://shop.plaionpictures.com/ringu-j-horror-collection-2-mediabook-4k-uhd-blu-ray-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/6b/01/f5/1673535741/Ringu__2D-JCard.jpg?ts=1673535741",
       "price": "",
@@ -7953,7 +7303,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "He-Man & She-Ra - The Eternia Collection (20 Blu-rays)-exkl Shop (inkl.  2 Austausch-Keepcases)",
+      "title": "He-Man & She-Ra - The Eternia Collection (20 Blu-rays)-exkl Shop",
       "url": "https://shop.plaionpictures.com/he-man-she-ra-the-eternia-collection-20-blu-rays-exkl-shop",
       "image": "https://shop.plaionpictures.com/media/54/5c/63/1668172106/Eternia-Collection__2D_mSticker.jpg?ts=1668172106",
       "price": "",
@@ -8023,7 +7373,7 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
-      "title": "Ivanhoe - Der schwarze Ritter (Digipack, Blu-ray+DVD)",
+      "title": "Ivanhoe - Der schwarze Ritter",
       "url": "https://shop.plaionpictures.com/ivanhoe-der-schwarze-ritter-digipack-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/07/2c/e1/1760624095/Ivanhoe_Box_2D_mFSK.webp?ts=1760624095",
       "price": "",
@@ -8033,7 +7383,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Die Wildnis ruft (Mediabook, Blu-ray+DVD)",
+      "title": "Die Wildnis ruft",
       "url": "https://shop.plaionpictures.com/die-wildnis-ruft-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/34/39/b9/1757054654/DieWildnisRuft_MB_2D_FSK.webp?ts=1757054654",
       "price": "",
@@ -8043,7 +7393,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Der alte Mann und das Meer (Mediabook, Blu-ray+DVD)",
+      "title": "Der alte Mann und das Meer",
       "url": "https://shop.plaionpictures.com/der-alte-mann-und-das-meer-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/9b/d2/77/1757660177/DerAlteMannUndDasMeer_2D_FSK.webp?ts=1757660177",
       "price": "",
@@ -8053,7 +7403,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Der Seefuchs (Mediabook, Blu-ray+DVD)",
+      "title": "Der Seefuchs",
       "url": "https://shop.plaionpictures.com/der-seefuchs-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/5e/4b/6c/1748433463/DerSeefuchs_Mediabook.webp?ts=1748433463",
       "price": "",
@@ -8063,17 +7413,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Harte Ziele (Mediabook, 4K-UHD+2 Blu-rays)",
-      "url": "https://shop.plaionpictures.com/harte-ziele-mediabook-4k-uhd-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/18/d8/c5/1746530480/PP_HarteZiele-MB.webp?ts=1746530480",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Ich glaub' mich knutscht ein Elch (Limitiertes Steelbook, 4K-UHD+Blu-ray)",
+      "title": "Ich glaub' mich knutscht ein Elch",
       "url": "https://shop.plaionpictures.com/ich-glaub-mich-knutscht-ein-elch-limitiertes-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/38/d6/bc/1740656293/Ich%20glaub%20mich%20knutscht%20ein%20Elch_Steelbook.webp?ts=1740656293",
       "price": "",
@@ -8083,7 +7423,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "He-Man and the Masters of the Universe (1983) (Vol. 2) (5 Blu-rays)",
+      "title": "He-Man and the Masters of the Universe",
       "url": "https://shop.plaionpictures.com/he-man-and-the-masters-of-the-universe-1983-vol.-2-5-blu-rays",
       "image": "https://shop.plaionpictures.com/media/15/e2/6d/1739439431/MOTU_Vol2__2D-FSK.webp?ts=1739439431",
       "price": "",
@@ -8093,7 +7433,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Sleep (Mediabook, Blu-ray+DVD)",
+      "title": "Sleep",
       "url": "https://shop.plaionpictures.com/sleep-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/d3/39/f9/1733996235/Sleep-MB-Sticker_%281%29.jpg?ts=1733996235",
       "price": "",
@@ -8103,7 +7443,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Mr. Monks letzter Fall (4K-UHD+Blu-ray)",
+      "title": "Mr. Monks letzter Fall",
       "url": "https://shop.plaionpictures.com/mr.-monks-letzter-fall-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/0b/db/22/1731586568/MrMonksLetzterFall_UHD_Front.jpg?ts=1731586571",
       "price": "",
@@ -8113,27 +7453,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Mr. Monks letzter Fall (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/mr.-monks-letzter-fall-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/ef/04/dd/1731586510/MrMonksLetzterFall_BD_2D.jpg?ts=1731586510",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "He-Man and the Masters of the Universe (1983) (Vol. 1) (5 Blu-rays)",
-      "url": "https://shop.plaionpictures.com/he-man-and-the-masters-of-the-universe-1983-vol.-1-5-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/80/b1/89/1725523669/MotU_Vol1_2Da.jpg?ts=1725523671",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Pulse (J-Horror Collection #5) (Mediabook, Blu-ray+DVD)",
+      "title": "Pulse",
       "url": "https://shop.plaionpictures.com/pulse-j-horror-collection-5-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/ef/af/b9/1721288391/Pulse__2D-J-Card.jpg?ts=1721288406",
       "price": "",
@@ -8143,7 +7463,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Book of Clarence (Blu-ray)",
+      "title": "Book of Clarence",
       "url": "https://shop.plaionpictures.com/book-of-clarence-blu-ray",
       "image": "https://shop.plaionpictures.com/media/0c/1c/e8/1719840750/1125408_%281%29.jpg?ts=1719840761",
       "price": "",
@@ -8153,17 +7473,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Book of Clarence (DVD)",
-      "url": "https://shop.plaionpictures.com/book-of-clarence-dvd",
-      "image": "https://shop.plaionpictures.com/media/ca/8c/9c/1713958539/1125407.jpg?ts=1713958546",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Old Man (Blu-ray)",
+      "title": "Old Man",
       "url": "https://shop.plaionpictures.com/old-man-blu-ray",
       "image": "https://shop.plaionpictures.com/media/7a/49/83/1677228592/PP_OldMan-BD_2D.jpg?ts=1677228592",
       "price": "",
@@ -8173,17 +7483,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Old Man (Mediabook, 4K-UHD+Blu-ray)",
-      "url": "https://shop.plaionpictures.com/old-man-mediabook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/87/14/03/1677228637/PP_OldMan-MB.jpg?ts=1677228637",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Hannibal (Mediabook, 2 Blu-rays)",
+      "title": "Hannibal",
       "url": "https://shop.plaionpictures.com/hannibal-mediabook-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/50/4b/45/1670248850/Hannibal_2D-FSK.jpg?ts=1670248850",
       "price": "",
@@ -8193,19 +7493,9 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Sissy (DVD)",
+      "title": "Sissy",
       "url": "https://shop.plaionpictures.com/sissy-dvd",
       "image": "https://shop.plaionpictures.com/media/a8/89/bd/1669376347/Sissy_DVD_2D.jpg?ts=1669387579",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Sissy (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/sissy-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/bf/bc/16/1669376379/Sissy_Blu-ray_2D.jpg?ts=1669376379",
       "price": "",
       "release_date": "",
       "source_id": "plaion_sale",
@@ -8223,7 +7513,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Proxima (Blu-ray)",
+      "title": "Proxima",
       "url": "https://shop.plaionpictures.com/proxima-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f5/e2/c7/1656501224/KF_Proxima-BD_2D.jpg?ts=1664438667",
       "price": "",
@@ -8233,7 +7523,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Terminator: Die Erlösung  (4K-UHD)",
+      "title": "Terminator: Die Erlösung",
       "url": "https://shop.plaionpictures.com/terminator-die-erloesung-4k-uhd",
       "image": "https://shop.plaionpictures.com/media/ba/cd/9d/1707310635/Terminator-Die-Erloesung_1129866_3d.jpg?ts=1707310635",
       "price": "",
@@ -8243,7 +7533,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Ghostbusters (4K-UHD)",
+      "title": "Ghostbusters",
       "url": "https://shop.plaionpictures.com/ghostbusters-4k-uhd",
       "image": "https://shop.plaionpictures.com/media/28/6f/eb/1707298342/Ghostbusters_1131945.jpg?ts=1707298342",
       "price": "",
@@ -8253,7 +7543,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Django Unchained (Blu-ray)",
+      "title": "Django Unchained",
       "url": "https://shop.plaionpictures.com/django-unchained-blu-ray",
       "image": "https://shop.plaionpictures.com/media/b1/9a/7e/1707234569/Django-unchained_1129663.jpg?ts=1707234569",
       "price": "",
@@ -8263,17 +7553,7 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Django Unchained (DVD)",
-      "url": "https://shop.plaionpictures.com/django-unchained-dvd",
-      "image": "https://shop.plaionpictures.com/media/20/3c/45/1707234666/Django-unchained_1129664_3d.jpg?ts=1707234666",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Ich glaub', mich knutscht ein Elch! (Extended Version) (Blu-ray)",
+      "title": "Ich glaub', mich knutscht ein Elch!",
       "url": "https://shop.plaionpictures.com/ich-glaub-mich-knutscht-ein-elch-extended-version-blu-ray",
       "image": "https://shop.plaionpictures.com/media/d5/d3/24/1707299127/Ich-glaub-mich-knutscht-ein-Elch_1129732.jpg?ts=1707299127",
       "price": "",
@@ -8283,39 +7563,9 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
-      "title": "Terminator: Die Erlösung (Director's Cut) (Blu-ray)",
-      "url": "https://shop.plaionpictures.com/terminator-die-erloesung-director-s-cut-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/09/7e/e5/1707310650/Terminator-Die-Erloesung_1129867.jpg?ts=1707310650",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Terminator: Die Erlösung (DVD)",
-      "url": "https://shop.plaionpictures.com/terminator-die-erloesung-dvd",
-      "image": "https://shop.plaionpictures.com/media/aa/27/c1/1707310717/Terminator-Die-Erloesung_1132074.jpg?ts=1707310717",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Terminator 3 - Rebellion der Maschinen (Blu-ray)",
+      "title": "Terminator 3 - Rebellion der Maschinen",
       "url": "https://shop.plaionpictures.com/terminator-3-rebellion-der-maschinen-blu-ray",
       "image": "https://shop.plaionpictures.com/media/fa/d4/7a/1707310581/Terminator-3_1129865.jpg?ts=1707310581",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Terminator 3 - Rebellion der Maschinen (DVD)",
-      "url": "https://shop.plaionpictures.com/terminator-3-rebellion-der-maschinen-dvd",
-      "image": "https://shop.plaionpictures.com/media/48/99/cb/1707310599/Terminator-3_1132073.jpg?ts=1707310599",
       "price": "",
       "release_date": "",
       "source_id": "plaion_sale",
