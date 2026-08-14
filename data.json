@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T08:15:43Z",
-  "count": 760,
+  "updated": "2026-08-14T10:01:09Z",
+  "count": 761,
   "products": [
     {
       "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -6073,6 +6073,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "House of the Dragon: Die komplette 3. Staffel",
+      "url": "https://shop.plaionpictures.com/house-of-the-dragon-die-komplette-3.-staffel-4-dvds",
+      "image": "https://shop.plaionpictures.com/media/23/fc/90/1786627583/1211577.webp?ts=1786627583",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Michael Jackson: This is it",
       "url": "https://shop.plaionpictures.com/michael-jackson-this-is-it-2-dvds",
       "image": "https://shop.plaionpictures.com/media/80/g0/54/1769698939/DVD%202D.webp?ts=1769698939",
@@ -6133,19 +6143,9 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Supergirl",
-      "url": "https://shop.plaionpictures.com/supergirl-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/38/4d/28/1782308235/SUPERGIRL_UHD_2D_vorlufig_%281%29.webp?ts=1782308235",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Wicked: Teil 2",
       "url": "https://shop.plaionpictures.com/wicked-teil-2-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a5/13/0a/1785762476/SUPERGIRL_JC_2D-9.webp?ts=1785762476",
+      "image": "https://shop.plaionpictures.com/media/43/20/dc/1782307715/1176943.webp?ts=1782307715",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6155,7 +6155,7 @@
     {
       "title": "Five Nights at Freddy's 2",
       "url": "https://shop.plaionpictures.com/five-nights-at-freddy-s-2-limitiertes-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a5/13/0a/1785762476/SUPERGIRL_JC_2D-9.webp?ts=1785762476",
+      "image": "https://shop.plaionpictures.com/media/43/20/dc/1782307715/1176943.webp?ts=1782307715",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6165,7 +6165,17 @@
     {
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a5/13/0a/1785762476/SUPERGIRL_JC_2D-9.webp?ts=1785762476",
+      "image": "https://shop.plaionpictures.com/media/43/20/dc/1782307715/1176943.webp?ts=1782307715",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Supergirl",
+      "url": "https://shop.plaionpictures.com/supergirl-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/38/4d/28/1782308235/SUPERGIRL_UHD_2D_vorlufig_%281%29.webp?ts=1782308235",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6724,13 +6734,13 @@
     },
     {
       "title": "Mars Attacks",
-      "url": "https://shop.plaionpictures.com/mars-attacks-collector-s-edition-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/0e/ac/2f/1781707920/1204988.webp?ts=1781707920",
+      "url": "https://shop.plaionpictures.com/mars-attacks-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/fc/1d/36/1781708916/1204988_%281%29.webp?ts=1781708916",
       "price": "",
       "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
       "title": "Tanz der Teufel (45th Anniversary Steelbook, Remastered 4K-UHD+Blu-ray)(Shop exklusiv)",
