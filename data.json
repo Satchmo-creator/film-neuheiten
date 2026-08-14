@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T13:04:23Z",
+  "updated": "2026-08-14T14:51:14Z",
   "count": 761,
   "products": [
     {
@@ -537,46 +537,6 @@
       "url": "https://shop.leoninestudios.com/products/scary-movie-6-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972599601jpg-197871.jpg?v=1781265918",
       "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Horst Schlämmer sucht das Glück Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/horst-schlammer-sucht-das-gluck-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122954351401jpg-208115.jpg?v=1784025509",
-      "price": "17,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Horst Schlämmer sucht das Glück",
-      "url": "https://shop.leoninestudios.com/products/horst-schlammer-sucht-das-gluck",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122954350701jpg-208199.jpg?v=1784025519",
-      "price": "14,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Der Wunderweltenbaum",
-      "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677905_01.jpg?v=1777980870",
-      "price": "14,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Der Wunderweltenbaum Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677912_01.jpg?v=1777980972",
-      "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -1216,6 +1176,46 @@
       "title": "Der Teufel trägt Prada 2",
       "url": "https://shop.leoninestudios.com/products/der-teufel-tr-gt-prada-2",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969290801jpg-201889.jpg?v=1782841083",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Horst Schlämmer sucht das Glück Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/horst-schlammer-sucht-das-gluck-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122954351401jpg-208115.jpg?v=1784025509",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Wunderweltenbaum",
+      "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677905_01.jpg?v=1777980870",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Horst Schlämmer sucht das Glück",
+      "url": "https://shop.leoninestudios.com/products/horst-schlammer-sucht-das-gluck",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122954350701jpg-208199.jpg?v=1784025519",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Wunderweltenbaum Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677912_01.jpg?v=1777980972",
       "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
