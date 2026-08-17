@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T10:31:36Z",
+  "updated": "2026-08-17T11:25:03Z",
   "count": 759,
   "products": [
     {
@@ -5864,8 +5864,8 @@
     },
     {
       "title": "Mortal Kombat II",
-      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/19/c6/df/1782217115/MORTAL%20KOMBAT%20II%204K%20UHD%20SB%20Cover%202D%20J-Card_%281%29.webp?ts=1782217115",
+      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/13/93/14/1782217209/MORTAL%20KOMBAT%20II%20BD%20Cover%202D.webp?ts=1782217209",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -5953,19 +5953,9 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Howard the Duck - Ein tierischer Held",
-      "url": "https://shop.plaionpictures.com/howard-the-duck-ein-tierischer-held-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/f5/4a/ee/1777012499/Howard_4K-SB_2D-FSK.webp?ts=1777012499",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
       "title": "PLAION PICTURES",
       "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/f5/4a/ee/1777012499/Howard_4K-SB_2D-FSK.webp?ts=1777012499",
+      "image": "https://shop.plaionpictures.com/media/74/61/44/1776930315/1203361.webp?ts=1776930315",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -5975,6 +5965,16 @@
     {
       "title": "Warner Bros",
       "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/74/61/44/1776930315/1203361.webp?ts=1776930315",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Howard the Duck - Ein tierischer Held",
+      "url": "https://shop.plaionpictures.com/howard-the-duck-ein-tierischer-held-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f5/4a/ee/1777012499/Howard_4K-SB_2D-FSK.webp?ts=1777012499",
       "price": "",
       "release_date": "",
@@ -6115,7 +6115,7 @@
     {
       "title": "Wicked: Teil 2",
       "url": "https://shop.plaionpictures.com/wicked-teil-2-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/4f/50/21/1782307441/1207724.webp?ts=1782307441",
+      "image": "https://shop.plaionpictures.com/media/16/4c/e4/1782307016/1207723.webp?ts=1782307016",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6125,7 +6125,7 @@
     {
       "title": "Five Nights at Freddy's 2",
       "url": "https://shop.plaionpictures.com/five-nights-at-freddy-s-2-limitiertes-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/4f/50/21/1782307441/1207724.webp?ts=1782307441",
+      "image": "https://shop.plaionpictures.com/media/16/4c/e4/1782307016/1207723.webp?ts=1782307016",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6135,7 +6135,7 @@
     {
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/4f/50/21/1782307441/1207724.webp?ts=1782307441",
+      "image": "https://shop.plaionpictures.com/media/16/4c/e4/1782307016/1207723.webp?ts=1782307016",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
