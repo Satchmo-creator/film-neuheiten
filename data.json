@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T14:27:25Z",
-  "count": 759,
+  "updated": "2026-08-17T15:24:30Z",
+  "count": 761,
   "products": [
     {
       "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -6273,9 +6273,29 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Tiger & Dragon",
+      "url": "https://shop.plaionpictures.com/tiger-dragon-dvd",
+      "image": "https://shop.plaionpictures.com/media/2b/63/ec/1786972723/1211687.webp?ts=1786972723",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Iron Maiden: Burning Ambition",
       "url": "https://shop.plaionpictures.com/iron-maiden-burning-ambition-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/91/fb/89/1783512241/Steelbook_Cover_%283%29.webp?ts=1783512241",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Cable Guy - Die Nervensäge",
+      "url": "https://shop.plaionpictures.com/cable-guy-die-nervensaege-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/1e/49/e6/1786972711/1210662.webp?ts=1786972711",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
