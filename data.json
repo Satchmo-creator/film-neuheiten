@@ -1,12 +1,22 @@
 {
-  "updated": "2026-08-18T05:28:38Z",
-  "count": 761,
+  "updated": "2026-08-18T06:41:46Z",
+  "count": 762,
   "products": [
     {
-      "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
-      "url": "https://shop.leoninestudios.com/products/the-mandalorian-staffel-1-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/themandalorianstaffel1uhdbdlimsteelbookuhdbox4k40612294000912d72dpijpg-49590.jpg?v=1785848590",
-      "price": "59,99 €",
+      "title": "Scary Movie 4K UHD + Blu-ray Lim. SteelBook",
+      "url": "https://shop.leoninestudios.com/products/scary-movie-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/scarymoviesbuhdbdpackshotfrontjpg-216812.jpg?v=1787032312",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Scary Movie  4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/scary-movie-6-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972599601jpg-197871.jpg?v=1781265918",
+      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -87,6 +97,16 @@
       "url": "https://shop.leoninestudios.com/products/avatar-ultimate-3-movie-collection-4k-uhd-blu-ray-bonus",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969032401jpg-211678.jpg?v=1785153391",
       "price": "179,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/the-mandalorian-staffel-1-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/themandalorianstaffel1uhdbdlimsteelbookuhdbox4k40612294000912d72dpijpg-49590.jpg?v=1785848590",
+      "price": "59,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -527,16 +547,6 @@
       "url": "https://shop.leoninestudios.com/products/avatar-the-way-of-water-3d-blu-ray-3d-2d",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/8717418615444_01.jpg?v=1770629197",
       "price": "24,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Scary Movie  4K UHD + Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/scary-movie-6-4k-uhd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972599601jpg-197871.jpg?v=1781265918",
-      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
