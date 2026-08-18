@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T08:36:05Z",
-  "count": 762,
+  "updated": "2026-08-18T09:33:05Z",
+  "count": 767,
   "products": [
     {
       "title": "Scary Movie 4K UHD + Blu-ray Lim. SteelBook",
@@ -13,10 +13,50 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Scary Movie  4K UHD + Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/scary-movie-6-4k-uhd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972599601jpg-197871.jpg?v=1781265918",
-      "price": "29,99 €",
+      "title": "The Invite Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-invite-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122974481201jpg-217142.jpg?v=1787040782",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Hungry Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/hungry-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972831701jpg-217230.jpg?v=1787040792",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Power Ballad - Der Song meines Lebens Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/power-ballad-der-song-meines-lebens-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970501101jpg-217318.jpg?v=1787040802",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Snoopy im All Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/snoopy-im-all-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970261401jpg-217715.jpg?v=1787045010",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Snoopy im All",
+      "url": "https://shop.leoninestudios.com/products/snoopy-im-all",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970260701jpg-217450.jpg?v=1787042899",
+      "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -86,6 +126,16 @@
       "title": "Friedhof der Kuscheltiere 4K UHD + Blu-ray Lim. SteelBook",
       "url": "https://shop.leoninestudios.com/products/friedhof-der-kuscheltiere-4k-uhd-blu-ray-lim-steelbook",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/friedhofkuscheltieresbuhdbdpackshotfrontjpg-212089.jpg?v=1785230529",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Scary Movie  4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/scary-movie-6-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972599601jpg-197871.jpg?v=1781265918",
       "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
