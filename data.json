@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T11:24:32Z",
+  "updated": "2026-08-18T12:44:05Z",
   "count": 767,
   "products": [
     {
@@ -1293,8 +1293,8 @@
       "source_url": "https://shop.capelight.de/VORSCHAU/"
     },
     {
-      "title": "West Side Story (Blu-ray)",
-      "url": "https://shop.capelight.de/West-Side-Story-Blu-ray/6425554",
+      "title": "West Side Story Blu-ray *NEUE_BD*",
+      "url": "https://shop.capelight.de/West-Side-Story-Blu-ray-NEUE-BD/6425554",
       "image": "",
       "price": "17,99 €",
       "release_date": "20.08.2026",
@@ -6203,16 +6203,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Resurrection",
-      "url": "https://shop.plaionpictures.com/resurrection-mediabook-dvd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/43/20/dc/1782307715/1176943.webp?ts=1782307715",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Supergirl",
       "url": "https://shop.plaionpictures.com/supergirl-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/38/4d/28/1782308235/SUPERGIRL_UHD_2D_vorlufig_%281%29.webp?ts=1782308235",
@@ -6556,6 +6546,16 @@
       "title": "Nightmare on Elm Street - 7-Film Collection",
       "url": "https://shop.plaionpictures.com/nightmare-on-elm-street-7-film-collection-7-4k-uhds-4-blu-rays-shop-exklusiv",
       "image": "https://shop.plaionpictures.com/media/9f/01/0f/1786100545/NOES_7-Film%20Coll_4K-LibraryCase_2D_JC.webp?ts=1786100545",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Resurrection",
+      "url": "https://shop.plaionpictures.com/resurrection-mediabook-dvd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/43/20/dc/1782307715/1176943.webp?ts=1782307715",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
