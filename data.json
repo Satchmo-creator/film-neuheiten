@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-18T09:33:05Z",
-  "count": 767,
+  "updated": "2026-08-18T10:27:16Z",
+  "count": 769,
   "products": [
+    {
+      "title": "Hubert ohne Staller - Staffel 13 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/hubert-ohne-staller-staffel-13-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229415064_01.jpg?v=1787048411",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Hubert ohne Staller - Staffel 13",
+      "url": "https://shop.leoninestudios.com/products/hubert-ohne-staller-staffel-13",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229415057_01.jpg?v=1787048647",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Scary Movie 4K UHD + Blu-ray Lim. SteelBook",
       "url": "https://shop.leoninestudios.com/products/scary-movie-4k-uhd-blu-ray-lim-steelbook",
