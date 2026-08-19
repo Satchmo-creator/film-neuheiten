@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-19T06:42:13Z",
-  "count": 768,
+  "updated": "2026-08-19T07:37:44Z",
+  "count": 769,
   "products": [
+    {
+      "title": "Hubert ohne Staller - Staffel 13",
+      "url": "https://shop.leoninestudios.com/products/hubert-ohne-staller-staffel-13",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122941505701jpg-218221.jpg?v=1787122880",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Hubert ohne Staller - Staffel 13 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/hubert-ohne-staller-staffel-13-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122941506401jpg-218043.jpg?v=1787121313",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Scary Movie 4K UHD + Blu-ray Lim. SteelBook",
       "url": "https://shop.leoninestudios.com/products/scary-movie-4k-uhd-blu-ray-lim-steelbook",
@@ -596,16 +616,6 @@
       "title": "Avatar: The Way of Water 3D Blu-ray (3D/2D)",
       "url": "https://shop.leoninestudios.com/products/avatar-the-way-of-water-3d-blu-ray-3d-2d",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/8717418615444_01.jpg?v=1770629197",
-      "price": "24,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Hubert ohne Staller - Staffel 13 Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/hubert-ohne-staller-staffel-13-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122941506401jpg-218043.jpg?v=1787121313",
       "price": "24,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
