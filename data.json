@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T15:33:15Z",
-  "count": 767,
+  "updated": "2026-08-20T16:34:31Z",
+  "count": 769,
   "products": [
     {
       "title": "Paw Patrol: Der Dino Film Blu-ray",
@@ -1681,6 +1681,36 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "West Side Story - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/West-Side-Story-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425216",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "20.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "West Side Story (Blu-ray)",
+      "url": "https://shop.capelight.de/West-Side-Story-Blu-ray/6425554",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "20.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Limitierte „Die glorreichen Sieben“-Collection (4K Ultra HD + 4 x Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Limitierte-Die-glorreichen-Sieben-Collection-4K-Ultra-HD-4-x-Blu-ray-Bonus-Blu-ray/6426039",
+      "image": "",
+      "price": "69,99 €",
+      "release_date": "20.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Wege zum Ruhm - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
@@ -7406,16 +7436,6 @@
       "title": "He-Man & She-Ra - The Eternia Collection (20 Blu-rays)-exkl Shop",
       "url": "https://shop.plaionpictures.com/he-man-she-ra-the-eternia-collection-20-blu-rays-exkl-shop",
       "image": "https://shop.plaionpictures.com/media/54/5c/63/1668172106/Eternia-Collection__2D_mSticker.jpg?ts=1668172106",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
-    },
-    {
-      "title": "Miami Vice – Die komplette Serie in HD (35 Blu-Rays)-exkl Shop",
-      "url": "https://shop.plaionpictures.com/miami-vice-die-komplette-serie-in-hd-35-blu-rays-exkl-shop",
-      "image": "https://shop.plaionpictures.com/media/b5/c9/0c/1668170797/MiamiVice2022__2DFSK.jpg?ts=1668170797",
       "price": "",
       "release_date": "",
       "source_id": "plaion_exclusives",
