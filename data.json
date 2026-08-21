@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T15:32:43Z",
-  "count": 816,
+  "updated": "2026-08-21T16:33:46Z",
+  "count": 825,
   "products": [
     {
       "title": "Paw Patrol: Der Dino Film Blu-ray",
@@ -2161,6 +2161,96 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "SHOOTOUT - KEINE GNADE - MEDIABOOK - COVER D - WATTIERT - BD/DVD",
+      "url": "https://eykmedia.de/products/shootout-keine-gnade-mediabook-cover-d-wattiert-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ShootOut_Cover-D_wattiert.jpg?v=1787321218",
+      "price": "40,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "SHOOTOUT - KEINE GNADE - MEDIABOOK - COVER C - BD/DVD",
+      "url": "https://eykmedia.de/products/shootout-keine-gnade-mediabook-cover-c-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ShootOut_Cover-C.jpg?v=1787321138",
+      "price": "33,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "SHOOTOUT - KEINE GNADE - MEDIABOOK - COVER B - BD/DVD",
+      "url": "https://eykmedia.de/products/shootout-keine-gnade-mediabook-cover-b-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ShootOut_Cover-B.jpg?v=1787321048",
+      "price": "33,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "SHOOTOUT - KEINE GNADE - MEDIABOOK - COVER A - BD/DVD",
+      "url": "https://eykmedia.de/products/shootout-keine-gnade-mediabook-cover-a-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ShootOut_Cover-A.jpg?v=1787320791",
+      "price": "33,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE PURGE STAFFEL 1&2 - SCHUBER EDITION - 2 MEDIABOOK - BD/DVD",
+      "url": "https://eykmedia.de/products/the-purge-staffel-1-2-schuber-edition-2-mediabook-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ThePurge_Schuber.jpg?v=1787320102",
+      "price": "109,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE PURGE STAFFEL 2 - MEDIABOOK - COVER C - BD/DVD",
+      "url": "https://eykmedia.de/products/the-purge-staffel-2-mediabook-cover-c-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ThePurge-S2_Cover-C.jpg?v=1787319896",
+      "price": "43,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE PURGE STAFFEL 2 - MEDIABOOK - COVER A - BD/DVD",
+      "url": "https://eykmedia.de/products/the-purge-staffel-2-mediabook-cover-a-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ThePurge-S2_Cover-A.jpg?v=1787319736",
+      "price": "43,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE PURGE STAFFEL 1 - MEDIABOOK - COVER C BD/DVD",
+      "url": "https://eykmedia.de/products/the-purge-staffel-1-mediabook-cover-c-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ThePurge-S1_Cover-C.jpg?v=1787319577",
+      "price": "43,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE PURGE STAFFEL 1 - MEDIABOOK - COVER A BD/DVD",
+      "url": "https://eykmedia.de/products/the-purge-staffel-1-mediabook-cover-a-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ThePurge-S1_Cover-A.jpg?v=1787319297",
+      "price": "43,99 €",
+      "release_date": "07.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "I SAW THE DEVIL - MEDIABOOK - FULL-SET - 4K-UHD/BD 4-DISC EDITION 2×UHD/2×BD",
