@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-25T11:27:01Z",
-  "count": 817,
+  "updated": "2026-08-25T12:45:40Z",
+  "count": 820,
   "products": [
+    {
+      "title": "The Crow - Die Krähe 4K UHD + Blu-ray Lim. SteelBook (exkl. LEONINE Shop)",
+      "url": "https://shop.leoninestudios.com/products/the-crow-die-kr-he-4k-uhd-blu-ray-lim-steelbook-exkl-leonine-shop",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573419101jpg-218708.jpg?v=1787660347",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Die Geister, die ich rief… 4K UHD + Blu-ray Lim. SteelBook",
+      "url": "https://shop.leoninestudios.com/products/die-geister-die-ich-rief-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573389701jpg-218889.jpg?v=1787661275",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Oh La La 2: Neue Tests, neues Chaos Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/oh-la-la-2-neue-tests-neues-chaos-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972671901jpg-219159.jpg?v=1787661290",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Paw Patrol: Der Dino Film Blu-ray",
       "url": "https://shop.leoninestudios.com/products/paw-patrol-der-dino-film-blu-ray",
