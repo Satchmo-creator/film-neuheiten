@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T16:07:27Z",
-  "count": 806,
+  "updated": "2026-08-28T01:17:08Z",
+  "count": 817,
   "products": [
     {
       "title": "The Crow - Die Krähe 4K UHD + Blu-ray Lim. SteelBook (exkl. LEONINE Shop)",
@@ -1751,6 +1751,36 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Truly Naked (Blu-ray)",
+      "url": "https://shop.capelight.de/Truly-Naked-Blu-ray/6425767",
+      "image": "",
+      "price": "14,99 €",
+      "release_date": "27.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Desert Warrior - Wüstenkrieger (UHD-Blu-Ray)",
+      "url": "https://shop.capelight.de/Desert-Warrior-Wuestenkrieger-UHD-Blu-Ray/6425768",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "27.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Desert Warrior - Wüstenkrieger (Blu-ray)",
+      "url": "https://shop.capelight.de/Desert-Warrior-Wuestenkrieger-Blu-ray/6425769",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "27.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "West Side Story - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
@@ -6053,6 +6083,116 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
+      "title": "Kindergarten Cop",
+      "url": "https://shop.plaionpictures.com/kindergarten-cop-mediabook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/86/1b/0d/1774535415/1202292_%281%29.webp?ts=1774535415",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Pinocchio Unstrung",
+      "url": "https://shop.plaionpictures.com/pinocchio-unstrung-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/d9/55/42/1774536196/1146554.webp?ts=1774536196",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Klute",
+      "url": "https://shop.plaionpictures.com/klute-mediabook-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/fc/0e/f3/1776930702/1119164.webp?ts=1776930702",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Bang Bang - Der härteste Schlag",
+      "url": "https://shop.plaionpictures.com/bang-bang-der-haerteste-schlag-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/e7/82/7a/1779951431/1204970.webp?ts=1779951431",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Die Jury",
+      "url": "https://shop.plaionpictures.com/die-jury-mediabook-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/6e/4f/f6/1779951908/1119223.webp?ts=1779951908",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Geheimaktion Crossbow",
+      "url": "https://shop.plaionpictures.com/geheimaktion-crossbow-mediabook-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/bc/4d/16/1779952799/PP_Crossbow-MB_2D.webp?ts=1779952799",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warum mußte Staatsanwalt Traini sterben?",
+      "url": "https://shop.plaionpictures.com/warum-musste-staatsanwalt-traini-sterben-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/f0/b9/6b/1779953451/1205044.webp?ts=1779953451",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Zwei Engel mit vier Fäusten - Die komplette Serie",
+      "url": "https://shop.plaionpictures.com/zwei-engel-mit-vier-faeusten-die-komplette-serie-6-dvds",
+      "image": "https://shop.plaionpictures.com/media/01/87/e0/1779953766/ZweiEngelMit4Faeusten__2D.webp?ts=1779953766",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "The Fast and the Furious - 25th Anniversary Edition (Ultimate Collector's Steelbook Edition, 4K-UHD+Blu-ray)(Shop)",
+      "url": "https://shop.plaionpictures.com/the-fast-and-the-furious-25th-anniversary-edition-ultimate-collector-s-steelbook-edition-4k-uhd-blu-ray-shop",
+      "image": "https://shop.plaionpictures.com/media/9f/e8/44/1783513258/1204986.webp?ts=1783513258",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Terminator 2 - Tag der Abrechnung",
+      "url": "https://shop.plaionpictures.com/terminator-2-tag-der-abrechnung-casaro-collection-mediabook-4k-uhd-blu-ray-shop",
+      "image": "https://shop.plaionpictures.com/media/c9/38/39/1785327631/Terminator2-Casaro__MB2D.webp?ts=1785327631",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Astronaut",
+      "url": "https://shop.plaionpictures.com/der-astronaut-dvd",
+      "image": "https://shop.plaionpictures.com/media/fe/d1/19/1781705786/1200622.webp?ts=1781705786",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Die Legende des Wüstenkindes",
       "url": "https://shop.plaionpictures.com/die-legende-des-wuestenkindes-dvd",
       "image": "https://shop.plaionpictures.com/media/bc/21/95/1779344208/DIE%20LEGENDE%20DES%20WSTENKINDES_DVD_Packshot_2D.webp?ts=1779344208",
@@ -6065,6 +6205,26 @@
     {
       "title": "Echoes of Tomorrow",
       "url": "https://shop.plaionpictures.com/echoes-of-tomorrow-aka-looking-through-water-dvd",
+      "image": "https://shop.plaionpictures.com/media/66/c3/05/1779952113/1199777.webp?ts=1779952113",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "PLAION PICTURES",
+      "url": "https://shop.plaionpictures.com/film-neuheiten/",
+      "image": "https://shop.plaionpictures.com/media/66/c3/05/1779952113/1199777.webp?ts=1779952113",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warner Bros",
+      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/66/c3/05/1779952113/1199777.webp?ts=1779952113",
       "price": "",
       "release_date": "",
@@ -6165,26 +6325,6 @@
     {
       "title": "The Last Starfighter - Sieger über tausend Sonnen",
       "url": "https://shop.plaionpictures.com/the-last-starfighter-sieger-ueber-tausend-sonnen-mediabook-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/8d/df/94/1777529827/1119194.webp?ts=1777529827",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "PLAION PICTURES",
-      "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/8d/df/94/1777529827/1119194.webp?ts=1777529827",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Warner Bros",
-      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/8d/df/94/1777529827/1119194.webp?ts=1777529827",
       "price": "",
       "release_date": "",
@@ -6693,16 +6833,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Der Astronaut",
-      "url": "https://shop.plaionpictures.com/der-astronaut-limited-collectors-edition-2-4k-uhds-blu-ray-exkl.-shop",
-      "image": "https://shop.plaionpictures.com/media/9f/91/2a/1783063773/UHD%20Steelbook_Der%20Astronaut_2D.webp?ts=1783063773",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Exit 8",
       "url": "https://shop.plaionpictures.com/exit-8-dvd",
       "image": "https://shop.plaionpictures.com/media/19/55/3d/1786608508/1210676.webp?ts=1786608508",
@@ -7181,26 +7311,6 @@
       "source_id": "plaion_vorbesteller",
       "source_label": "Plaion Pictures – Vorbesteller",
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The Fast and the Furious - 25th Anniversary Edition (Ultimate Collector's Steelbook Edition, 4K-UHD+Blu-ray)(Shop)",
-      "url": "https://shop.plaionpictures.com/the-fast-and-the-furious-25th-anniversary-edition-ultimate-collector-s-steelbook-edition-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/9f/e8/44/1783513258/1204986.webp?ts=1783513258",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
-    },
-    {
-      "title": "Terminator 2 - Tag der Abrechnung",
-      "url": "https://shop.plaionpictures.com/terminator-2-tag-der-abrechnung-casaro-collection-mediabook-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/c9/38/39/1785327631/Terminator2-Casaro__MB2D.webp?ts=1785327631",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
       "title": "Keoma",
