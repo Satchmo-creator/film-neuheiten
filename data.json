@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T23:13:59Z",
-  "count": 801,
+  "updated": "2026-08-31T03:57:36Z",
+  "count": 843,
   "products": [
     {
       "title": "The Crow - Die Krähe 4K UHD + Blu-ray Lim. SteelBook (exkl. LEONINE Shop)",
@@ -1901,6 +1901,426 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Truly Naked (Blu-ray)",
+      "url": "https://shop.capelight.de/Truly-Naked-Blu-ray/6425767",
+      "image": "",
+      "price": "14,99 €",
+      "release_date": "27.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Desert Warrior - Wüstenkrieger (UHD-Blu-Ray)",
+      "url": "https://shop.capelight.de/Desert-Warrior-Wuestenkrieger-UHD-Blu-Ray/6425768",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "27.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Desert Warrior - Wüstenkrieger (Blu-ray)",
+      "url": "https://shop.capelight.de/Desert-Warrior-Wuestenkrieger-Blu-ray/6425769",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "27.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "West Side Story - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/West-Side-Story-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425216",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "20.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "West Side Story (Blu-ray)",
+      "url": "https://shop.capelight.de/West-Side-Story-Blu-ray/6425554",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "20.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Limitierte „Die glorreichen Sieben“-Collection (4K Ultra HD + 4 x Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Limitierte-Die-glorreichen-Sieben-Collection-4K-Ultra-HD-4-x-Blu-ray-Bonus-Blu-ray/6426039",
+      "image": "",
+      "price": "69,99 €",
+      "release_date": "20.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Wege zum Ruhm - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/Wege-zum-Ruhm-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425819",
+      "image": "",
+      "price": "34,99 €",
+      "release_date": "13.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Wege zum Ruhm (Blu-ray)",
+      "url": "https://shop.capelight.de/Wege-zum-Ruhm-Blu-ray/6425853",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "13.08.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Lord of Illusions - Limitiertes 2-Disc-Mediabook (4k Ultra Hd + Blu-Ray)",
+      "url": "https://shop.capelight.de/Lord-of-Illusions-Limitiertes-2-Disc-Mediabook-4k-Ultra-Hd-Blu-Ray/6425764",
+      "image": "",
+      "price": "34,99 €",
+      "release_date": "30.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Lord of Illusions (4K remastered) (Blu-ray)",
+      "url": "https://shop.capelight.de/Lord-of-Illusions-4K-remastered-Blu-ray/6425883",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "30.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Aus der Mitte entspringt ein Fluss (UHD Blu-Ray)",
+      "url": "https://shop.capelight.de/Aus-der-Mitte-entspringt-ein-Fluss-UHD-Blu-Ray/4042564217179",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "20.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Misfits - Nicht gesellschaftsfähig (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Misfits-Nicht-gesellschaftsfaehig-UHD-Blu-ray/6423070",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "20.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Thelma &amp; Louise (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Thelma-Louise-UHD-Blu-ray/6424073",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "20.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Lady Vengeance (4K Ultra HD) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Lady-Vengeance-4K-Ultra-HD-UHD-Blu-ray/6421375",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "20.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Sympathy for Mr. Vengeance (4K Ultra HD) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Sympathy-for-Mr.-Vengeance-4K-Ultra-HD-UHD-Blu-ray/6421374",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "20.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Das Schweigen der Lämmer (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Das-Schweigen-der-Laemmer-UHD-Blu-ray/6425286",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "20.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Fargo - Blutiger Schnee (4K Ultra HD) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Fargo-Blutiger-Schnee-4K-Ultra-HD-UHD-Blu-ray/6424706",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "20.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Red Dawn (Die rote Flut) (Blu-ray)",
+      "url": "https://shop.capelight.de/Red-Dawn-Die-rote-Flut-Blu-ray/6423865",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Misfits - Nicht gesellschaftsfähig (Blu-ray)",
+      "url": "https://shop.capelight.de/Misfits-Nicht-gesellschaftsfaehig-Blu-ray/6423069",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Lady Vengeance (Blu-ray)",
+      "url": "https://shop.capelight.de/Lady-Vengeance-Blu-ray/6422960",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Sympathy for Mr. Vengeance (Blu-ray)",
+      "url": "https://shop.capelight.de/Sympathy-for-Mr.-Vengeance-Blu-ray/6422959",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Das Schweigen der Lämmer (Blu-ray)",
+      "url": "https://shop.capelight.de/Das-Schweigen-der-Laemmer-Blu-ray/6425285",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Fargo - Blutiger Schnee (Blu-ray)",
+      "url": "https://shop.capelight.de/Fargo-Blutiger-Schnee-Blu-ray/6424705",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Dressed to Kill (Blu-ray)",
+      "url": "https://shop.capelight.de/Dressed-to-Kill-Blu-ray/6423459",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Misery (Blu-ray)",
+      "url": "https://shop.capelight.de/Misery-Blu-ray/6424249",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Addams Family - Die komplette Serie (Blu-ray)",
+      "url": "https://shop.capelight.de/Addams-Family-Die-komplette-Serie-Blu-ray/6425685",
+      "image": "",
+      "price": "59,99 €",
+      "release_date": "13.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Red Dawn (Die rote Flut) - 2-Disc Edition (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Red-Dawn-Die-rote-Flut-2-Disc-Edition-UHD-Blu-ray/6424506",
+      "image": "",
+      "price": "27,99 €",
+      "release_date": "12.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Dressed to Kill - 2-Disc Edition (UHD-Blu-ray + Blu-ray)",
+      "url": "https://shop.capelight.de/Dressed-to-Kill-2-Disc-Edition-UHD-Blu-ray-Blu-ray/6423458",
+      "image": "",
+      "price": "27,99 €",
+      "release_date": "12.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Misery - 2-Disc Edition (UHD-Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Misery-2-Disc-Edition-UHD-Blu-ray-Bonus-Blu-ray/6424605",
+      "image": "",
+      "price": "27,99 €",
+      "release_date": "12.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "My Summer of Love (Blu-ray)",
+      "url": "https://shop.capelight.de/My-Summer-of-Love-Blu-ray/6423079",
+      "image": "",
+      "price": "12,99 €",
+      "release_date": "09.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Kill (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Kill-UHD-Blu-ray/6424485",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "04.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Sadness (Uncut) (UHD Blu-Ray)",
+      "url": "https://shop.capelight.de/The-Sadness-Uncut-UHD-Blu-Ray/6422194",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "04.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Talk to Me (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Talk-to-Me-UHD-Blu-ray/6423481",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "04.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Memoiren einer Schnecke (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Memoiren-einer-Schnecke-UHD-Blu-ray/6424961",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "04.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Alienoid 2: Return to the Future (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Alienoid-2-Return-to-the-Future-UHD-Blu-ray/6423918",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "04.07.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Battle Royale 2 - Revenge Cut (Blu-ray)",
+      "url": "https://shop.capelight.de/Battle-Royale-2-Revenge-Cut-Blu-ray/6420001",
+      "image": "",
+      "price": "14,99 €",
+      "release_date": "25.06.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Spaceballs - Mel Brooks’ verrückte Raumfahrt - Limitiertes 3-Disc-Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Spaceballs-Mel-Brooks-verrueckte-Raumfahrt-Limitiertes-3-Disc-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425210",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "25.06.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Spaceballs - Mel Brooks’ verrückte Raumfahrt - Limitiertes 3-Disc-SteelBook® (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Spaceballs-Mel-Brooks-verrueckte-Raumfahrt-Limitiertes-3-Disc-SteelBook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425754",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "25.06.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Chucky – Die Mörderpuppe - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray) – Cover B",
+      "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-Cover-B/6425107",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "11.06.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Das Schweigen der Lämmer - Limitiertes Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Das-Schweigen-der-Laemmer-Limitiertes-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425202",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "11.06.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Over the Top (4K remastered) (Blu-ray)",
+      "url": "https://shop.capelight.de/Over-the-Top-4K-remastered-Blu-ray/6425695",
+      "image": "",
+      "price": "12,99 €",
+      "release_date": "11.06.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Full Set SPACEBALLS: 3-Disc-Mediabook und 3-Disc-SteelBook® (jeweils 4K Ultra HD + Blu-ray + Bonus-Blu-ray) (exklusiv im capelight-Shop)",
+      "url": "https://shop.capelight.de/Full-Set-SPACEBALLS-3-Disc-Mediabook-und-3-Disc-SteelBook-jeweils-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-exklusiv-im-capelight-Shop/6425813",
+      "image": "",
+      "price": "",
+      "release_date": "04.06.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "SHOOTOUT - KEINE GNADE - MEDIABOOK - COVER D - WATTIERT - BD/DVD",
