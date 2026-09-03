@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T06:54:27Z",
-  "count": 840,
+  "updated": "2026-09-03T11:57:48Z",
+  "count": 842,
   "products": [
     {
       "title": "The Crow - Die Krähe 4K UHD + Blu-ray Lim. SteelBook (exkl. LEONINE Shop)",
@@ -6493,6 +6493,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Vaterland",
+      "url": "https://shop.plaionpictures.com/vaterland-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/df/ab/6f/1788418675/VAT_BR_frontal.webp?ts=1788418675",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Michael Jackson: This is it",
       "url": "https://shop.plaionpictures.com/michael-jackson-this-is-it-2-dvds",
       "image": "https://shop.plaionpictures.com/media/80/g0/54/1769698939/DVD%202D.webp?ts=1769698939",
@@ -6523,19 +6533,9 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Ist ja irre - 1964-1966 Collection",
-      "url": "https://shop.plaionpictures.com/ist-ja-irre-1964-1966-collection-4-filme-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/20/58/80/1779975695/IstJaIrreColl_BluRay_2D.webp?ts=1779975695",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Wicked: Teil 2",
       "url": "https://shop.plaionpictures.com/wicked-teil-2-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/20/58/80/1779975695/IstJaIrreColl_BluRay_2D.webp?ts=1779975695",
+      "image": "https://shop.plaionpictures.com/media/6c/4c/47/1778678138/DVD_2D_%2810%29.webp?ts=1778678138",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6545,7 +6545,7 @@
     {
       "title": "Five Nights at Freddy's 2",
       "url": "https://shop.plaionpictures.com/five-nights-at-freddy-s-2-limitiertes-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/20/58/80/1779975695/IstJaIrreColl_BluRay_2D.webp?ts=1779975695",
+      "image": "https://shop.plaionpictures.com/media/6c/4c/47/1778678138/DVD_2D_%2810%29.webp?ts=1778678138",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -6555,6 +6555,16 @@
     {
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/6c/4c/47/1778678138/DVD_2D_%2810%29.webp?ts=1778678138",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Ist ja irre - 1964-1966 Collection",
+      "url": "https://shop.plaionpictures.com/ist-ja-irre-1964-1966-collection-4-filme-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/20/58/80/1779975695/IstJaIrreColl_BluRay_2D.webp?ts=1779975695",
       "price": "",
       "release_date": "",
@@ -6606,6 +6616,16 @@
       "title": "One Night Only",
       "url": "https://shop.plaionpictures.com/one-night-only-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f7/bf/c2/1787816234/1211672.webp?ts=1787816234",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Onslaught",
+      "url": "https://shop.plaionpictures.com/onslaught-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/97/57/ee/1788417188/Onslaught_BD_2D.webp?ts=1788417188",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
