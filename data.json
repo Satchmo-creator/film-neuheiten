@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T16:09:27Z",
-  "count": 849,
+  "updated": "2026-09-03T19:40:32Z",
+  "count": 853,
   "products": [
     {
       "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -1951,6 +1951,46 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425844",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "03.09.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425845",
+      "image": "",
+      "price": "37,99 €",
+      "release_date": "03.09.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Mediabook-Set „WIE EIN WILDER STIER“: Limitiertes 3-Disc-Mediabook – Cover A + B (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Mediabook-Set-WIE-EIN-WILDER-STIER-Limitiertes-3-Disc-Mediabook-Cover-A-B-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425884",
+      "image": "",
+      "price": "",
+      "release_date": "03.09.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Wie ein wilder Stier (Blu-ray)",
+      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Blu-ray/6425885",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "03.09.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Truly Naked (Blu-ray)",
@@ -6273,6 +6313,46 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
+      "title": "American Sweatshop",
+      "url": "https://shop.plaionpictures.com/american-sweatshop-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/34/32/83/1777530119/PP_AmericanSweat-BD_2D.webp?ts=1777530119",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "28 Days Later",
+      "url": "https://shop.plaionpictures.com/28-days-later-limitiertes-steelbook-4k-uhd",
+      "image": "https://shop.plaionpictures.com/media/05/4b/4c/1777886918/1174440.webp?ts=1777886918",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "The Fast and the Furious - 25th Anniversary Edition",
+      "url": "https://shop.plaionpictures.com/the-fast-and-the-furious-25th-anniversary-edition-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/15/07/df/1783513195/1202250.webp?ts=1783513195",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Stray Kids: The Dominate Experience",
+      "url": "https://shop.plaionpictures.com/stray-kids-the-dominate-experience-dvd",
+      "image": "https://shop.plaionpictures.com/media/0d/bb/5f/1784118660/StrayKids__DVD_2D.webp?ts=1784118660",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Kindergarten Cop",
       "url": "https://shop.plaionpictures.com/kindergarten-cop-mediabook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/86/1b/0d/1774535415/1202292_%281%29.webp?ts=1774535415",
@@ -6373,6 +6453,26 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "PLAION PICTURES",
+      "url": "https://shop.plaionpictures.com/film-neuheiten/",
+      "image": "https://shop.plaionpictures.com/media/c9/38/39/1785327631/Terminator2-Casaro__MB2D.webp?ts=1785327631",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warner Bros",
+      "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/c9/38/39/1785327631/Terminator2-Casaro__MB2D.webp?ts=1785327631",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Der Astronaut",
       "url": "https://shop.plaionpictures.com/der-astronaut-dvd",
       "image": "https://shop.plaionpictures.com/media/fe/d1/19/1781705786/1200622.webp?ts=1781705786",
@@ -6395,26 +6495,6 @@
     {
       "title": "Echoes of Tomorrow",
       "url": "https://shop.plaionpictures.com/echoes-of-tomorrow-aka-looking-through-water-dvd",
-      "image": "https://shop.plaionpictures.com/media/66/c3/05/1779952113/1199777.webp?ts=1779952113",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "PLAION PICTURES",
-      "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/66/c3/05/1779952113/1199777.webp?ts=1779952113",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Warner Bros",
-      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/66/c3/05/1779952113/1199777.webp?ts=1779952113",
       "price": "",
       "release_date": "",
@@ -7596,46 +7676,6 @@
       "title": "Goodbye und Amen",
       "url": "https://shop.plaionpictures.com/goodbye-und-amen-blu-ray",
       "image": "https://shop.plaionpictures.com/media/97/57/44/1782375729/1207570.webp?ts=1782375729",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "American Sweatshop",
-      "url": "https://shop.plaionpictures.com/american-sweatshop-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/34/32/83/1777530119/PP_AmericanSweat-BD_2D.webp?ts=1777530119",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "28 Days Later",
-      "url": "https://shop.plaionpictures.com/28-days-later-limitiertes-steelbook-4k-uhd",
-      "image": "https://shop.plaionpictures.com/media/05/4b/4c/1777886918/1174440.webp?ts=1777886918",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The Fast and the Furious - 25th Anniversary Edition",
-      "url": "https://shop.plaionpictures.com/the-fast-and-the-furious-25th-anniversary-edition-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/15/07/df/1783513195/1202250.webp?ts=1783513195",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Stray Kids: The Dominate Experience",
-      "url": "https://shop.plaionpictures.com/stray-kids-the-dominate-experience-dvd",
-      "image": "https://shop.plaionpictures.com/media/0d/bb/5f/1784118660/StrayKids__DVD_2D.webp?ts=1784118660",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
