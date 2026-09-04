@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T14:49:17Z",
-  "count": 860,
+  "updated": "2026-09-04T18:08:35Z",
+  "count": 866,
   "products": [
     {
       "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -2471,6 +2471,66 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "MIRACLES - CANTON GODFATHER - MEDIABOOK - COVER C - 4K-UHD",
+      "url": "https://eykmedia.de/products/miracles-canton-godfather-mediabook-cover-c-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Miracles_CG_cover-C.jpg?v=1788529039",
+      "price": "41,99 €",
+      "release_date": "21.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "MIRACLES - CANTON GODFATHER - MEDIABOOK - COVER B - 4K-UHD",
+      "url": "https://eykmedia.de/products/miracles-canton-godfather-mediabook-cover-b-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Miracles_CG_cover-B.jpg?v=1788528968",
+      "price": "41,99 €",
+      "release_date": "21.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "MIRACLES - CANTON GODFATHER - MEDIABOOK - COVER A - 4K-UHD",
+      "url": "https://eykmedia.de/products/miracles-canton-godfather-mediabook-cover-a-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Miracles_CG_cover-A.jpg?v=1788528863",
+      "price": "41,99 €",
+      "release_date": "21.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CITY HUNTER - MEDIABOOK - COVER C - 4K-UHD",
+      "url": "https://eykmedia.de/products/city-hunter-mediabook-cover-b-4k-uhd-1",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/CityHunter_cover-c.jpg?v=1788528370",
+      "price": "41,99 €",
+      "release_date": "21.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CITY HUNTER - MEDIABOOK - COVER B - 4K-UHD",
+      "url": "https://eykmedia.de/products/city-hunter-mediabook-cover-b-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/CityHunter_cover-b.jpg?v=1788528289",
+      "price": "41,99 €",
+      "release_date": "21.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CITY HUNTER - MEDIABOOK - COVER A - 4K-UHD",
+      "url": "https://eykmedia.de/products/city-hunter-mediabook-cover-a-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/CityHunter_cover-a.jpg?v=1788527974",
+      "price": "41,99 €",
+      "release_date": "21.09.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "SHOOTOUT - KEINE GNADE - MEDIABOOK - COVER D - WATTIERT - BD/DVD",
