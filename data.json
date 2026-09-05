@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T17:57:10Z",
-  "count": 866,
+  "updated": "2026-09-05T20:05:52Z",
+  "count": 862,
   "products": [
     {
       "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -6673,56 +6673,6 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Michael",
-      "url": "https://shop.plaionpictures.com/michael-dvd",
-      "image": "https://shop.plaionpictures.com/media/92/dd/d3/1781767293/DVD_2D_%2811%29.webp?ts=1781767293",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Mortal Kombat II",
-      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/13/93/14/1782217209/MORTAL%20KOMBAT%20II%20BD%20Cover%202D.webp?ts=1782217209",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Eine Wahnsinnsfamilie",
-      "url": "https://shop.plaionpictures.com/eine-wahnsinnsfamilie-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/40/eb/55/1786440496/UHD_2D_%283%29.webp?ts=1786440496",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Ricky Bobby - König der Rennfahrer",
-      "url": "https://shop.plaionpictures.com/ricky-bobby-koenig-der-rennfahrer-steelbook-4k-uhd-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/f8/dc/b9/1779954624/1203325.webp?ts=1779954624",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Eyes Wide Shut",
-      "url": "https://shop.plaionpictures.com/eyes-wide-shut-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/bb/3b/60/1782216079/EYES_WIDE_SHUT_4K-Steelbook_2D_JC.webp?ts=1782216079",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
       "title": "The End of Oak Street",
       "url": "https://shop.plaionpictures.com/the-end-of-oak-street-dvd",
       "image": "https://shop.plaionpictures.com/media/be/ff/1f/1786608533/1211554.webp?ts=1786608533",
@@ -6796,6 +6746,16 @@
       "title": "Der General starb im Morgengrauen",
       "url": "https://shop.plaionpictures.com/der-general-starb-im-morgengrauen-blu-ray",
       "image": "https://shop.plaionpictures.com/media/61/85/59/1772110860/1200703.webp?ts=1772110860",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Mortal Kombat II",
+      "url": "https://shop.plaionpictures.com/mortal-kombat-ii-dvd",
+      "image": "https://shop.plaionpictures.com/media/eb/56/62/1782216278/MORTAL%20KOMBAT%20II%20DVD%20Cover%202D.webp?ts=1782216278",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
