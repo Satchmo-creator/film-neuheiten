@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T00:55:56Z",
-  "count": 862,
+  "updated": "2026-09-08T05:39:23Z",
+  "count": 866,
   "products": [
     {
       "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -1788,6 +1788,46 @@
       "image": "",
       "price": "",
       "release_date": "08.10.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Chucky – Die Mörderpuppe (Blu-ray)",
+      "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-Blu-ray/6425110",
+      "image": "",
+      "price": "",
+      "release_date": "22.10.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Chucky – Die Mörderpuppe - 2-Disc-Edition (UHD-Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-2-Disc-Edition-UHD-Blu-ray-Bonus-Blu-ray/6425111",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "22.10.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Manche mögen&#039;s heiß (4K remastered) (Blu-ray)",
+      "url": "https://shop.capelight.de/Manche-moegen-s-heiss-4K-remastered-Blu-ray/6425617",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "22.10.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Manche mögen&#039;s heiß (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Manche-moegen-s-heiss-UHD-Blu-ray/6425618",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "22.10.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
