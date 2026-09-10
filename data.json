@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-10T10:44:13Z",
-  "count": 827,
+  "updated": "2026-09-10T14:51:52Z",
+  "count": 832,
   "products": [
+    {
+      "title": "Mutiny Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/mutiny-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mutinybd2ddiginiujpg-224348.jpg?v=1789043219",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Mutiny 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/mutiny-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mutinyo-cardmitj-cardpackshot2djpg-224438.jpg?v=1789043206",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Vaiana (Live Action) 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/vaiana-live-action-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actionuhd-steelbook2d-packshotlow-res-rgbjpg-223043.jpg?v=1789035865",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Vaiana (Live Action) 4k UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/vaiana-live-action-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actionuhdpackshot2dfrontrgb300dpijpg-222413.jpg?v=1789035832",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Vaiana (Live Action) Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/vaiana-live-action-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actionbdpackshot2dfrontrgb300dpijpg-222053.jpg?v=1789035800",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
       "url": "https://shop.leoninestudios.com/products/der-club-der-toten-dichter-4k-uhd-blu-ray-lim-steelbook",
