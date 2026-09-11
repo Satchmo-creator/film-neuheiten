@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-11T08:37:55Z",
-  "count": 866,
+  "updated": "2026-09-11T13:17:29Z",
+  "count": 868,
   "products": [
+    {
+      "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
+      "url": "https://shop.leoninestudios.com/products/star-trek-1-6-lim-steelbook-film-collection-4k-uhd-blu-ray-12-discs",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/exploded-white-bgmitfskpng-224975.png?v=1789119641",
+      "price": "199,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Mutiny Blu-ray",
       "url": "https://shop.leoninestudios.com/products/mutiny-blu-ray",
@@ -47,6 +57,16 @@
       "url": "https://shop.leoninestudios.com/products/vaiana-live-action-bd",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actionbdpackshot2dfrontrgb300dpijpg-222053.jpg?v=1789035800",
       "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Vaiana (Live Action)",
+      "url": "https://shop.leoninestudios.com/products/vaiana-live-action",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actiondvdpackshot2dfrontrgb300dpijpg-223178.jpg?v=1789037296",
+      "price": "14,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -473,26 +493,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
-      "url": "https://shop.leoninestudios.com/products/barbarian-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972457901jpg-207221.jpg?v=1783682942",
-      "price": "34,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Barbarian 4K UHD + Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/barbarian-4k-uhd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972459301jpg-207473.jpg?v=1783682956",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "The Piano Turner Blu-ray",
       "url": "https://shop.leoninestudios.com/products/the-piano-turner-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972701301jpg-203544.jpg?v=1783412355",
@@ -537,16 +537,6 @@
       "url": "https://shop.leoninestudios.com/products/marshals-a-yellowstone-story-staffel-1",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229725057_01.jpg?v=1783506742",
       "price": "24,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Marshals: A Yellowstone Story - Staffel 1 Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/marshals-a-yellowstone-story-staffel-1-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972506401jpg-207053.jpg?v=1783504772",
-      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -1457,6 +1447,36 @@
       "url": "https://shop.leoninestudios.com/products/der-wunderweltenbaum-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229677912_01.jpg?v=1777980972",
       "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Marshals: A Yellowstone Story - Staffel 1 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/marshals-a-yellowstone-story-staffel-1-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972506401jpg-207053.jpg?v=1783504772",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Barbarian 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/barbarian-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972457901jpg-207221.jpg?v=1783682942",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Barbarian 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/barbarian-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972459301jpg-207473.jpg?v=1783682956",
+      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
       "source_label": "Leonine – Neuheiten",
@@ -6433,6 +6453,16 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
+      "title": "Zur Kategorie Special editions",
+      "url": "https://shop.plaionpictures.com/special-editions/",
+      "image": "https://shop.plaionpictures.com/media/8e/da/0e/1668192418/Plaion_Logo_Horz_1Line_Black_RGB_Art1.png?ts=1668192418",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "DJ Ahmet",
       "url": "https://shop.plaionpictures.com/dj-ahmet-dvd",
       "image": "https://shop.plaionpictures.com/media/d8/81/36/1773838518/1201857.webp?ts=1773838518",
@@ -8595,16 +8625,6 @@
     {
       "title": "Proxima",
       "url": "https://shop.plaionpictures.com/proxima-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/f5/e2/c7/1656501224/KF_Proxima-BD_2D.jpg?ts=1664438667",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Special Editions",
-      "url": "https://shop.plaionpictures.com/special-editions/",
       "image": "https://shop.plaionpictures.com/media/f5/e2/c7/1656501224/KF_Proxima-BD_2D.jpg?ts=1664438667",
       "price": "",
       "release_date": "",
