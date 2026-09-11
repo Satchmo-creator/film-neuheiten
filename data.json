@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T03:15:42Z",
+  "updated": "2026-09-11T08:37:55Z",
   "count": 866,
   "products": [
     {
@@ -6893,16 +6893,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Minions & Monster",
-      "url": "https://shop.plaionpictures.com/minions-monster-dvd",
-      "image": "https://shop.plaionpictures.com/media/c7/4f/a7/1784184275/DVD_2D_%2813%29.webp?ts=1784184275",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "One Night Only",
       "url": "https://shop.plaionpictures.com/one-night-only-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f7/bf/c2/1787816234/1211672.webp?ts=1787816234",
@@ -7586,6 +7576,16 @@
       "title": "Freitag der 13.",
       "url": "https://shop.plaionpictures.com/freitag-der-13.-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/11/1b/15/1784806257/FRIDAY%20THE%2013THE%20SB%204K%20UHD%20Cover%202D%20vorlufig.webp?ts=1784806257",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Minions & Monster",
+      "url": "https://shop.plaionpictures.com/minions-monster-dvd",
+      "image": "https://shop.plaionpictures.com/media/c7/4f/a7/1784184275/DVD_2D_%2813%29.webp?ts=1784184275",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
