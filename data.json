@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T13:17:29Z",
+  "updated": "2026-09-11T17:33:33Z",
   "count": 868,
   "products": [
     {
@@ -6913,16 +6913,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Supergirl",
-      "url": "https://shop.plaionpictures.com/supergirl-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/38/4d/28/1782308235/SUPERGIRL_UHD_2D_vorlufig_%281%29.webp?ts=1782308235",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "One Night Only",
       "url": "https://shop.plaionpictures.com/one-night-only-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f7/bf/c2/1787816234/1211672.webp?ts=1787816234",
@@ -7816,6 +7806,16 @@
       "title": "Resurrection",
       "url": "https://shop.plaionpictures.com/resurrection-mediabook-dvd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/43/20/dc/1782307715/1176943.webp?ts=1782307715",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Supergirl",
+      "url": "https://shop.plaionpictures.com/supergirl-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/38/4d/28/1782308235/SUPERGIRL_UHD_2D_vorlufig_%281%29.webp?ts=1782308235",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
