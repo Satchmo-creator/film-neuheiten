@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T23:47:02Z",
-  "count": 866,
+  "updated": "2026-09-13T03:26:36Z",
+  "count": 869,
   "products": [
     {
       "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
@@ -1978,6 +1978,36 @@
       "image": "",
       "price": "",
       "release_date": "17.12.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Coyote vs. ACME - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/Coyote-vs.-ACME-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6426166",
+      "image": "",
+      "price": "34,99 €",
+      "release_date": "07.01.2027",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Coyote vs. ACME - Limitiertes 2-Disc-SteelBook® (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/Coyote-vs.-ACME-Limitiertes-2-Disc-SteelBook-4K-Ultra-HD-Blu-ray/6426179",
+      "image": "",
+      "price": "34,99 €",
+      "release_date": "07.01.2027",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Coyote vs. ACME (Blu-ray)",
+      "url": "https://shop.capelight.de/Coyote-vs.-ACME-Blu-ray/6426167",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "07.01.2027",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
