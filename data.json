@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T05:53:41Z",
-  "count": 1124,
+  "updated": "2026-09-15T11:12:58Z",
+  "count": 1125,
   "products": [
     {
       "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
@@ -7126,6 +7126,16 @@
       "title": "Léon - Der Profi",
       "url": "https://shop.plaionpictures.com/leon-der-profi-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/e6/d3/cf/1787816225/1211967.webp?ts=1787816225",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Hook - 35th Anniversary Edition",
+      "url": "https://shop.plaionpictures.com/hook-35th-anniversary-edition-steelbook-2-4k-uhds",
+      "image": "https://shop.plaionpictures.com/media/3b/79/b1/1789464694/Hook_SB_2D_%281%29.webp?ts=1789464694",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
