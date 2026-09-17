@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T11:04:55Z",
-  "count": 1125,
+  "updated": "2026-09-17T16:21:34Z",
+  "count": 1128,
   "products": [
     {
       "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
@@ -1733,6 +1733,16 @@
       "source_url": "https://shop.capelight.de/VORSCHAU/"
     },
     {
+      "title": "Christmas Bloody Christmas (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Christmas-Bloody-Christmas-UHD-Blu-ray/6422715",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "05.11.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
       "title": "Sunny Dancer (Blu-ray)",
       "url": "https://shop.capelight.de/Sunny-Dancer-Blu-ray/6425895",
       "image": "",
@@ -2001,6 +2011,26 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Lion Fist - Kampf der Champions - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/Lion-Fist-Kampf-der-Champions-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425774",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "17.09.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Lion Fist - Kampf der Champions (Blu-ray)",
+      "url": "https://shop.capelight.de/Lion-Fist-Kampf-der-Champions-Blu-ray/6425775",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "17.09.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Red Dawn (Die rote Flut) (Blu-ray)",
@@ -7603,9 +7633,9 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "The Hunted Survivors",
-      "url": "https://shop.plaionpictures.com/the-hunted-survivors-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8c/a3/68/1785923555/TheHunted_BD_2D.webp?ts=1785923555",
+      "title": "Minions & Monster",
+      "url": "https://shop.plaionpictures.com/minions-monster-dvd",
+      "image": "https://shop.plaionpictures.com/media/c7/4f/a7/1784184275/DVD_2D_%2813%29.webp?ts=1784184275",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7613,9 +7643,9 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Minions & Monster",
-      "url": "https://shop.plaionpictures.com/minions-monster-dvd",
-      "image": "https://shop.plaionpictures.com/media/c7/4f/a7/1784184275/DVD_2D_%2813%29.webp?ts=1784184275",
+      "title": "The Hunted Survivors",
+      "url": "https://shop.plaionpictures.com/the-hunted-survivors-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/8c/a3/68/1785923555/TheHunted_BD_2D.webp?ts=1785923555",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
