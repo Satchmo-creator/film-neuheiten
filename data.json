@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T00:09:02Z",
-  "count": 1124,
+  "updated": "2026-09-17T05:48:18Z",
+  "count": 1125,
   "products": [
     {
       "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
@@ -1985,6 +1985,16 @@
     {
       "title": "Coyote vs. ACME (Blu-ray)",
       "url": "https://shop.capelight.de/Coyote-vs.-ACME-Blu-ray/6426167",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "07.01.2027",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Jim Queen (Blu-ray)",
+      "url": "https://shop.capelight.de/Jim-Queen-Blu-ray/6426161",
       "image": "",
       "price": "17,99 €",
       "release_date": "07.01.2027",
