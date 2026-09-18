@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T08:49:06Z",
-  "count": 1128,
+  "updated": "2026-09-18T13:25:48Z",
+  "count": 1140,
   "products": [
     {
       "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
@@ -503,40 +503,10 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "MobLand: Familie bis aufs Blut- Staffel 1 (3 DVDs)",
-      "url": "https://shop.leoninestudios.com/products/mobland-familie-bis-aufs-blut-staffel-1-3-dvds",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972725901jpg-203777.jpg?v=1783430974",
-      "price": "19,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "MobLand: Familie bis aufs Blut- Staffel 1 (3 Blu-rays)",
-      "url": "https://shop.leoninestudios.com/products/mobland-familie-bis-aufs-blut-staffel-1-3-blu-rays",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972726601jpg-204113.jpg?v=1783432319",
-      "price": "24,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Reacher - Staffel 1 (3 DVDs)",
       "url": "https://shop.leoninestudios.com/products/reacher-staffel-1-3-dvds",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/505308325706401jpg-204785.jpg?v=1783490363",
       "price": "19,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Marshals: A Yellowstone Story - Staffel 1",
-      "url": "https://shop.leoninestudios.com/products/marshals-a-yellowstone-story-staffel-1",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229725057_01.jpg?v=1783506742",
-      "price": "24,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -663,16 +633,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Billie Eilish - Hit Me Hard and Soft: The Tour Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/billie-eilish-hit-me-hard-and-soft-the-tour-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229720113_01.jpg?v=1778594058",
-      "price": "19,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang",
       "url": "https://shop.leoninestudios.com/products/ein-munchner-im-himmel-der-tod-ist-erst-der-anfang",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462105_01.jpg?v=1778498729",
@@ -711,6 +671,36 @@
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "MobLand: Familie bis aufs Blut- Staffel 1 (3 Blu-rays)",
+      "url": "https://shop.leoninestudios.com/products/mobland-familie-bis-aufs-blut-staffel-1-3-blu-rays",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972726601jpg-204113.jpg?v=1783432319",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "MobLand: Familie bis aufs Blut- Staffel 1 (3 DVDs)",
+      "url": "https://shop.leoninestudios.com/products/mobland-familie-bis-aufs-blut-staffel-1-3-dvds",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972725901jpg-203777.jpg?v=1783430974",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Marshals: A Yellowstone Story - Staffel 1",
+      "url": "https://shop.leoninestudios.com/products/marshals-a-yellowstone-story-staffel-1",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229725057_01.jpg?v=1783506742",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
       "title": "In the Grey Blu-ray",
@@ -876,6 +866,16 @@
       "title": "Navy CIS: Tony & Ziva",
       "url": "https://shop.leoninestudios.com/products/navy-cis-tony-ziva",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229725156_01.jpg?v=1780399079",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Billie Eilish - Hit Me Hard and Soft: The Tour Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/billie-eilish-hit-me-hard-and-soft-the-tour-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229720113_01.jpg?v=1778594058",
       "price": "19,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
@@ -1063,16 +1063,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
-      "title": "10 Cloverfield Lane 4K UHD + Blu-ray Lim. Steelbook",
-      "url": "https://shop.leoninestudios.com/products/10-cloverfield-lane-uhd-bd-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/10_Cloverfield_Lane_SB_UHDBD_Packshot_2D.png?v=1775804920",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_neuheiten",
-      "source_label": "Leonine – Neuheiten",
-      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
-    },
-    {
       "title": "Fight Club 4K UHD + Blu-ray Lim. Steelbook",
       "url": "https://shop.leoninestudios.com/products/fight-club-lim-steelbook-4k-ultra-hd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/FightClub2D.jpg?v=1775728962",
@@ -1127,16 +1117,6 @@
       "url": "https://shop.leoninestudios.com/products/avatar-fire-and-ash-blu-ray-bonus-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229690317_01.jpg?v=1776935611",
       "price": "19,99 €",
-      "release_date": "",
-      "source_id": "leonine_neuheiten",
-      "source_label": "Leonine – Neuheiten",
-      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
-    },
-    {
-      "title": "Flucht aus L.A. 4K UHD + Blu-ray Lim. Steelbook",
-      "url": "https://shop.leoninestudios.com/products/flucht-aus-l-a-lim-steelbook-4k-ultra-hd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/Flucht_aus_LA_SB_UHDBD_Packshot_2D_RGB.png?v=1775630399",
-      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
       "source_label": "Leonine – Neuheiten",
@@ -6983,9 +6963,129 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Die geheimnisvollen Fälle des Mr. Fodor",
+      "url": "https://shop.plaionpictures.com/die-geheimnisvollen-faelle-des-mr.-fodor-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/69/30/52/1789561661/1210921.webp?ts=1789561661",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Die Spezialisten - Der erste Mord",
+      "url": "https://shop.plaionpictures.com/die-spezialisten-der-erste-mord-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/ed/81/7d/1789563261/PP_Spezialisten-BD_2D.webp?ts=1789563261",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Pressure",
+      "url": "https://shop.plaionpictures.com/pressure-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/d4/98/b7/1789563628/PRESSURE-BD_2D.webp?ts=1789563628",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Tanz der Vampire",
+      "url": "https://shop.plaionpictures.com/tanz-der-vampire-fullsleeve-edition-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/bf/a8/0b/1789563826/TanzDerVampire-FullSleeve2D.webp?ts=1789563826",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Too Scared to Scream",
+      "url": "https://shop.plaionpictures.com/too-scared-to-scream-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/c5/f3/78/1789561761/1212765.webp?ts=1789561761",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Abstieg zur Hölle",
+      "url": "https://shop.plaionpictures.com/abstieg-zur-hoelle-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/a3/55/fb/1789642023/Abstieg-zur-Hoelle-BD-2D-FSK.webp?ts=1789642023",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Ein Mann sieht rot",
+      "url": "https://shop.plaionpictures.com/ein-mann-sieht-rot-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/04/f6/4e/1789563356/Death-Wish-_UHD-BluRay_Fullsleeve.webp?ts=1789563356",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Lebensansichten eines Huhns",
+      "url": "https://shop.plaionpictures.com/lebensansichten-eines-huhns-dvd",
+      "image": "https://shop.plaionpictures.com/media/36/7b/61/1789561708/1212128.webp?ts=1789561708",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Insidious: Out of the Further",
       "url": "https://shop.plaionpictures.com/insidious-out-of-the-further-dvd",
       "image": "https://shop.plaionpictures.com/media/b8/03/99/1787211727/DVD_Insidious%20Out%20of%20the%20Further_2D.webp?ts=1787211727",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Gaslight Me",
+      "url": "https://shop.plaionpictures.com/gaslight-me-dvd",
+      "image": "https://shop.plaionpictures.com/media/11/25/22/1789561681/1211609.webp?ts=1789561681",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Iron Warrior",
+      "url": "https://shop.plaionpictures.com/iron-warrior-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/fd/ce/b3/1789561689/1212763.webp?ts=1789561689",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Mystery Date - Eine geheimnisvolle Verabredung",
+      "url": "https://shop.plaionpictures.com/mystery-date-eine-geheimnisvolle-verabredung-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/f8/c7/d2/1789561716/1212761.webp?ts=1789561716",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Operation Black Jungle",
+      "url": "https://shop.plaionpictures.com/operation-black-jungle-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/af/a5/1d/1789561734/1211598.webp?ts=1789561734",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7006,6 +7106,26 @@
       "title": "The Killer",
       "url": "https://shop.plaionpictures.com/the-killer-steelbook-4k-uhd-3-blu-rays",
       "image": "https://shop.plaionpictures.com/media/ea/26/83/1787293884/TheKiller__SB__2D-JCard.webp?ts=1787293884",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Der Herr der Ringe: Die Ringe der Macht - Staffel 1",
+      "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-ringe-der-macht-staffel-1-4-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/dd/85/c7/1789643140/1212791.webp?ts=1789643140",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Der Herr der Ringe: Die Ringe der Macht - Staffel 2",
+      "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-ringe-der-macht-staffel-2-4-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/ed/93/8c/1789643509/1212794.webp?ts=1789643509",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7316,6 +7436,16 @@
       "title": "Vom Winde verweht",
       "url": "https://shop.plaionpictures.com/vom-winde-verweht-collector-s-edition-2-4k-uhds-blu-ray-shop",
       "image": "https://shop.plaionpictures.com/media/15/0f/e8/1787816274/1211667.webp?ts=1787816274",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Rudolph mit der roten Nase",
+      "url": "https://shop.plaionpictures.com/rudolph-mit-der-roten-nase-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/a1/7b/7b/1789561752/1212320.webp?ts=1789561752",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8196,16 +8326,6 @@
       "title": "Columbia Classics Collection, Vol. 5",
       "url": "https://shop.plaionpictures.com/columbia-classics-collection-vol.-5-8-4k-uhds-6-blu-rays-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/10/10/fd/1722344408/COLUMBIA_CLASSICS_v5_ps_fsk_%281%29.jpg?ts=1722344421",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
-    },
-    {
-      "title": "Tanz der Vampire",
-      "url": "https://shop.plaionpictures.com/tanz-der-vampire-mediabook-c-blu-ray-dvd-exkl.-shop",
-      "image": "https://shop.plaionpictures.com/media/78/58/f0/1721988021/TanzDerVampire__MB-CoverC-Schuber__2D.jpg?ts=1721988021",
       "price": "",
       "release_date": "",
       "source_id": "plaion_exclusives",
