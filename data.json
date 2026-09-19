@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T16:16:08Z",
-  "count": 1140,
+  "updated": "2026-09-19T19:12:03Z",
+  "count": 1137,
   "products": [
     {
       "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
@@ -6713,46 +6713,6 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Die Legende des Wüstenkindes",
-      "url": "https://shop.plaionpictures.com/die-legende-des-wuestenkindes-dvd",
-      "image": "https://shop.plaionpictures.com/media/bc/21/95/1779344208/DIE%20LEGENDE%20DES%20WSTENKINDES_DVD_Packshot_2D.webp?ts=1779344208",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Echoes of Tomorrow",
-      "url": "https://shop.plaionpictures.com/echoes-of-tomorrow-aka-looking-through-water-dvd",
-      "image": "https://shop.plaionpictures.com/media/66/c3/05/1779952113/1199777.webp?ts=1779952113",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Geliebter Spinner",
-      "url": "https://shop.plaionpictures.com/geliebter-spinner-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7c/24/55/1779954398/1204975.webp?ts=1779954398",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Mars Attacks",
-      "url": "https://shop.plaionpictures.com/mars-attacks-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/fc/1d/36/1781708916/1204988_%281%29.webp?ts=1781708916",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
       "title": "The End of Oak Street",
       "url": "https://shop.plaionpictures.com/the-end-of-oak-street-dvd",
       "image": "https://shop.plaionpictures.com/media/be/ff/1f/1786608533/1211554.webp?ts=1786608533",
@@ -8001,6 +7961,16 @@
       "source_id": "plaion_vorbesteller",
       "source_label": "Plaion Pictures – Vorbesteller",
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Mars Attacks",
+      "url": "https://shop.plaionpictures.com/mars-attacks-collector-s-edition-4k-uhd-blu-ray-shop",
+      "image": "https://shop.plaionpictures.com/media/7c/69/4d/1787118614/MARS%20ATTACKS%204K%20UCE%20Cover%202D%20J-Card.webp?ts=1787118614",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_exclusives",
+      "source_label": "Plaion Pictures – Exclusives",
+      "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
       "title": "Keoma",
