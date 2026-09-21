@@ -1,7 +1,677 @@
 {
-  "updated": "2026-09-21T09:39:06Z",
-  "count": 813,
+  "updated": "2026-09-21T16:14:30Z",
+  "count": 880,
   "products": [
+    {
+      "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
+      "url": "https://shop.leoninestudios.com/products/star-trek-1-6-lim-steelbook-film-collection-4k-uhd-blu-ray-12-discs",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/exploded-white-bgmitfskpng-224975.png?v=1789119641",
+      "price": "199,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Mutiny Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/mutiny-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mutinybd2ddiginiujpg-224348.jpg?v=1789043219",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Mutiny 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/mutiny-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mutinyo-cardmitj-cardpackshot2djpg-224438.jpg?v=1789043206",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Vaiana (Live Action) 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/vaiana-live-action-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actionuhd-steelbook2d-packshotlow-res-rgbjpg-223043.jpg?v=1789035865",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Vaiana (Live Action) 4k UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/vaiana-live-action-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actionuhdpackshot2dfrontrgb300dpijpg-222413.jpg?v=1789035832",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Vaiana (Live Action) Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/vaiana-live-action-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actionbdpackshot2dfrontrgb300dpijpg-222053.jpg?v=1789035800",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Vaiana (Live Action)",
+      "url": "https://shop.leoninestudios.com/products/vaiana-live-action",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/vaiana-live-actiondvdpackshot2dfrontrgb300dpijpg-223178.jpg?v=1789037296",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/der-club-der-toten-dichter-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/der-club-der-toten-dichteruhd-steelbook2d-packshotlow-res-rgbjpg-220212.jpg?v=1788442454",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Mrs. Doubtfire - Das stachelige Kindermädchen 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/mrs-doubtfire-das-stachelige-kinderm-dchen-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573349101jpg-220078.jpg?v=1788442446",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Toy Story 5 Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/toy-story-5-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969284701jpg-219763.jpg?v=1788442412",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Toy Story 5-Movie-Collection Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/toy-story-5-movie-collection-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969286101jpg-219673.jpg?v=1788442394",
+      "price": "39,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Toy Story 5-Movie-Collection",
+      "url": "https://shop.leoninestudios.com/products/toy-story-5-movie-collection",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969285401jpg-219583.jpg?v=1788442403",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Toy Story 5 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/toy-story-5-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969281601jpg-221608.jpg?v=1788760733",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Toy Story 5",
+      "url": "https://shop.leoninestudios.com/products/toy-story-5",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969281601jpg-219898.jpg?v=1788442424",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Babylon Berlin - St. 5 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/babylon-berlin-st-5-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122964815801jpg-220464.jpg?v=1788503372",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Das gewisse Etwas Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/das-gewisse-etwas-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973121801jpg-220618.jpg?v=1788505197",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Die Legende von Aang 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/die-legende-von-aang-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573399601jpg-220824.jpg?v=1788505207",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Die Schule der magischen Tiere 1-4",
+      "url": "https://shop.leoninestudios.com/products/die-schule-der-magischen-tiere-1-4",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936675501jpg-221004.jpg?v=1788506024",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Die Schule der magischen Tiere 1-4 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/die-schule-der-magischen-tiere-1-4-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936676201jpg-221184.jpg?v=1788510850",
+      "price": "39,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "In meinem Himmel 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/in-meinem-himmel-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573409201jpg-221428.jpg?v=1788510865",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Flight 298 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/flight-298-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972971001jpg-221518.jpg?v=1788510857",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Crow - Die Krähe 4K UHD + Blu-ray Lim. SteelBook (exkl. LEONINE Shop)",
+      "url": "https://shop.leoninestudios.com/products/the-crow-die-kr-he-4k-uhd-blu-ray-lim-steelbook-exkl-leonine-shop",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573419101jpg-218708.jpg?v=1787660347",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Die Geister, die ich rief… 4K UHD + Blu-ray Lim. SteelBook",
+      "url": "https://shop.leoninestudios.com/products/die-geister-die-ich-rief-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573389701jpg-218889.jpg?v=1787661275",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Oh La La 2: Neue Tests, neues Chaos Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/oh-la-la-2-neue-tests-neues-chaos-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972671901jpg-219159.jpg?v=1787661290",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Paw Patrol: Der Dino Film Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/paw-patrol-der-dino-film-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976101701jpg-218397.jpg?v=1787126776",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Avatar: The Way of Water 3D Blu-ray (3D/2D)",
+      "url": "https://shop.leoninestudios.com/products/avatar-the-way-of-water-3d-blu-ray-3d-2d",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/8717418615444_01.jpg?v=1770629197",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Hubert ohne Staller - Staffel 13",
+      "url": "https://shop.leoninestudios.com/products/hubert-ohne-staller-staffel-13",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122941505701jpg-218221.jpg?v=1787122880",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Hubert ohne Staller - Staffel 13 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/hubert-ohne-staller-staffel-13-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122941506401jpg-218043.jpg?v=1787121313",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Scary Movie 4K UHD + Blu-ray Lim. SteelBook",
+      "url": "https://shop.leoninestudios.com/products/scary-movie-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/scarymoviesbuhdbdpackshotfrontjpg-216812.jpg?v=1787032312",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Invite Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-invite-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122974481201jpg-217142.jpg?v=1787040782",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Hungry Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/hungry-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972831701jpg-217230.jpg?v=1787040792",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Power Ballad - Der Song meines Lebens Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/power-ballad-der-song-meines-lebens-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970501101jpg-217318.jpg?v=1787040802",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Snoopy im All Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/snoopy-im-all-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970261401jpg-217715.jpg?v=1787045010",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Snoopy im All",
+      "url": "https://shop.leoninestudios.com/products/snoopy-im-all",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970260701jpg-217450.jpg?v=1787042899",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Andor - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/andor-staffel-1-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122945817701jpg-101648.jpg?v=1774525566",
+      "price": "59,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Strangers: Chapter 1-3 BD",
+      "url": "https://shop.leoninestudios.com/products/the-strangers-chapter-1-3-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/thestrangers1-3bd2ddiginiujpg-218461.jpg?v=1787226859",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Hell House LLC: The Complete Collection BD",
+      "url": "https://shop.leoninestudios.com/products/hell-house-llc-the-complete-collection-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122949116701jpg-215355.jpg?v=1786011447",
+      "price": "39,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Tulsa King - Staffel 3 (3 DVDs)",
+      "url": "https://shop.leoninestudios.com/products/tulsa-king-staffel-3-3-dvds",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972585901jpg-214827.jpg?v=1786008070",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Landman - Staffel 2 BD (3 BDs)",
+      "url": "https://shop.leoninestudios.com/products/landman-staffel-2-bd-3-bds",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972736501jpg-215003.jpg?v=1786009864",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Landman - Staffel 2 (4 DVDs)",
+      "url": "https://shop.leoninestudios.com/products/landman-staffel-2-4-dvds",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972735801jpg-215179.jpg?v=1786011192",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Friedhof der Kuscheltiere 4K UHD + Blu-ray Lim. SteelBook",
+      "url": "https://shop.leoninestudios.com/products/friedhof-der-kuscheltiere-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/friedhofkuscheltieresbuhdbdpackshotfrontjpg-212089.jpg?v=1785230529",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Scary Movie  4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/scary-movie-6-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972599601jpg-197871.jpg?v=1781265918",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Avatar Ultimate 3-Movie-Collection [4K UHD + Blu-ray + Bonus]",
+      "url": "https://shop.leoninestudios.com/products/avatar-ultimate-3-movie-collection-4k-uhd-blu-ray-bonus",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969032401jpg-211678.jpg?v=1785153391",
+      "price": "179,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Mandalorian - Staffel 1 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/the-mandalorian-staffel-1-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/themandalorianstaffel1uhdbdlimsteelbookuhdbox4k40612294000912d72dpijpg-49590.jpg?v=1785848590",
+      "price": "59,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray (Lim. Beskar Collector's Edition)",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray-lim-beskar-collector-s-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/mandalorian-and-grogu-germany-retail-uhd-exploded-packshot-ahigh-res-rgbpng-213837_cc9ea324-0777-427f-8474-362247d65651.png?v=1785936012",
+      "price": "149,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969309701jpg-209003.jpg?v=1784700566",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969308001jpg-209487.jpg?v=1784702591",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969301101jpg-209571.jpg?v=1784703831",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "url": "https://shop.leoninestudios.com/products/star-wars-the-mandalorian-and-grogu",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122969300401jpg-209739.jpg?v=1784703839",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Piano Turner Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-piano-turner-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972701301jpg-203544.jpg?v=1783412355",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Reacher - Staffel 1 (3 DVDs)",
+      "url": "https://shop.leoninestudios.com/products/reacher-staffel-1-3-dvds",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/505308325706401jpg-204785.jpg?v=1783490363",
+      "price": "19,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Death of Robin Hood 4K UHD + Blu-ray (Collector's Edition)",
+      "url": "https://shop.leoninestudios.com/products/the-death-of-robin-hood-4k-uhd-blu-ray-collector-s-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972699301jpg-204617.jpg?v=1783489693",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Jack Reacher & Jack Reacher: Kein Weg zurück - 2-Movie Collection",
+      "url": "https://shop.leoninestudios.com/products/jack-reacher-jack-reacher-kein-weg-zur-ck-2-movie-collection",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/505308310625601jpg-204953.jpg?v=1783492030",
+      "price": "12,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Jack Reacher & Jack Reacher: Kein Weg zurück - 2-Movie Collection Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/jack-reacher-jack-reacher-kein-weg-zur-ck-2-movie-collection-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/505308310626301jpg-205373.jpg?v=1783492389",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Trek - The Original Series - 60th Anniversary Collector's Edition Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/star-trek-the-original-series-60th-anniversary-collector-s-edition-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573266103jpg-203399.jpg?v=1783409996",
+      "price": "129,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Auslöschung Blu-ray Lim. Steelbook (exkl. LEONINE Shop)",
+      "url": "https://shop.leoninestudios.com/products/ausl-schung-blu-ray-lim-steelbook-exkl-leonine-shop",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573304001jpg-202393.jpg?v=1782842448",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/star-trek-08-der-erste-kontakt-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573297501jpg-202225.jpg?v=1782842148",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Hamilton 4K UHD + Blu-ray Collector's Edition",
+      "url": "https://shop.leoninestudios.com/products/hamilton-4k-uhd-blu-ray-collector-s-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122971907003jpg-200938.jpg?v=1782478181",
+      "price": "59,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Backrooms: Everything Must Go Edition 4K UHD + Blu-ray (Collector's Edition)",
+      "url": "https://shop.leoninestudios.com/products/backrooms-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122971957501jpg-198450.jpg?v=1781681324",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Backrooms Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/backrooms-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122971951301jpg-198367.jpg?v=1781681331",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Scary Movie  Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/scary-movie-6-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/Scary_Movie_2026_BD_Packshot_2D.jpg?v=1782390609",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Ready or not Not 2",
+      "url": "https://shop.leoninestudios.com/products/ready-or-not-not-2",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229718912_01.jpg?v=1779349396",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Mother Mary Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/mother-mary-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229558310_01.jpg?v=1779167849",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang",
+      "url": "https://shop.leoninestudios.com/products/ein-munchner-im-himmel-der-tod-ist-erst-der-anfang",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462105_01.jpg?v=1778498729",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/ein-munchner-im-himmel-der-tod-ist-erst-der-anfang-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462112_01.jpg?v=1778499186",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Whistle Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/whistle-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229453110_01.jpg?v=1778058419",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Pillion",
+      "url": "https://shop.leoninestudios.com/products/pillion",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229689113_01.jpg?v=1774348127",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "MobLand: Familie bis aufs Blut- Staffel 1 (3 Blu-rays)",
       "url": "https://shop.leoninestudios.com/products/mobland-familie-bis-aufs-blut-staffel-1-3-blu-rays",
