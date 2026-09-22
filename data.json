@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T09:04:04Z",
+  "updated": "2026-09-22T14:22:45Z",
   "count": 880,
   "products": [
     {
@@ -6683,6 +6683,16 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "Der Astronaut",
+      "url": "https://shop.plaionpictures.com/der-astronaut-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/7a/15/e5/1781706970/1200623.webp?ts=1781706970",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "The Fast and the Furious - 25th Anniversary Edition (Ultimate Collector's Steelbook Edition, 4K-UHD+Blu-ray)(Shop)",
       "url": "https://shop.plaionpictures.com/the-fast-and-the-furious-25th-anniversary-edition-ultimate-collector-s-steelbook-edition-4k-uhd-blu-ray-shop",
       "image": "https://shop.plaionpictures.com/media/9f/e8/44/1783513258/1204986.webp?ts=1783513258",
@@ -6696,16 +6706,6 @@
       "title": "Terminator 2 - Tag der Abrechnung",
       "url": "https://shop.plaionpictures.com/terminator-2-tag-der-abrechnung-casaro-collection-mediabook-4k-uhd-blu-ray-shop",
       "image": "https://shop.plaionpictures.com/media/c9/38/39/1785327631/Terminator2-Casaro__MB2D.webp?ts=1785327631",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Der Astronaut",
-      "url": "https://shop.plaionpictures.com/der-astronaut-dvd",
-      "image": "https://shop.plaionpictures.com/media/fe/d1/19/1781705786/1200622.webp?ts=1781705786",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
