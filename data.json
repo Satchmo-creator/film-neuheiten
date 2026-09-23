@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-23T05:32:23Z",
-  "count": 880,
+  "updated": "2026-09-23T10:52:32Z",
+  "count": 883,
   "products": [
+    {
+      "title": "Dutton Ranch - Staffel 1 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/dutton-ranch-staffel-1-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976276201jpg-226768.jpg?v=1790151567",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Dutton Ranch - Staffel 1",
+      "url": "https://shop.leoninestudios.com/products/dutton-ranch-staffel-1",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976275501jpg-226956.jpg?v=1790151574",
+      "price": "24,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Primetime Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/primetime-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122965861401jpg-226578.jpg?v=1790145332",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Star Trek 1-6 Lim. Steelbook Film-Collection 4K UHD + Blu-ray (12 Discs)",
       "url": "https://shop.leoninestudios.com/products/star-trek-1-6-lim-steelbook-film-collection-4k-uhd-blu-ray-12-discs",
