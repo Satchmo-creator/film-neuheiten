@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-24T13:16:49Z",
-  "count": 871,
+  "updated": "2026-09-24T18:15:05Z",
+  "count": 877,
   "products": [
+    {
+      "title": "Resident Evil (2026) 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/resident-evil-2026-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/KeineAbbildung_Plain_98920cc5-b62e-4070-af20-f2687eecf663.jpg?v=1790261067",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Resident Evil (2026) Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/resident-evil-2026-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973131701jpg-228632.jpg?v=1790259489",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Resident Evil (2026) 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/resident-evil-2026-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973139301jpg-228822.jpg?v=1790259498",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Freitag, der 13. - 8 Movie Collection Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/freitag-der-13-8-movie-collection-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983226701jpg-227332.jpg?v=1790259478",
+      "price": "59,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Dutton Ranch - Staffel 1 Blu-ray",
       "url": "https://shop.leoninestudios.com/products/dutton-ranch-staffel-1-blu-ray",
@@ -2001,6 +2041,26 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Das Kartell - Brothers under Fire (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Das-Kartell-Brothers-under-Fire-UHD-Blu-ray/6425777",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "24.09.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Das Kartell - Brothers under Fire (Blu-ray)",
+      "url": "https://shop.capelight.de/Das-Kartell-Brothers-under-Fire-Blu-ray/6425778",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "24.09.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Lion Fist - Kampf der Champions - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
@@ -7594,7 +7654,7 @@
     },
     {
       "title": "American Pie",
-      "url": "https://shop.plaionpictures.com/american-pie-4k-uhd-blu-ray",
+      "url": "https://shop.plaionpictures.com/american-pie-4k-uhd",
       "image": "https://shop.plaionpictures.com/media/92/0a/43/1787297732/AmericanPie_4K_Sleeve_2D.webp?ts=1787297732",
       "price": "",
       "release_date": "",
