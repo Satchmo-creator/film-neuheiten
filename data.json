@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T11:16:55Z",
-  "count": 877,
+  "updated": "2026-09-25T16:40:24Z",
+  "count": 878,
   "products": [
     {
       "title": "Resident Evil (2026) 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -6583,6 +6583,16 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "Supergirl",
+      "url": "https://shop.plaionpictures.com/supergirl-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/8b/72/32/1782308071/SUPERGIRL_BD_2D_vorlufig.webp?ts=1782308071",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Bight - Fesseln der Sünde",
       "url": "https://shop.plaionpictures.com/bight-fesseln-der-suende-blu-ray",
       "image": "https://shop.plaionpictures.com/media/cf/87/78/1785922046/Bight_BD_2D.webp?ts=1785922046",
@@ -6665,7 +6675,7 @@
     {
       "title": "PLAION PICTURES",
       "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/b0/3e/a0/1782377937/1207750.webp?ts=1782377937",
+      "image": "https://shop.plaionpictures.com/media/15/7d/e6/1782378011/1207751.webp?ts=1782378011",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -6675,7 +6685,7 @@
     {
       "title": "Warner Bros",
       "url": "https://shop.plaionpictures.com/warner-bros/",
-      "image": "https://shop.plaionpictures.com/media/b0/3e/a0/1782377937/1207750.webp?ts=1782377937",
+      "image": "https://shop.plaionpictures.com/media/15/7d/e6/1782378011/1207751.webp?ts=1782378011",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -6685,7 +6695,7 @@
     {
       "title": "Vampires of the Velvet Lounge",
       "url": "https://shop.plaionpictures.com/vampires-of-the-velvet-lounge-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7e/6e/2a/1782378501/1199783.webp?ts=1782378501",
+      "image": "https://shop.plaionpictures.com/media/b7/90/7d/1790336261/VOTVL_BD_2D.webp?ts=1790336287",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -6746,16 +6756,6 @@
       "title": "Resurrection",
       "url": "https://shop.plaionpictures.com/resurrection-mediabook-dvd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/43/20/dc/1782307715/1176943.webp?ts=1782307715",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Supergirl",
-      "url": "https://shop.plaionpictures.com/supergirl-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/38/4d/28/1782308235/SUPERGIRL_UHD_2D_vorlufig_%281%29.webp?ts=1782308235",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -7303,6 +7303,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Michael",
+      "url": "https://shop.plaionpictures.com/michael-collectors-edition-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/60/b5/1d/1790258642/MAVEN_SPECIAL_EDITION_Schuber_2D_PACKSHOT.webp?ts=1790258647",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "The Killer",
       "url": "https://shop.plaionpictures.com/the-killer-steelbook-4k-uhd-3-blu-rays",
       "image": "https://shop.plaionpictures.com/media/ea/26/83/1787293884/TheKiller__SB__2D-JCard.webp?ts=1787293884",
@@ -7646,6 +7656,16 @@
       "title": "Rudolph mit der roten Nase",
       "url": "https://shop.plaionpictures.com/rudolph-mit-der-roten-nase-blu-ray",
       "image": "https://shop.plaionpictures.com/media/a1/7b/7b/1789561752/1212320.webp?ts=1789561752",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Godzilla Minus One",
+      "url": "https://shop.plaionpictures.com/godzilla-minus-one-glow-in-the-dark-steelbook-edition-4k-uhd-3-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/f0/46/5b/1790254948/Godzilla_MinusOne_GlowInTheDark__BD_Front-FSK12_CMYK.webp?ts=1790254955",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8726,16 +8746,6 @@
       "title": "Einladung zum Mord",
       "url": "https://shop.plaionpictures.com/einladung-zum-mord-blu-ray",
       "image": "https://shop.plaionpictures.com/media/3d/2b/05/1753348111/Einladung-zum-Mord_BD_2D.webp?ts=1753348111",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_sale",
-      "source_label": "Plaion Pictures – Sale",
-      "source_url": "https://shop.plaionpictures.com/sale/"
-    },
-    {
-      "title": "Godzilla Minus One",
-      "url": "https://shop.plaionpictures.com/godzilla-minus-one-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/87/b8/c0/1729166356/Godzilla_MinusOne_BD_Front-FSK12_CMYK.jpg?ts=1729166356",
       "price": "",
       "release_date": "",
       "source_id": "plaion_sale",
