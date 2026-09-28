@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T23:44:06Z",
-  "count": 870,
+  "updated": "2026-09-28T03:56:37Z",
+  "count": 871,
   "products": [
     {
       "title": "Resident Evil (2026) 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -1847,6 +1847,16 @@
       "url": "https://shop.capelight.de/Rocky-3-Disc-Mediabook-Cover-B-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425912",
       "image": "",
       "price": "",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Rocky (Blu-ray)",
+      "url": "https://shop.capelight.de/Rocky-Blu-ray/6425893",
+      "image": "",
+      "price": "17,99 €",
       "release_date": "26.11.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
