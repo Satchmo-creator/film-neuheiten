@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T10:40:44Z",
-  "count": 872,
+  "updated": "2026-09-28T18:30:14Z",
+  "count": 873,
   "products": [
     {
       "title": "Resident Evil (2026) 4K UHD + Blu-ray (Lim. Steelbook)",
@@ -2571,6 +2571,16 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "DIE HORDE - MEDIABOOK - COVER G - WEEKEND OF HELL EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/die-horde-mediabook-cover-g-weekend-of-hell-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/IMG-20260701-WA0012.jpg?v=1789376851",
+      "price": "44,99 €",
+      "release_date": "13.10.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "MIRACLES - CANTON GODFATHER - MEDIABOOK - COVER C - 4K-UHD",
