@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T11:09:34Z",
+  "updated": "2026-09-29T17:44:21Z",
   "count": 859,
   "products": [
     {
@@ -7463,6 +7463,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Evil Dead Burn",
+      "url": "https://shop.plaionpictures.com/evil-dead-burn-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Bitteres Fest",
       "url": "https://shop.plaionpictures.com/bitteres-fest-dvd",
       "image": "https://shop.plaionpictures.com/media/74/d2/08/1785328657/BitteresFest-DVD_HE_2D.webp?ts=1785328657",
@@ -7536,16 +7546,6 @@
       "title": "Der Astronaut",
       "url": "https://shop.plaionpictures.com/der-astronaut-limited-collectors-edition-2-4k-uhds-blu-ray-exkl.-shop",
       "image": "https://shop.plaionpictures.com/media/9f/91/2a/1783063773/UHD%20Steelbook_Der%20Astronaut_2D.webp?ts=1783063773",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Evil Dead Burn",
-      "url": "https://shop.plaionpictures.com/evil-dead-burn-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
