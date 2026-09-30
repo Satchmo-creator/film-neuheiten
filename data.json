@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-30T08:05:53Z",
-  "count": 859,
+  "updated": "2026-09-30T15:40:43Z",
+  "count": 861,
   "products": [
+    {
+      "title": "Eiserne Wildnis - Heart of the Beast Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/eiserne-wildnis-heart-of-the-beast-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983151201jpg-229666.jpg?v=1790761484",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Eiserne Wildnis - Heart of the Beast 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/eiserne-wildnis-heart-of-the-beast-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229831598_01.jpg?v=1790762103",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Corpus Delicti Blu-ray",
       "url": "https://shop.leoninestudios.com/products/corpus-delicti-blu-ray",
