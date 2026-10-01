@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T14:14:49Z",
-  "count": 863,
+  "updated": "2026-10-01T20:09:01Z",
+  "count": 865,
   "products": [
     {
       "title": "Eiserne Wildnis - Heart of the Beast Blu-ray",
@@ -1921,6 +1921,26 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "ATTRACTION Doppelbox - ATTRACTION und ATTRACTION 2 auf 2 Blu-rays! (Blu-ray)",
+      "url": "https://shop.capelight.de/ATTRACTION-Doppelbox-ATTRACTION-und-ATTRACTION-2-auf-2-Blu-rays-Blu-ray/6421164",
+      "image": "",
+      "price": "13,99 €",
+      "release_date": "01.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "SCIFI &amp; ACTION BOX - 3 fantastische SciFi-Hits auf 3 Blu-rays! (Blu-ray)",
+      "url": "https://shop.capelight.de/SCIFI-ACTION-BOX-3-fantastische-SciFi-Hits-auf-3-Blu-rays-Blu-ray/6421166",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "01.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Das Kartell - Brothers under Fire (UHD-Blu-ray)",
@@ -6423,6 +6443,26 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "The Hunted Survivors",
+      "url": "https://shop.plaionpictures.com/the-hunted-survivors-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/8c/a3/68/1785923555/TheHunted_BD_2D.webp?ts=1785923555",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Minions & Monster",
+      "url": "https://shop.plaionpictures.com/minions-monster-dvd",
+      "image": "https://shop.plaionpictures.com/media/c7/4f/a7/1784184275/DVD_2D_%2813%29.webp?ts=1784184275",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Die reichste Frau der Welt",
       "url": "https://shop.plaionpictures.com/die-reichste-frau-der-welt-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/4b/33/b6/1776863159/1201862.webp?ts=1776863159",
@@ -6533,19 +6573,9 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "The Island - Feuer im Pazifik",
-      "url": "https://shop.plaionpictures.com/the-island-feuer-im-pazifik-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/c6/e2/21/1784883450/PP_TheIsland-BD_2D.webp?ts=1784883450",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
       "title": "PLAION PICTURES",
       "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/aa/25/c1/1784883412/PP_TheIsland-DVD_2D.webp?ts=1784883412",
+      "image": "https://shop.plaionpictures.com/media/ac/e1/62/1782375206/1207574.webp?ts=1782375206",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -6555,7 +6585,17 @@
     {
       "title": "Warner Bros",
       "url": "https://shop.plaionpictures.com/warner-bros/",
-      "image": "https://shop.plaionpictures.com/media/aa/25/c1/1784883412/PP_TheIsland-DVD_2D.webp?ts=1784883412",
+      "image": "https://shop.plaionpictures.com/media/ac/e1/62/1782375206/1207574.webp?ts=1782375206",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "The Island - Feuer im Pazifik",
+      "url": "https://shop.plaionpictures.com/the-island-feuer-im-pazifik-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/c6/e2/21/1784883450/PP_TheIsland-BD_2D.webp?ts=1784883450",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -7826,26 +7866,6 @@
       "title": "Freitag der 13.",
       "url": "https://shop.plaionpictures.com/freitag-der-13.-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/11/1b/15/1784806257/FRIDAY%20THE%2013THE%20SB%204K%20UHD%20Cover%202D%20vorlufig.webp?ts=1784806257",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Minions & Monster",
-      "url": "https://shop.plaionpictures.com/minions-monster-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/7a/e7/83/1784184308/BD_2D_%287%29.webp?ts=1784184308",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The Hunted Survivors",
-      "url": "https://shop.plaionpictures.com/the-hunted-survivors-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8c/a3/68/1785923555/TheHunted_BD_2D.webp?ts=1785923555",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
