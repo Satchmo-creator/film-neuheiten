@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:36:49Z",
+  "updated": "2026-10-02T19:00:31Z",
   "count": 845,
   "products": [
     {
@@ -6443,9 +6443,9 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "The Hunted Survivors",
-      "url": "https://shop.plaionpictures.com/the-hunted-survivors-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8c/a3/68/1785923555/TheHunted_BD_2D.webp?ts=1785923555",
+      "title": "Minions & Monster",
+      "url": "https://shop.plaionpictures.com/minions-monster-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/7a/e7/83/1784184308/BD_2D_%287%29.webp?ts=1784184308",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -6453,9 +6453,9 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Minions & Monster",
-      "url": "https://shop.plaionpictures.com/minions-monster-dvd",
-      "image": "https://shop.plaionpictures.com/media/c7/4f/a7/1784184275/DVD_2D_%2813%29.webp?ts=1784184275",
+      "title": "The Hunted Survivors",
+      "url": "https://shop.plaionpictures.com/the-hunted-survivors-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/8c/a3/68/1785923555/TheHunted_BD_2D.webp?ts=1785923555",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -6563,19 +6563,9 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Der Ritt nach Alamo",
-      "url": "https://shop.plaionpictures.com/der-ritt-nach-alamo-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/ac/e1/62/1782375206/1207574.webp?ts=1782375206",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
       "title": "PLAION PICTURES",
       "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/ac/e1/62/1782375206/1207574.webp?ts=1782375206",
+      "image": "https://shop.plaionpictures.com/media/59/cf/4b/1782375060/1207743.webp?ts=1782375060",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -6585,6 +6575,16 @@
     {
       "title": "Warner Bros",
       "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/59/cf/4b/1782375060/1207743.webp?ts=1782375060",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Ritt nach Alamo",
+      "url": "https://shop.plaionpictures.com/der-ritt-nach-alamo-blu-ray",
       "image": "https://shop.plaionpictures.com/media/ac/e1/62/1782375206/1207574.webp?ts=1782375206",
       "price": "",
       "release_date": "",
