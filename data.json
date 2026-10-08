@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T10:05:50Z",
-  "count": 848,
+  "updated": "2026-10-08T17:45:09Z",
+  "count": 865,
   "products": [
     {
       "title": "Con Air 4K UHD + Blu-ray (Lim. Steelbook, ungeschnittene Fassung)",
@@ -1821,6 +1821,186 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "The Furious - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray) - Cover A",
+      "url": "https://shop.capelight.de/The-Furious-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray-Cover-A/6425822",
+      "image": "",
+      "price": "37,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Furious - Limitiertes 2-Disc-SteelBook® (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/The-Furious-Limitiertes-2-Disc-SteelBook-4K-Ultra-HD-Blu-ray/6425958",
+      "image": "",
+      "price": "37,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Furious - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray) - Cover B",
+      "url": "https://shop.capelight.de/The-Furious-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray-Cover-B/6425994",
+      "image": "",
+      "price": "37,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Full Set „THE FURIOUS“: Mediabook Cover A + B und SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Full-Set-THE-FURIOUS-Mediabook-Cover-A-B-und-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425995",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Mediabook-Set „THE FURIOUS“: Mediabook Cover A + B (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Mediabook-Set-THE-FURIOUS-Mediabook-Cover-A-B-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425998",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Set 1 „THE FURIOUS“: Mediabook Cover A und SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Set-1-THE-FURIOUS-Mediabook-Cover-A-und-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425996",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Set 2 „THE FURIOUS“: Mediabook Cover B und SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Set-2-THE-FURIOUS-Mediabook-Cover-B-und-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425997",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Furious (Blu-ray)",
+      "url": "https://shop.capelight.de/The-Furious-Blu-ray/6425823",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Presence - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/Presence-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425771",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Presence (Blu-ray)",
+      "url": "https://shop.capelight.de/Presence-Blu-ray/6425772",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Limitierte „Die glorreichen Sieben“-Collection (4K Ultra HD + 4 x Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Limitierte-Die-glorreichen-Sieben-Collection-4K-Ultra-HD-4-x-Blu-ray-Bonus-Blu-ray/6426039",
+      "image": "",
+      "price": "69,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Wolf of Wall Street - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/The-Wolf-of-Wall-Street-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425821",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Wolf of Wall Street - Limitiertes 3-Disc-Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray) (exklusiv im capelight-Shop)",
+      "url": "https://shop.capelight.de/The-Wolf-of-Wall-Street-Limitiertes-3-Disc-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-exklusiv-im-capelight-Shop/6425847",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Wolf of Wall Street - Limitiertes 3-Disc-SteelBook® (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/The-Wolf-of-Wall-Street-Limitiertes-3-Disc-SteelBook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425902",
+      "image": "",
+      "price": "37,99 €",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Full Set „THE WOLF OF WALL STREET“: 3-Disc-Mediabooks – Cover A + B und 3-Disc-SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Full-Set-THE-WOLF-OF-WALL-STREET-3-Disc-Mediabooks-Cover-A-B-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425926",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Wolf of Wall Street - Mediabook-Set „THE WOLF OF WALL STREET“: 3-Disc-Mediabooks – Cover A + B (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/The-Wolf-of-Wall-Street-Mediabook-Set-THE-WOLF-OF-WALL-STREET-3-Disc-Mediabooks-Cover-A-B-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425897",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Wolf of Wall Street - 3-Disc-Mediabook – Cover A und 3-Disc-SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/The-Wolf-of-Wall-Street-3-Disc-Mediabook-Cover-A-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425927",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "The Wolf of Wall Street - 3-Disc-Mediabook – Cover B und 3-Disc-SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/The-Wolf-of-Wall-Street-3-Disc-Mediabook-Cover-B-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425928",
+      "image": "",
+      "price": "",
+      "release_date": "08.10.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "ATTRACTION Doppelbox - ATTRACTION und ATTRACTION 2 auf 2 Blu-rays! (Blu-ray)",
@@ -6934,8 +7114,8 @@
     },
     {
       "title": "The Social Reckoning",
-      "url": "https://shop.plaionpictures.com/the-social-reckoning-dvd",
-      "image": "https://shop.plaionpictures.com/media/7c/73/49/1791378194/The%20social%20Reckoning_DVD_2D.webp?ts=1791378198",
+      "url": "https://shop.plaionpictures.com/the-social-reckoning-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/28/7c/a7/1791378242/The%20social%20Reckoning_UHD_2D.webp?ts=1791378276",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7375,7 +7555,7 @@
     {
       "title": "Couture",
       "url": "https://shop.plaionpictures.com/couture-dvd",
-      "image": "https://shop.plaionpictures.com/media/1c/67/4b/1787239714/1201781.webp?ts=1787239714",
+      "image": "https://shop.plaionpictures.com/media/df/4b/f0/1791465969/Couture_DVD_2D.webp?ts=1791465978",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7736,16 +7916,6 @@
       "title": "Masters of the Universe - Revelation",
       "url": "https://shop.plaionpictures.com/masters-of-the-universe-revelation-2-blu-rays-shop",
       "image": "https://shop.plaionpictures.com/media/20/56/37/1787816785/PP_MotU-Revelation_BD-2D.webp?ts=1787816785",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Flash Gordon",
-      "url": "https://shop.plaionpictures.com/flash-gordon-casaro-collection-mediabook-4k-uhd-2-blu-rays-shop",
-      "image": "https://shop.plaionpictures.com/media/bc/e7/42/1791197009/FleshGordon-Casaro__MB2D.webp?ts=1791197012",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
