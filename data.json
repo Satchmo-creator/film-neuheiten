@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-09T10:07:58Z",
-  "count": 866,
+  "updated": "2026-10-09T17:21:16Z",
+  "count": 877,
   "products": [
+    {
+      "title": "Mutiny 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/mutiny-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122950619901jpg-233885.jpg?v=1791544458",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Con Air 4K UHD + Blu-ray (Lim. Steelbook, ungeschnittene Fassung)",
       "url": "https://shop.leoninestudios.com/products/con-air-4k-uhd-blu-ray-lim-steelbook-ungeschnittene-fassung",
@@ -706,26 +716,6 @@
       "title": "Mother Mary Blu-ray",
       "url": "https://shop.leoninestudios.com/products/mother-mary-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229558310_01.jpg?v=1779167849",
-      "price": "17,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang",
-      "url": "https://shop.leoninestudios.com/products/ein-munchner-im-himmel-der-tod-ist-erst-der-anfang",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462105_01.jpg?v=1778498729",
-      "price": "14,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/ein-munchner-im-himmel-der-tod-ist-erst-der-anfang-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462112_01.jpg?v=1778499186",
       "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
@@ -1467,6 +1457,26 @@
       "url": "https://shop.leoninestudios.com/products/barbarian-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972459301jpg-207473.jpg?v=1783682956",
       "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang",
+      "url": "https://shop.leoninestudios.com/products/ein-munchner-im-himmel-der-tod-ist-erst-der-anfang",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462105_01.jpg?v=1778498729",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/ein-munchner-im-himmel-der-tod-ist-erst-der-anfang-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4061229462112_01.jpg?v=1778499186",
+      "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
       "source_label": "Leonine – Neuheiten",
@@ -2511,6 +2521,106 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "IP MAN - FULLSET - 4 MEDIABOOKS - 4K-UHD",
+      "url": "https://eykmedia.de/products/ip-man-fullset-4-mediabooks-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman_Shop_headergrafik.jpg?v=1791472940",
+      "price": "169,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN 2 - FULLSET - 4 MEDIABOOKS - 4K-UHD",
+      "url": "https://eykmedia.de/products/ip-man-1-2-fullset-8-mediabooks-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman2_Shop_headergrafik.jpg?v=1791472709",
+      "price": "169,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN 2 - MEDIABOOK - COVER D - 4K-UHD",
+      "url": "https://eykmedia.de/products/ip-man-2-mediabook-cover-d-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman2_Cover-D_48e04f68-1133-4301-8317-8ccb43bc67c8.jpg?v=1791472440",
+      "price": "41,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN 2 - MEDIABOOK - COVER C - 4K-UHD",
+      "url": "https://eykmedia.de/products/ip-man-2-mediabook-cover-c-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman2_Cover-C.jpg?v=1791472383",
+      "price": "41,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN 2 - MEDIABOOK - COVER A - 4K-UHD ( SHOP EXKLUSIV )",
+      "url": "https://eykmedia.de/products/ip-man-2-mediabook-cover-a-4k-uhd-shop-exklusiv",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman2_Cover-A.jpg?v=1791472252",
+      "price": "49,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN 2 - MEDIABOOK - COVER B - 4K-UHD",
+      "url": "https://eykmedia.de/products/ip-man-mediabook-cover-b-4k-uhd-1",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman2_Cover-B.jpg?v=1791472100",
+      "price": "41,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN - MEDIABOOK - COVER D - 4K-UHD",
+      "url": "https://eykmedia.de/products/ip-man-mediabook-cover-d-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman_Cover-D.jpg?v=1791471844",
+      "price": "41,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN - MEDIABOOK - COVER C - 4K-UHD",
+      "url": "https://eykmedia.de/products/ip-man-mediabook-cover-c-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman_Cover-C.jpg?v=1791471794",
+      "price": "41,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN - MEDIABOOK - COVER B - 4K-UHD",
+      "url": "https://eykmedia.de/products/ip-man-mediabook-cover-b-4k-uhd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman_Cover-B.jpg?v=1791471704",
+      "price": "41,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "IP MAN - MEDIABOOK - COVER A - 4K-UHD - ( SHOP EXKLUSIV )",
+      "url": "https://eykmedia.de/products/ip-man-mediabook-cover-a-4k-uhd-shop-exklusiv",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Ipman_Cover-A.jpg?v=1791471410",
+      "price": "49,99 €",
+      "release_date": "02.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "TERRIFIER 3 - MEDIABOOK - COVER J - ARTWORK  - 3 DISC EDITION UHD/BD/DVD INKL. KOTZTÜTE & POSTER 1A ( B-WARE OHNE LIMITIERUNG)",
@@ -7093,6 +7203,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "The Killer",
+      "url": "https://shop.plaionpictures.com/the-killer-steelbook-4k-uhd-3-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/ea/26/83/1787293884/TheKiller__SB__2D-JCard.webp?ts=1787293884",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Staatsschutz",
       "url": "https://shop.plaionpictures.com/staatsschutz-blu-ray",
       "image": "https://shop.plaionpictures.com/media/6c/91/b4/1787816258/1184790.webp?ts=1787816258",
@@ -7373,6 +7493,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Hard-Boiled",
+      "url": "https://shop.plaionpictures.com/hard-boiled-steelbook-4k-uhd-2-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/b8/18/ef/1787296192/HardBoiled__SB__2D-JCard.webp?ts=1787296192",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Gaslight Me",
       "url": "https://shop.plaionpictures.com/gaslight-me-dvd",
       "image": "https://shop.plaionpictures.com/media/11/25/22/1789561681/1211609.webp?ts=1789561681",
@@ -7426,16 +7556,6 @@
       "title": "Michael",
       "url": "https://shop.plaionpictures.com/michael-collectors-edition-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/60/b5/1d/1790258642/MAVEN_SPECIAL_EDITION_Schuber_2D_PACKSHOT.webp?ts=1790258647",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The Killer",
-      "url": "https://shop.plaionpictures.com/the-killer-steelbook-4k-uhd-3-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/ea/26/83/1787293884/TheKiller__SB__2D-JCard.webp?ts=1787293884",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7896,16 +8016,6 @@
       "title": "Monk - Die komplette Serie",
       "url": "https://shop.plaionpictures.com/monk-die-komplette-serie-32-blu-rays",
       "image": "https://shop.plaionpictures.com/media/d5/ca/79/1787295612/Monk-Box_2D-FSK.webp?ts=1787295612",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Hard-Boiled",
-      "url": "https://shop.plaionpictures.com/hard-boiled-steelbook-4k-uhd-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/b8/18/ef/1787296192/HardBoiled__SB__2D-JCard.webp?ts=1787296192",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
