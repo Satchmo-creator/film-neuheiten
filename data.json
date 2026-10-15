@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-15T03:26:37Z",
-  "count": 980,
+  "updated": "2026-10-15T08:55:09Z",
+  "count": 982,
   "products": [
+    {
+      "title": "Street Fighter 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/street-fighter-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983179601jpg-234659.jpg?v=1792049156",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Street Fighter Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/street-fighter-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983171001jpg-234462.jpg?v=1792049146",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Mutiny 4K UHD + Blu-ray",
       "url": "https://shop.leoninestudios.com/products/mutiny-4k-uhd-blu-ray",
