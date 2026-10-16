@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T05:30:18Z",
-  "count": 983,
+  "updated": "2026-10-16T10:49:01Z",
+  "count": 996,
   "products": [
     {
       "title": "Street Fighter 4K UHD + Blu-ray",
@@ -647,26 +647,6 @@
       "url": "https://shop.leoninestudios.com/products/jack-reacher-jack-reacher-kein-weg-zur-ck-2-movie-collection-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/505308310626301jpg-205373.jpg?v=1783492389",
       "price": "17,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Auslöschung Blu-ray Lim. Steelbook (exkl. LEONINE Shop)",
-      "url": "https://shop.leoninestudios.com/products/ausl-schung-blu-ray-lim-steelbook-exkl-leonine-shop",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573304001jpg-202393.jpg?v=1782842448",
-      "price": "24,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
-      "url": "https://shop.leoninestudios.com/products/star-trek-08-der-erste-kontakt-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573297501jpg-202225.jpg?v=1782842148",
-      "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -1497,6 +1477,26 @@
       "url": "https://shop.leoninestudios.com/products/power-ballad-der-song-meines-lebens-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970501101jpg-217318.jpg?v=1787040802",
       "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Star Trek 08 - Der erste Kontakt 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/star-trek-08-der-erste-kontakt-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573297501jpg-202225.jpg?v=1782842148",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Auslöschung Blu-ray Lim. Steelbook (exkl. LEONINE Shop)",
+      "url": "https://shop.leoninestudios.com/products/ausl-schung-blu-ray-lim-steelbook-exkl-leonine-shop",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573304001jpg-202393.jpg?v=1782842448",
+      "price": "24,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
       "source_label": "Leonine – Neuheiten",
@@ -2541,6 +2541,26 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "WRONG TURN COLLECTION - 4K-UHD - 7 DISC EDITION",
+      "url": "https://eykmedia.de/products/wrong-turn-collection-blu-ray-7-disc-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/WrongTurn1-7_UHD.jpg?v=1792135345",
+      "price": "149,99 €",
+      "release_date": "09.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "WRONG TURN COLLECTION - BLU RAY - 7 DISC EDITION",
+      "url": "https://eykmedia.de/products/wrong-turn-cover-e-full-set-bd-4k-uhd-inl-schuber-shop-exclusiv-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/WrongTurn1-7_BD.jpg?v=1792134834",
+      "price": "129,99 €",
+      "release_date": "09.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "IP MAN - FULLSET - 4 MEDIABOOKS - 4K-UHD",
@@ -7145,7 +7165,7 @@
     {
       "title": "Digger",
       "url": "https://shop.plaionpictures.com/digger-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/f3/63/c0/1790774691/GE_TCI_DIGGER_BD_2D.webp?ts=1790774696",
+      "image": "https://shop.plaionpictures.com/media/16/71/e5/1792139097/GER%20DIGGER%20Poster.webp?ts=1792139102",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7186,6 +7206,26 @@
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
       "image": "https://shop.plaionpictures.com/media/52/c0/13/1790775038/PP_Verity-BD_2D.webp?ts=1790775040",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Monster Mia",
+      "url": "https://shop.plaionpictures.com/monster-mia-dvd",
+      "image": "https://shop.plaionpictures.com/media/8a/64/90/1792057025/1108620.webp?ts=1792057029",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
+      "url": "https://shop.plaionpictures.com/heimsuchung-eine-jahrhundertgeschichte-dvd",
+      "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7236,6 +7276,86 @@
       "title": "The Social Reckoning",
       "url": "https://shop.plaionpictures.com/the-social-reckoning-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/28/7c/a7/1791378242/The%20social%20Reckoning_UHD_2D.webp?ts=1791378276",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Begierde",
+      "url": "https://shop.plaionpictures.com/begierde-fullsleeve-edition-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/95/7c/0f/1792144818/1214834.webp?ts=1792144826",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Das Ding mit Federn",
+      "url": "https://shop.plaionpictures.com/das-ding-mit-federn-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/ec/09/79/1792055699/1210681.webp?ts=1792055704",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Die große Sause",
+      "url": "https://shop.plaionpictures.com/die-grosse-sause-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/3b/7f/9e/1694514519/4006680082967_DieGrosseSause_JE_DR_DVD_ORing.jpg?ts=1694514519",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Ihr größter Coup",
+      "url": "https://shop.plaionpictures.com/ihr-groesster-coup-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/48/01/b6/1792055717/1214770.webp?ts=1792055760",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Sinn und Sinnlichkeit",
+      "url": "https://shop.plaionpictures.com/sinn-und-sinnlichkeit-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/1a/80/d5/1792055735/1213906.webp?ts=1792055814",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Soraya - Sklavin des Orients",
+      "url": "https://shop.plaionpictures.com/soraya-sklavin-des-orients-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/f5/2d/8e/1792055751/1214768.webp?ts=1792055871",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Spellbinder: Ein teuflischer Plan",
+      "url": "https://shop.plaionpictures.com/spellbinder-ein-teuflischer-plan-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/97/f2/66/1792055770/1214772.webp?ts=1792055922",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Walhalla",
+      "url": "https://shop.plaionpictures.com/walhalla-blu-ray-bonus-dvd",
+      "image": "https://shop.plaionpictures.com/media/a1/0f/e4/1792062790/Walhalla_Bluray_2D.webp?ts=1792062794",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7523,6 +7643,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Ice Cream Man",
+      "url": "https://shop.plaionpictures.com/ice-cream-man-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/72/23/1b/1792055707/1214934.webp?ts=1792055733",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Trainspotting",
       "url": "https://shop.plaionpictures.com/trainspotting-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/30/ae/16/1792062660/Trainspotting_Steelbook_Cover%2016.03.webp?ts=1792062666",
@@ -7803,6 +7933,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Der Schock",
+      "url": "https://shop.plaionpictures.com/der-schock-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/c6/71/bd/1792057042/1211665.webp?ts=1792057085",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Die Odyssee",
       "url": "https://shop.plaionpictures.com/die-odyssee-2-dvds",
       "image": "https://shop.plaionpictures.com/media/34/79/91/1791808562/DieOdyssee__DVD__2D.webp?ts=1791808566",
@@ -7856,16 +7996,6 @@
       "title": "EPiC: Elvis Presley in Concert",
       "url": "https://shop.plaionpictures.com/epic-elvis-presley-in-concert-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/85/4c/1d/1785763640/EPiC_Steelbook_Cover.webp?ts=1785763640",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Ice Cream Man",
-      "url": "https://shop.plaionpictures.com/ice-cream-man-dvd",
-      "image": "https://shop.plaionpictures.com/media/34/a3/61/1785999863/PP_IceCreamMan-DVD_2D.webp?ts=1785999863",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
