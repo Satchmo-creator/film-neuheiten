@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T10:49:01Z",
-  "count": 996,
+  "updated": "2026-10-16T15:14:36Z",
+  "count": 997,
   "products": [
     {
       "title": "Street Fighter 4K UHD + Blu-ray",
@@ -7356,6 +7356,16 @@
       "title": "Walhalla",
       "url": "https://shop.plaionpictures.com/walhalla-blu-ray-bonus-dvd",
       "image": "https://shop.plaionpictures.com/media/a1/0f/e4/1792062790/Walhalla_Bluray_2D.webp?ts=1792062794",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Wolfen",
+      "url": "https://shop.plaionpictures.com/wolfen-fullsleeve-edition-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/ec/bd/b5/1792149237/1215045.webp?ts=1792149243",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
