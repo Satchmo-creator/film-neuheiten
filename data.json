@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T01:05:49Z",
-  "count": 997,
+  "updated": "2026-10-17T06:37:43Z",
+  "count": 999,
   "products": [
     {
       "title": "Street Fighter 4K UHD + Blu-ray",
@@ -2558,6 +2558,26 @@
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/WrongTurn1-7_BD.jpg?v=1792134834",
       "price": "129,99 €",
       "release_date": "09.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "TENEBRE - DER KALTE HAUCH DES TODES -  2 DISC LEATHERPACK EDITION",
+      "url": "https://eykmedia.de/products/demons-damonen-1-2-double-feature-4-disc-leatherpack-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TENEBRE-LEATHERPreview1fFrontBack.jpg?v=1792133700",
+      "price": "79,99 €",
+      "release_date": "09.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "DEMONS - DÄMONEN 1&2 DOUBLE FEATURE 4 DISC- LEATHERPACK  EDITION",
+      "url": "https://eykmedia.de/products/demons-damonen-1-2-double-feature-4-disc-leatherpack-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/DEMONS-LEATHERPreview1FrontBack.jpg?v=1792133199",
+      "price": "99,99 €",
+      "release_date": "30.10.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
