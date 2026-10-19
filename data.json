@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-19T05:46:36Z",
-  "count": 879,
+  "updated": "2026-10-19T12:17:08Z",
+  "count": 895,
   "products": [
+    {
+      "title": "Stirb langsam 2 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/stirb-langsam-2-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573459701jpg-235533.jpg?v=1792406795",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Stirb langsam - Jetzt erst recht 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/stirb-langsam-jetzt-erst-recht-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734696_01.jpg?v=1792407985",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Stirb langsam 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/stirb-langsam-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573449801jpg-235827.jpg?v=1792406806",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Street Fighter 4K UHD + Blu-ray",
       "url": "https://shop.leoninestudios.com/products/street-fighter-4k-uhd-blu-ray",
@@ -1503,18 +1533,18 @@
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
-      "title": "Chucky – Die Mörderpuppe (Blu-ray)",
-      "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-Blu-ray/6425110",
+      "title": "Chucky – Die Mörderpuppe Blu-ray *NEUE_BD*",
+      "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-Blu-ray-NEUE-BD/6425110",
       "image": "",
-      "price": "",
+      "price": "12,99 €",
       "release_date": "22.10.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
     },
     {
-      "title": "Chucky – Die Mörderpuppe - 2-Disc-Edition (UHD-Blu-ray + Bonus-Blu-ray)",
-      "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-2-Disc-Edition-UHD-Blu-ray-Bonus-Blu-ray/6425111",
+      "title": "Chucky – Die Mörderpuppe - 2-Disc-Edition (UHD-Blu-ray + ... UHD Blu-ray *NEUE_BD*",
+      "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-2-Disc-Edition-UHD-Blu-ray-...-UHD-Blu-ray-NEUE-BD/6425111",
       "image": "",
       "price": "24,99 €",
       "release_date": "22.10.2026",
@@ -1523,8 +1553,8 @@
       "source_url": "https://shop.capelight.de/VORSCHAU/"
     },
     {
-      "title": "Manche mögen&#039;s heiß (4K remastered) (Blu-ray)",
-      "url": "https://shop.capelight.de/Manche-moegen-s-heiss-4K-remastered-Blu-ray/6425617",
+      "title": "Manche mögen&#039;s heiß (4K remastered) Blu-ray *NEUE_BD*",
+      "url": "https://shop.capelight.de/Manche-moegen-s-heiss-4K-remastered-Blu-ray-NEUE-BD/6425617",
       "image": "",
       "price": "17,99 €",
       "release_date": "22.10.2026",
@@ -1533,8 +1563,8 @@
       "source_url": "https://shop.capelight.de/VORSCHAU/"
     },
     {
-      "title": "Manche mögen&#039;s heiß (UHD-Blu-ray)",
-      "url": "https://shop.capelight.de/Manche-moegen-s-heiss-UHD-Blu-ray/6425618",
+      "title": "Manche mögen&#039;s heiß (UHD-Blu-ray) UHD Blu-ray *NEUE_BD*",
+      "url": "https://shop.capelight.de/Manche-moegen-s-heiss-UHD-Blu-ray-UHD-Blu-ray-NEUE-BD/6425618",
       "image": "",
       "price": "24,99 €",
       "release_date": "22.10.2026",
@@ -2176,7 +2206,7 @@
       "title": "The Sadness (Uncut) (UHD Blu-Ray)",
       "url": "https://shop.capelight.de/The-Sadness-Uncut-UHD-Blu-Ray/6422194",
       "image": "",
-      "price": "24,99 €",
+      "price": "",
       "release_date": "10.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -2206,7 +2236,7 @@
       "title": "Talk to Me (UHD-Blu-ray)",
       "url": "https://shop.capelight.de/Talk-to-Me-UHD-Blu-ray/6423481",
       "image": "",
-      "price": "24,99 €",
+      "price": "",
       "release_date": "10.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -8783,9 +8813,139 @@
       "source_url": "https://shop.plaionpictures.com/exclusives/"
     },
     {
+      "title": "A Knight of the Seven Kingdoms - A Game of Thrones Tale - Staffel 1",
+      "url": "https://shop.plaionpictures.com/a-knight-of-the-seven-kingdoms-a-game-of-thrones-tale-staffel-1-2-dvds",
+      "image": "https://shop.plaionpictures.com/media/21/84/39/1779952577/A%20KNIGHTMARE%20ON%20ELM%20STREET%20DVD%20Cover%202D.webp?ts=1779952577",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Das Schloss im Schatten",
+      "url": "https://shop.plaionpictures.com/das-schloss-im-schatten-mediabook-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/4b/9c/af/1774534387/1119138.webp?ts=1774534387",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Mercy",
+      "url": "https://shop.plaionpictures.com/mercy-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/f3/2a/e7/1769071001/1198746.webp?ts=1769071001",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Der gelbe Strom",
+      "url": "https://shop.plaionpictures.com/der-gelbe-strom-mediabook-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/92/9c/e7/1769700270/DerGelbeStrom_2D-FSK.webp?ts=1769700270",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Godzilla x Kong: The New Empire",
+      "url": "https://shop.plaionpictures.com/godzilla-x-kong-the-new-empire-4k-uhd",
+      "image": "https://shop.plaionpictures.com/media/c1/e5/5c/1758713199/1183247.webp?ts=1758713199",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Phantastische Tierwesen 3-Film Collection",
+      "url": "https://shop.plaionpictures.com/phantastische-tierwesen-3-film-collection-4k-uhd",
+      "image": "https://shop.plaionpictures.com/media/96/77/fe/1758719549/1183539.webp?ts=1758719549",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Einladung zum Mord",
+      "url": "https://shop.plaionpictures.com/einladung-zum-mord-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/3d/2b/05/1753348111/Einladung-zum-Mord_BD_2D.webp?ts=1753348111",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
       "title": "Die Tribute von Panem - 5 Filme Limited Collection",
       "url": "https://shop.plaionpictures.com/die-tribute-von-panem-5-filme-limited-collection-5-4k-uhds-5-blu-rays",
       "image": "https://shop.plaionpictures.com/media/04/22/90/1748433786/DieTributeVonPanem_5FilmeCC_UHD.webp?ts=1748433786",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Old Henry",
+      "url": "https://shop.plaionpictures.com/old-henry-4kuhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/70/cc/fb/1665493417/Old-Henry_MediaBook_2D_Packshot_UHD_Sticker.jpg?ts=1665493417",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Phantastische Tierwesen: Dumbledores Geheimnisse",
+      "url": "https://shop.plaionpictures.com/phantastische-tierwesen-dumbledores-geheimnisse-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/50/3d/5a/1758887123/5051890329882.webp?ts=1758887123",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Aufbruch zum Mond",
+      "url": "https://shop.plaionpictures.com/aufbruch-zum-mond-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/4e/39/9c/1765973328/1184953.webp?ts=1765973328",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+      "url": "https://shop.plaionpictures.com/phantastische-tierwesen-grindelwalds-verbrechen-dvd",
+      "image": "https://shop.plaionpictures.com/media/b3/71/87/1764067016/1183549.webp?ts=1764067016",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Blade Runner 2049",
+      "url": "https://shop.plaionpictures.com/blade-runner-2049-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/da/d5/e3/1707229931/Blade-Runner-2049_1129600.jpg?ts=1707229931",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Phantastische Tierwesen und wo sie zu finden sind",
+      "url": "https://shop.plaionpictures.com/phantastische-tierwesen-und-wo-sie-zu-finden-sind-3d-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/c1/9e/c4/1764066788/1183542.webp?ts=1764066788",
       "price": "",
       "release_date": "",
       "source_id": "plaion_sale",
