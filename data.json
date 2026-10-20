@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-20T09:10:55Z",
-  "count": 898,
+  "updated": "2026-10-20T14:42:48Z",
+  "count": 899,
   "products": [
-    {
-      "title": "Die Snoopy Show, Staffel 1-3 Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/die-snoopy-show-staffel-1-3-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970236201jpg-236121.jpg?v=1792408922",
-      "price": "39,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
     {
       "title": "Die Snoopy Show, Staffel 1-3",
       "url": "https://shop.leoninestudios.com/products/die-snoopy-show-staffel-1-3",
@@ -23,10 +13,30 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
+      "title": "Die Snoopy Show, Staffel 1-3 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/die-snoopy-show-staffel-1-3-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970236201jpg-236121.jpg?v=1792408922",
+      "price": "39,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
       "title": "Babylon Berlin - Komplettbox St. 1-5 Blu-ray",
       "url": "https://shop.leoninestudios.com/products/babylon-berlin-komplettbox-st-1-5-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122900763401jpg-236452.jpg?v=1792412132",
       "price": "79,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Babylon Berlin - Komplettbox St. 1-5",
+      "url": "https://shop.leoninestudios.com/products/babylon-berlin-komplettbox-st-1-5",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122900763401jpg-236452.jpg?v=1792412132",
+      "price": "69,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
