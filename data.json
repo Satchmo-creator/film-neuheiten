@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T01:16:02Z",
-  "count": 904,
+  "updated": "2026-10-22T07:09:55Z",
+  "count": 905,
   "products": [
     {
       "title": "Der perfekte Urlaub",
@@ -8596,6 +8596,16 @@
       "title": "Ein Minecraft Film",
       "url": "https://shop.plaionpictures.com/ein-minecraft-film-2025-limitiertes-steelbook-b-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/bf/7d/21/1772027616/1194426.webp?ts=1772027616",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_exclusives",
+      "source_label": "Plaion Pictures – Exclusives",
+      "source_url": "https://shop.plaionpictures.com/exclusives/"
+    },
+    {
+      "title": "Details",
+      "url": "https://shop.plaionpictures.com/f1-2025-limitiertes-steelbook-c-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/0a/32/dc/1772027956/1191901.webp?ts=1772027957",
       "price": "",
       "release_date": "",
       "source_id": "plaion_exclusives",
