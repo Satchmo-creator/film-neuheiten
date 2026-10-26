@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T16:32:25Z",
-  "count": 975,
+  "updated": "2026-10-26T21:23:30Z",
+  "count": 988,
   "products": [
     {
       "title": "Der perfekte Urlaub",
@@ -2613,6 +2613,136 @@
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
+      "title": "CREEPSHOW 1&2 - HARTBOXEN - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-hartbox-weekend-of-horror-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow1_2WOHEditionHartbox.jpg?v=1793038393",
+      "price": "114,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "DIE HORDE - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/die-horde-mediabook-cover-e-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/HordeWOHEditionHartbox.jpg?v=1793037898",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffderZombiesWOHEditionHartbox.jpg?v=1793037645",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - MEDIABOOK - WEEKEND OF HORROR WHITE EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-2-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffderZombiesWOHEditionMediabook.jpg?v=1793037515",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW 2 - MEDIABOOK - WEEKEND OF HORROR WHITE EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-2-hartbox-weekend-of-horror-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2WOHEditionMediabook.jpg?v=1793037050",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW 2 - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-hartbox-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2WOHEditionHartbox_f135f190-b2ed-4a33-8dfb-e1173cdb2bdf.jpg?v=1793036829",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/lebendig-gefressen-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/CreepshowWOHEditionHartbox.jpg?v=1793035870",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "LEBENDIG GEFRESSEN - MEDIABOOK - WEEKEND OF HORROR WHITE EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/lebendig-gefressen-mediabook-weekend-of-horror-white-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/LebendingGefressenWOHEditionMediabook.jpg?v=1793035096",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "MAN EATER - MEDIABOOK  -  WEEKEND OF HORROR WHITE EDITION - 4K-UHD/2xBD",
+      "url": "https://eykmedia.de/products/man-eater-mediabook-weekend-of-horror-white-edition-4k-uhd-2xbd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ManEaterWOHEditionMediabook_96de5e80-6271-4cc9-9172-a6458a5a0286.jpg?v=1793034976",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT 2 - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-2-mediabook-weekend-of-horror-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionMediabook_224c7638-15df-4ade-a26b-833a7305f69c.jpg?v=1793034554",
+      "price": "49,99 €",
+      "release_date": "",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT - HARTBOX -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionHartbox.jpg?v=1793034328",
+      "price": "49,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionMediabook.jpg?v=1793034182",
+      "price": "49,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT 2 - HARTBOX -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/zombies-unter-kannibalen-mediabook-cover-i-event-edition-4disc-edition-111-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionHartbox.jpg?v=1793034422",
+      "price": "49,99 €",
+      "release_date": "",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
       "title": "TRAIN TO BUSAN - MEDIABOOK - COVER G - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/train-to-busan-mediabook-cover-f-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TrainToBusan_Cover-G.jpg?v=1792477333",
@@ -3546,8 +3676,8 @@
       "title": "MAN EATER - MEDIABOOK - COVER K - 4K-UHD/2x BD - SHOP EXKLUSIV",
       "url": "https://eykmedia.de/products/man-eater-mediabook-cover-k-4k-uhd-2x-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ManEater_cover-K.jpg?v=1777024858",
-      "price": "49,99 €",
-      "release_date": "04.05.2026",
+      "price": "59,99 €",
+      "release_date": "",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
