@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T14:01:11Z",
-  "count": 981,
+  "updated": "2026-10-27T19:49:43Z",
+  "count": 982,
   "products": [
     {
       "title": "Die Chroniken von Narnia - Der König von Narnia UHD+BD (Lim. Steelbook)",
@@ -2176,7 +2176,7 @@
       "title": "Wege zum Ruhm - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
       "url": "https://shop.capelight.de/Wege-zum-Ruhm-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425819",
       "image": "",
-      "price": "39,99 €",
+      "price": "34,99 €",
       "release_date": "24.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -2376,7 +2376,7 @@
       "title": "Lord of Illusions - Limitiertes 2-Disc-Mediabook (4k Ultra Hd + Blu-Ray)",
       "url": "https://shop.capelight.de/Lord-of-Illusions-Limitiertes-2-Disc-Mediabook-4k-Ultra-Hd-Blu-Ray/6425764",
       "image": "",
-      "price": "39,99 €",
+      "price": "34,99 €",
       "release_date": "10.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -2546,7 +2546,7 @@
       "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425844",
       "image": "",
-      "price": "39,99 €",
+      "price": "37,99 €",
       "release_date": "03.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -2623,6 +2623,26 @@
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
+      "title": "PHENOMENA - MEDIABOOK - COVER B - 4K-UHD/2xBD/DVD - 4-DISC EDITION",
+      "url": "https://eykmedia.de/products/phenomena-mediabook-cover-a-2xbd-dvd-3-disc-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Phenomena-XTBook-CoverB.jpg?v=1793111480",
+      "price": "44,99 €",
+      "release_date": "20.11.2025",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "PHENOMENA - MEDIABOOK - COVER A - 2xBD/DVD - 3-DISC EDITION",
+      "url": "https://eykmedia.de/products/phenomena-mediabook-cover-a-2xbd-dvd-3-disc-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Phenomena-XTBook-CoverA_2c7be6d9-6273-47b2-8643-bfef6d2c05b8.jpg?v=1793119951",
+      "price": "41,99 €",
+      "release_date": "20.11.2025",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
       "title": "DIE HORDE - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/die-horde-mediabook-cover-e-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/HordeWOHEditionHartbox.jpg?v=1793037898",
@@ -2647,16 +2667,6 @@
       "url": "https://eykmedia.de/products/creepshow-hartbox-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2WOHEditionHartbox_f135f190-b2ed-4a33-8dfb-e1173cdb2bdf.jpg?v=1793036829",
       "price": "59,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "THE DESCENT - HARTBOX -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd-kopie",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionHartbox.jpg?v=1793034328",
-      "price": "49,99 €",
       "release_date": "13.11.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
