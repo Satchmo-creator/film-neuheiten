@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-27T07:22:19Z",
-  "count": 988,
+  "updated": "2026-10-27T14:01:11Z",
+  "count": 981,
   "products": [
+    {
+      "title": "Die Chroniken von Narnia - Der König von Narnia UHD+BD (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/die-chroniken-von-narnia-der-k-nig-von-narnia-uhd-bd-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/4013575734399-die-chroniken-von-narnia-der-knig-von-narnia-uhdbd-lim-steelbook01jpg-241873.jpg?v=1793028781",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Der perfekte Urlaub",
       "url": "https://shop.leoninestudios.com/products/der-perfekte-urlaub",
@@ -2206,7 +2216,7 @@
       "title": "Lion Fist - Kampf der Champions - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
       "url": "https://shop.capelight.de/Lion-Fist-Kampf-der-Champions-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6425774",
       "image": "",
-      "price": "39,99 €",
+      "price": "",
       "release_date": "17.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -2613,16 +2623,6 @@
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
-      "title": "CREEPSHOW 1&2 - HARTBOXEN - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/creepshow-hartbox-weekend-of-horror-edition-4k-uhd-bd-kopie",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow1_2WOHEditionHartbox.jpg?v=1793038393",
-      "price": "114,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
       "title": "DIE HORDE - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/die-horde-mediabook-cover-e-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/HordeWOHEditionHartbox.jpg?v=1793037898",
@@ -2643,26 +2643,6 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
-      "title": "GROSSANGRIFF DER ZOMBIES - MEDIABOOK - WEEKEND OF HORROR WHITE EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/creepshow-2-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffderZombiesWOHEditionMediabook.jpg?v=1793037515",
-      "price": "59,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "CREEPSHOW 2 - MEDIABOOK - WEEKEND OF HORROR WHITE EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/creepshow-2-hartbox-weekend-of-horror-edition-4k-uhd-bd-kopie",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2WOHEditionMediabook.jpg?v=1793037050",
-      "price": "59,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
       "title": "CREEPSHOW 2 - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/creepshow-hartbox-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2WOHEditionHartbox_f135f190-b2ed-4a33-8dfb-e1173cdb2bdf.jpg?v=1793036829",
@@ -2673,59 +2653,9 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
-      "title": "CREEPSHOW - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/lebendig-gefressen-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/CreepshowWOHEditionHartbox.jpg?v=1793035870",
-      "price": "59,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "LEBENDIG GEFRESSEN - MEDIABOOK - WEEKEND OF HORROR WHITE EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/lebendig-gefressen-mediabook-weekend-of-horror-white-edition-4k-uhd-bd",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/LebendingGefressenWOHEditionMediabook.jpg?v=1793035096",
-      "price": "59,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "MAN EATER - MEDIABOOK  -  WEEKEND OF HORROR WHITE EDITION - 4K-UHD/2xBD",
-      "url": "https://eykmedia.de/products/man-eater-mediabook-weekend-of-horror-white-edition-4k-uhd-2xbd",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ManEaterWOHEditionMediabook_96de5e80-6271-4cc9-9172-a6458a5a0286.jpg?v=1793034976",
-      "price": "59,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "THE DESCENT 2 - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/the-descent-2-mediabook-weekend-of-horror-edition-4k-uhd-bd",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionMediabook_224c7638-15df-4ade-a26b-833a7305f69c.jpg?v=1793034554",
-      "price": "49,99 €",
-      "release_date": "",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
       "title": "THE DESCENT - HARTBOX -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionHartbox.jpg?v=1793034328",
-      "price": "49,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "THE DESCENT - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionMediabook.jpg?v=1793034182",
       "price": "49,99 €",
       "release_date": "13.11.2026",
       "source_id": "eykmedia_vorbestellen",
@@ -7343,19 +7273,9 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "The End of Oak Street",
-      "url": "https://shop.plaionpictures.com/the-end-of-oak-street-dvd",
-      "image": "https://shop.plaionpictures.com/media/be/ff/1f/1786608533/1211554.webp?ts=1786608533",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "House of the Dragon: Die komplette 3. Staffel",
       "url": "https://shop.plaionpictures.com/house-of-the-dragon-die-komplette-3.-staffel-4-dvds",
-      "image": "https://shop.plaionpictures.com/media/23/fc/90/1786627583/1211577.webp?ts=1786627583",
+      "image": "https://shop.plaionpictures.com/media/ec/2e/4a/1793101686/HOTD%20S3%20DVD%20Cover%202D.webp?ts=1793101691",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7403,9 +7323,19 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
+      "url": "https://shop.plaionpictures.com/heimsuchung-eine-jahrhundertgeschichte-dvd",
+      "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Wicked: Teil 2",
       "url": "https://shop.plaionpictures.com/wicked-teil-2-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/3a/c4/1f/1790775151/PP_Verity-UHD_2D.webp?ts=1790775154",
+      "image": "https://shop.plaionpictures.com/media/59/1f/5c/1792057051/1214936.webp?ts=1792057112",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7415,7 +7345,7 @@
     {
       "title": "Five Nights at Freddy's 2",
       "url": "https://shop.plaionpictures.com/five-nights-at-freddy-s-2-limitiertes-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/3a/c4/1f/1790775151/PP_Verity-UHD_2D.webp?ts=1790775154",
+      "image": "https://shop.plaionpictures.com/media/59/1f/5c/1792057051/1214936.webp?ts=1792057112",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7425,17 +7355,7 @@
     {
       "title": "Song Sung Blue",
       "url": "https://shop.plaionpictures.com/song-sung-blue-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/3a/c4/1f/1790775151/PP_Verity-UHD_2D.webp?ts=1790775154",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
-      "url": "https://shop.plaionpictures.com/heimsuchung-eine-jahrhundertgeschichte-dvd",
-      "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
+      "image": "https://shop.plaionpictures.com/media/59/1f/5c/1792057051/1214936.webp?ts=1792057112",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7695,7 +7615,7 @@
     {
       "title": "Euphoria: Staffel 3",
       "url": "https://shop.plaionpictures.com/euphoria-staffel-3-4-dvds",
-      "image": "https://shop.plaionpictures.com/media/92/34/14/1788953236/EUPHORIA_S3_DVD_SL.webp?ts=1788953236",
+      "image": "https://shop.plaionpictures.com/media/33/b9/47/1793102149/EUPHORIA%20S3%20DVD%20Cover%202D.webp?ts=1793102157",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8226,6 +8146,16 @@
       "title": "Mit leiser Stimme",
       "url": "https://shop.plaionpictures.com/mit-leiser-stimme-dvd",
       "image": "https://shop.plaionpictures.com/media/f5/14/08/1783513083/1207227.webp?ts=1783513083",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "The End of Oak Street",
+      "url": "https://shop.plaionpictures.com/the-end-of-oak-street-dvd",
+      "image": "https://shop.plaionpictures.com/media/67/89/d2/1793106680/THE%20END%20OF%20OAK%20STREET%20DVD%20Cover%202D.webp?ts=1793106687",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
