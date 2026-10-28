@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:00:37Z",
+  "updated": "2026-10-28T17:07:33Z",
   "count": 982,
   "products": [
     {
@@ -1857,7 +1857,7 @@
       "url": "https://shop.capelight.de/Coyote-vs.-ACME-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6426166",
       "image": "",
       "price": "34,99 €",
-      "release_date": "07.01.2027",
+      "release_date": "17.12.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
@@ -1867,7 +1867,7 @@
       "url": "https://shop.capelight.de/Coyote-vs.-ACME-Limitiertes-2-Disc-SteelBook-4K-Ultra-HD-Blu-ray/6426179",
       "image": "",
       "price": "34,99 €",
-      "release_date": "07.01.2027",
+      "release_date": "17.12.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
@@ -1877,17 +1877,7 @@
       "url": "https://shop.capelight.de/Coyote-vs.-ACME-Blu-ray/6426167",
       "image": "",
       "price": "17,99 €",
-      "release_date": "07.01.2027",
-      "source_id": "capelight_vorschau",
-      "source_label": "Capelight – Vorschau",
-      "source_url": "https://shop.capelight.de/VORSCHAU/"
-    },
-    {
-      "title": "Jim Queen (Blu-ray)",
-      "url": "https://shop.capelight.de/Jim-Queen-Blu-ray/6426161",
-      "image": "",
-      "price": "17,99 €",
-      "release_date": "07.01.2027",
+      "release_date": "17.12.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
@@ -1897,6 +1887,16 @@
       "url": "https://shop.capelight.de/Set-1-COYOTE-VS.-ACME-Mediabook-und-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6426275",
       "image": "",
       "price": "",
+      "release_date": "17.12.2026",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Jim Queen (Blu-ray)",
+      "url": "https://shop.capelight.de/Jim-Queen-Blu-ray/6426161",
+      "image": "",
+      "price": "17,99 €",
       "release_date": "07.01.2027",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
@@ -7735,7 +7735,7 @@
     {
       "title": "Masters of the Universe",
       "url": "https://shop.plaionpictures.com/masters-of-the-universe-collector-s-steelbook-edition-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/b3/af/71/1781171827/1207222.webp?ts=1781171827",
+      "image": "https://shop.plaionpictures.com/media/d5/99/26/1793188608/Masters%20of%20the%20Universe_Collectors%20Edition%20Schuber_2D.webp?ts=1793188612",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
