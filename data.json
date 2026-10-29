@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T02:08:43Z",
+  "updated": "2026-10-29T09:26:32Z",
   "count": 982,
   "products": [
     {
@@ -1597,7 +1597,7 @@
       "url": "https://shop.capelight.de/Christmas-Bloody-Christmas-UHD-Blu-ray/6422715",
       "image": "",
       "price": "24,99 €",
-      "release_date": "05.11.2026",
+      "release_date": "12.11.2026",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
@@ -8153,6 +8153,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Superman",
+      "url": "https://shop.plaionpictures.com/superman-limitiertes-steelbook-a-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/84/03/07/1752059817/Superman%20SB%20A_2D.webp?ts=1752059817",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Mit leiser Stimme",
       "url": "https://shop.plaionpictures.com/mit-leiser-stimme-dvd",
       "image": "https://shop.plaionpictures.com/media/f5/14/08/1783513083/1207227.webp?ts=1783513083",
@@ -8676,16 +8686,6 @@
       "title": "Getaway - Ihre Chance war gleich Null",
       "url": "https://shop.plaionpictures.com/getaway-ihre-chance-war-gleich-null-mediabook-b-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/1a/4f/00/1757057043/Getaway_CoverB_2D_Shop%20exklusiv.webp?ts=1757057043",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_exclusives",
-      "source_label": "Plaion Pictures – Exclusives",
-      "source_url": "https://shop.plaionpictures.com/exclusives/"
-    },
-    {
-      "title": "Superman",
-      "url": "https://shop.plaionpictures.com/superman-limitiertes-steelbook-c-4k-uhd-blu-ray-excl.-shop",
-      "image": "https://shop.plaionpictures.com/media/75/33/5f/1752062102/Superman%20SB%20C_2D.webp?ts=1752062102",
       "price": "",
       "release_date": "",
       "source_id": "plaion_exclusives",
