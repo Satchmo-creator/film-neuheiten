@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:38:34Z",
+  "updated": "2026-10-29T21:33:50Z",
   "count": 988,
   "products": [
     {
@@ -2643,6 +2643,16 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
+      "title": "CREEPSHOW 1&2 - HARTBOXEN - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-hartbox-weekend-of-horror-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow1_2WOHEditionHartbox.jpg?v=1793038393",
+      "price": "114,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
       "title": "DIE HORDE - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/die-horde-mediabook-cover-e-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/HordeWOHEditionHartbox.jpg?v=1793037898",
@@ -2658,16 +2668,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffderZombiesWOHEditionHartbox.jpg?v=1793037645",
       "price": "59,99 €",
       "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "THE DESCENT 2 - HARTBOX -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/zombies-unter-kannibalen-mediabook-cover-i-event-edition-4disc-edition-111-kopie",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionHartbox.jpg?v=1793034422",
-      "price": "49,99 €",
-      "release_date": "",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -6983,6 +6983,66 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "Die Strandflitzer & Die Ski-Flitzer Edition",
+      "url": "https://shop.plaionpictures.com/die-strandflitzer-die-ski-flitzer-edition-2-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/40/93/85/1787816193/1210666.webp?ts=1787816193",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Evil Dead Burn",
+      "url": "https://shop.plaionpictures.com/evil-dead-burn-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Bitteres Fest",
+      "url": "https://shop.plaionpictures.com/bitteres-fest-dvd",
+      "image": "https://shop.plaionpictures.com/media/74/d2/08/1785328657/BitteresFest-DVD_HE_2D.webp?ts=1785328657",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Tiger & Dragon",
+      "url": "https://shop.plaionpictures.com/tiger-dragon-dvd",
+      "image": "https://shop.plaionpictures.com/media/2b/63/ec/1786972723/1211687.webp?ts=1786972723",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Monk - Die komplette Serie",
+      "url": "https://shop.plaionpictures.com/monk-die-komplette-serie-32-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/d5/ca/79/1787295612/Monk-Box_2D-FSK.webp?ts=1787295612",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Flash Gordon",
+      "url": "https://shop.plaionpictures.com/flash-gordon-casaro-collection-mediabook-4k-uhd-2-blu-rays-shop",
+      "image": "https://shop.plaionpictures.com/media/bc/e7/42/1791197009/FleshGordon-Casaro__MB2D.webp?ts=1791197012",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Dragnet - Schlappe Bullen beißen nicht",
       "url": "https://shop.plaionpictures.com/dragnet-schlappe-bullen-beissen-nicht-mediabook-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/69/f4/86/1782375575/1207740.webp?ts=1782375575",
@@ -7045,6 +7105,26 @@
     {
       "title": "Twins - Zwillinge",
       "url": "https://shop.plaionpictures.com/twins-zwillinge-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/88/1a/09/1787293743/PP_Twins-BD_2D.webp?ts=1787293743",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "PLAION PICTURES",
+      "url": "https://shop.plaionpictures.com/film-neuheiten/",
+      "image": "https://shop.plaionpictures.com/media/88/1a/09/1787293743/PP_Twins-BD_2D.webp?ts=1787293743",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warner Bros",
+      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/88/1a/09/1787293743/PP_Twins-BD_2D.webp?ts=1787293743",
       "price": "",
       "release_date": "",
@@ -7135,26 +7215,6 @@
     {
       "title": "Harry Potter: 8-Film Collection - 25th Anniversary",
       "url": "https://shop.plaionpictures.com/harry-potter-8-film-collection-25th-anniversary-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/a3/f8/34/1790076714/HARRY%20POTTER_25thAnn_4K_Library%20Case_2D_JC.webp?ts=1790076953",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "PLAION PICTURES",
-      "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/a3/f8/34/1790076714/HARRY%20POTTER_25thAnn_4K_Library%20Case_2D_JC.webp?ts=1790076953",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Warner Bros",
-      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/a3/f8/34/1790076714/HARRY%20POTTER_25thAnn_4K_Library%20Case_2D_JC.webp?ts=1790076953",
       "price": "",
       "release_date": "",
@@ -8396,66 +8456,6 @@
       "title": "Godzilla Minus One",
       "url": "https://shop.plaionpictures.com/godzilla-minus-one-glow-in-the-dark-steelbook-edition-4k-uhd-3-blu-rays",
       "image": "https://shop.plaionpictures.com/media/f0/46/5b/1790254948/Godzilla_MinusOne_GlowInTheDark__BD_Front-FSK12_CMYK.webp?ts=1790254955",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die Strandflitzer & Die Ski-Flitzer Edition",
-      "url": "https://shop.plaionpictures.com/die-strandflitzer-die-ski-flitzer-edition-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/40/93/85/1787816193/1210666.webp?ts=1787816193",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Evil Dead Burn",
-      "url": "https://shop.plaionpictures.com/evil-dead-burn-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/32/e7/4f/1783512829/1207917.webp?ts=1783512829",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Bitteres Fest",
-      "url": "https://shop.plaionpictures.com/bitteres-fest-dvd",
-      "image": "https://shop.plaionpictures.com/media/74/d2/08/1785328657/BitteresFest-DVD_HE_2D.webp?ts=1785328657",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Tiger & Dragon",
-      "url": "https://shop.plaionpictures.com/tiger-dragon-dvd",
-      "image": "https://shop.plaionpictures.com/media/2b/63/ec/1786972723/1211687.webp?ts=1786972723",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Monk - Die komplette Serie",
-      "url": "https://shop.plaionpictures.com/monk-die-komplette-serie-32-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/d5/ca/79/1787295612/Monk-Box_2D-FSK.webp?ts=1787295612",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Flash Gordon",
-      "url": "https://shop.plaionpictures.com/flash-gordon-casaro-collection-mediabook-4k-uhd-2-blu-rays-shop",
-      "image": "https://shop.plaionpictures.com/media/bc/e7/42/1791197009/FleshGordon-Casaro__MB2D.webp?ts=1791197012",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
