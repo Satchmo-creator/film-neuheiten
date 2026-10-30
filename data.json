@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T01:35:41Z",
-  "count": 988,
+  "updated": "2026-10-30T08:07:56Z",
+  "count": 997,
   "products": [
     {
       "title": "Die Chroniken von Narnia - Der König von Narnia UHD+BD (Lim. Steelbook)",
@@ -1903,6 +1903,26 @@
       "source_url": "https://shop.capelight.de/VORSCHAU/"
     },
     {
+      "title": "Wildwood - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/Wildwood-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6426185",
+      "image": "",
+      "price": "34,99 €",
+      "release_date": "18.02.2027",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Wildwood (Blu-ray)",
+      "url": "https://shop.capelight.de/Wildwood-Blu-ray/6426186",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "18.02.2027",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
       "title": "Chucky – Die Mörderpuppe (Blu-ray)",
       "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-Blu-ray/6425110",
       "image": "",
@@ -2623,6 +2643,66 @@
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
+      "title": "5 TASSEN VON WEEKEND OF HORROR EDITION",
+      "url": "https://eykmedia.de/products/zombies-unterkannibalen-tasse-weekend-of-horror-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Screenshot_20261030_062826_Google.jpg?v=1793341374",
+      "price": "44,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "ZOMBIES UNTERKANNIBALEN - TASSE - WEEKEND OF HORROR EDITION",
+      "url": "https://eykmedia.de/products/woodoo-die-schreckensinsel-der-zombies-tasse-weekend-of-horror-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Screenshot_20261030_062222_Facebook.jpg?v=1793338949",
+      "price": "9,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "WOODOO DIE SCHRECKENSINSEL DER ZOMBIES - TASSE - WEEKEND OF HORROR EDITION",
+      "url": "https://eykmedia.de/products/man-eater-tasse-weekend-of-horror-edition-kopie-1",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Screenshot_20261030_062207_Facebook.jpg?v=1793338949",
+      "price": "9,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "MAN EATER - TASSE - WEEKEND OF HORROR EDITION",
+      "url": "https://eykmedia.de/products/man-eater-tasse-weekend-of-horror-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Screenshot_20261030_062251_Facebook.jpg?v=1793338949",
+      "price": "9,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - TASSE - WEEKEND OF HORROR EDITION",
+      "url": "https://eykmedia.de/products/lebendig-gefressen-tasse-weekend-of-horror-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Screenshot_20261030_062036_Facebook.jpg?v=1793338949",
+      "price": "9,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "LEBENDIG GEFRESSEN - TASSE - WEEKEND OF HORROR EDITION",
+      "url": "https://eykmedia.de/products/lebendig-gefressen-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie-1",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Screenshot_20261030_061957_Facebook.jpg?v=1793338948",
+      "price": "9,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
       "title": "PHENOMENA - MEDIABOOK - COVER B - 4K-UHD/2xBD/DVD - 4-DISC EDITION",
       "url": "https://eykmedia.de/products/phenomena-mediabook-cover-a-2xbd-dvd-3-disc-edition-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Phenomena-XTBook-CoverB.jpg?v=1793111480",
@@ -2643,16 +2723,6 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
-      "title": "CREEPSHOW 1&2 - HARTBOXEN - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/creepshow-hartbox-weekend-of-horror-edition-4k-uhd-bd-kopie",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow1_2WOHEditionHartbox.jpg?v=1793038393",
-      "price": "114,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
       "title": "DIE HORDE - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/die-horde-mediabook-cover-e-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/HordeWOHEditionHartbox.jpg?v=1793037898",
@@ -2667,6 +2737,26 @@
       "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffderZombiesWOHEditionHartbox.jpg?v=1793037645",
       "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT 2 - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-2-mediabook-weekend-of-horror-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionMediabook_224c7638-15df-4ade-a26b-833a7305f69c.jpg?v=1793034554",
+      "price": "49,99 €",
+      "release_date": "",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionMediabook.jpg?v=1793034182",
+      "price": "49,99 €",
       "release_date": "13.11.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
@@ -7383,6 +7473,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Trainspotting",
+      "url": "https://shop.plaionpictures.com/trainspotting-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/30/ae/16/1792062660/Trainspotting_Steelbook_Cover%2016.03.webp?ts=1792062666",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Monster Mia",
       "url": "https://shop.plaionpictures.com/monster-mia-dvd",
       "image": "https://shop.plaionpictures.com/media/8a/64/90/1792057025/1108620.webp?ts=1792057029",
@@ -7395,7 +7495,7 @@
     {
       "title": "Clayface",
       "url": "https://shop.plaionpictures.com/clayface-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/6e/fb/e6/1792057034/1108622.webp?ts=1792057058",
+      "image": "https://shop.plaionpictures.com/media/8a/64/90/1792057025/1108620.webp?ts=1792057029",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7405,7 +7505,7 @@
     {
       "title": "Die Odyssee",
       "url": "https://shop.plaionpictures.com/die-odyssee-collector-s-edition-4k-uhd-2-blu-rays-shop-exkl",
-      "image": "https://shop.plaionpictures.com/media/6e/fb/e6/1792057034/1108622.webp?ts=1792057058",
+      "image": "https://shop.plaionpictures.com/media/8a/64/90/1792057025/1108620.webp?ts=1792057029",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7446,6 +7546,16 @@
       "title": "The Killer",
       "url": "https://shop.plaionpictures.com/the-killer-steelbook-4k-uhd-3-blu-rays",
       "image": "https://shop.plaionpictures.com/media/ea/26/83/1787293884/TheKiller__SB__2D-JCard.webp?ts=1787293884",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Sleepless",
+      "url": "https://shop.plaionpictures.com/sleepless-mediabook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/bd/fb/68/1787310860/Vorab-Cover%20fr%20Listung.webp?ts=1787310860",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7523,6 +7633,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Verity - Dunkle Geheimnisse",
+      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/ec/09/79/1792055699/1210681.webp?ts=1792055704",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Die große Sause",
       "url": "https://shop.plaionpictures.com/die-grosse-sause-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/3b/7f/9e/1694514519/4006680082967_DieGrosseSause_JE_DR_DVD_ORing.jpg?ts=1694514519",
@@ -7535,16 +7655,6 @@
     {
       "title": "Ihr größter Coup",
       "url": "https://shop.plaionpictures.com/ihr-groesster-coup-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/48/01/b6/1792055717/1214770.webp?ts=1792055760",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Verity - Dunkle Geheimnisse",
-      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
       "image": "https://shop.plaionpictures.com/media/48/01/b6/1792055717/1214770.webp?ts=1792055760",
       "price": "",
       "release_date": "",
@@ -7933,16 +8043,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Trainspotting",
-      "url": "https://shop.plaionpictures.com/trainspotting-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/30/ae/16/1792062660/Trainspotting_Steelbook_Cover%2016.03.webp?ts=1792062666",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Chéri, ich komme! - Die Erfindung der Lust",
       "url": "https://shop.plaionpictures.com/cheri-ich-komme-die-erfindung-der-lust-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/12/c0/a0/1784806338/CHIK_FSB_frontal.webp?ts=1784806338",
@@ -8066,16 +8166,6 @@
       "title": "The Lock Up",
       "url": "https://shop.plaionpictures.com/the-lock-up-dvd",
       "image": "https://shop.plaionpictures.com/media/e7/4a/ae/1787298098/PP_LockUp-DVD_2D.webp?ts=1787298098",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Sleepless",
-      "url": "https://shop.plaionpictures.com/sleepless-mediabook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/bd/fb/68/1787310860/Vorab-Cover%20fr%20Listung.webp?ts=1787310860",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
