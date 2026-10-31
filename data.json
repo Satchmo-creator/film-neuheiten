@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T18:13:46Z",
-  "count": 999,
+  "updated": "2026-10-31T22:14:02Z",
+  "count": 997,
   "products": [
     {
       "title": "Die Chroniken von Narnia 3-Movie-Collection",
@@ -2743,6 +2743,16 @@
       "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
+      "title": "CREEPSHOW 1&2 - HARTBOXEN - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-hartbox-weekend-of-horror-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow1_2WOHEditionHartbox.jpg?v=1793038393",
+      "price": "114,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
       "title": "DIE HORDE - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/die-horde-mediabook-cover-e-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/HordeWOHEditionHartbox.jpg?v=1793037898",
@@ -2757,26 +2767,6 @@
       "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffderZombiesWOHEditionHartbox.jpg?v=1793037645",
       "price": "59,99 €",
-      "release_date": "13.11.2026",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "THE DESCENT 2 - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/the-descent-2-mediabook-weekend-of-horror-edition-4k-uhd-bd",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionMediabook_224c7638-15df-4ade-a26b-833a7305f69c.jpg?v=1793034554",
-      "price": "49,99 €",
-      "release_date": "",
-      "source_id": "eykmedia_vorbestellen",
-      "source_label": "EYK Media – Vorbestellen",
-      "source_url": "https://eykmedia.de/collections/vorbestellen"
-    },
-    {
-      "title": "THE DESCENT - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
-      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd",
-      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionMediabook.jpg?v=1793034182",
-      "price": "49,99 €",
       "release_date": "13.11.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
@@ -7416,16 +7406,6 @@
       "title": "Minions & Monster",
       "url": "https://shop.plaionpictures.com/minions-monster-blu-ray",
       "image": "https://shop.plaionpictures.com/media/7a/e7/83/1784184308/BD_2D_%287%29.webp?ts=1784184308",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "The Hunted Survivors",
-      "url": "https://shop.plaionpictures.com/the-hunted-survivors-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8c/a3/68/1785923555/TheHunted_BD_2D.webp?ts=1785923555",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
