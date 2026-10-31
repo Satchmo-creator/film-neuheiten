@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T13:20:56Z",
-  "count": 997,
+  "updated": "2026-10-31T18:13:46Z",
+  "count": 999,
   "products": [
     {
       "title": "Die Chroniken von Narnia 3-Movie-Collection",
@@ -2757,6 +2757,26 @@
       "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffderZombiesWOHEditionHartbox.jpg?v=1793037645",
       "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT 2 - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-2-mediabook-weekend-of-horror-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionMediabook_224c7638-15df-4ade-a26b-833a7305f69c.jpg?v=1793034554",
+      "price": "49,99 €",
+      "release_date": "",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionMediabook.jpg?v=1793034182",
+      "price": "49,99 €",
       "release_date": "13.11.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
