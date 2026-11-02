@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T07:17:33Z",
-  "count": 913,
+  "updated": "2026-11-02T17:52:16Z",
+  "count": 917,
   "products": [
     {
       "title": "Die Chroniken von Narnia 3-Movie-Collection",
@@ -1423,7 +1423,7 @@
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
-      "title": "Auslöschung Blu-ray Lim. Steelbook (exkl. LEONINE Shop)",
+      "title": "Auslöschung Blu-ray Lim. Steelbook (exkl.)",
       "url": "https://shop.leoninestudios.com/products/ausl-schung-blu-ray-lim-steelbook-exkl-leonine-shop",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573304001jpg-202393.jpg?v=1782842448",
       "price": "24,99 €",
@@ -1926,7 +1926,7 @@
       "title": "Wildwood - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
       "url": "https://shop.capelight.de/Wildwood-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6426185",
       "image": "",
-      "price": "",
+      "price": "37,99 €",
       "release_date": "18.02.2027",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
@@ -2306,7 +2306,7 @@
       "title": "The Sadness (Uncut) (UHD Blu-Ray)",
       "url": "https://shop.capelight.de/The-Sadness-Uncut-UHD-Blu-Ray/6422194",
       "image": "",
-      "price": "",
+      "price": "24,99 €",
       "release_date": "10.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -2336,7 +2336,7 @@
       "title": "Talk to Me (UHD-Blu-ray)",
       "url": "https://shop.capelight.de/Talk-to-Me-UHD-Blu-ray/6423481",
       "image": "",
-      "price": "",
+      "price": "24,99 €",
       "release_date": "10.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
@@ -7553,6 +7553,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Vaterland",
+      "url": "https://shop.plaionpictures.com/vaterland-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/df/ab/6f/1788418675/VAT_BR_frontal.webp?ts=1788418675",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Staatsschutz",
       "url": "https://shop.plaionpictures.com/staatsschutz-blu-ray",
       "image": "https://shop.plaionpictures.com/media/6c/91/b4/1787816258/1184790.webp?ts=1787816258",
@@ -7603,6 +7613,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Verity - Dunkle Geheimnisse",
+      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/22/58/26/1792063322/PP_QuietHouse-DVD_2D.webp?ts=1792063356",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Begierde",
       "url": "https://shop.plaionpictures.com/begierde-fullsleeve-edition-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/95/7c/0f/1792144818/1214834.webp?ts=1792144826",
@@ -7615,16 +7635,6 @@
     {
       "title": "Das Ding mit Federn",
       "url": "https://shop.plaionpictures.com/das-ding-mit-federn-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/ec/09/79/1792055699/1210681.webp?ts=1792055704",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Verity - Dunkle Geheimnisse",
-      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
       "image": "https://shop.plaionpictures.com/media/ec/09/79/1792055699/1210681.webp?ts=1792055704",
       "price": "",
       "release_date": "",
@@ -7746,16 +7756,6 @@
       "title": "A Sad & Beautiful World",
       "url": "https://shop.plaionpictures.com/a-sad-beautiful-world-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/e6/62/d9/1787210135/1208223.webp?ts=1787210135",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Vaterland",
-      "url": "https://shop.plaionpictures.com/vaterland-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/df/ab/6f/1788418675/VAT_BR_frontal.webp?ts=1788418675",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8185,7 +8185,7 @@
     {
       "title": "Cloud - Mediabook",
       "url": "https://shop.plaionpictures.com/cloud-mediabook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/97/bf/e4/1790842977/Vorabcover_Shop_Cloud.webp?ts=1790842991",
+      "image": "https://shop.plaionpictures.com/media/bf/73/70/1793632385/PP_Cloud-MB_2D.webp?ts=1793632389",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -9023,6 +9023,26 @@
       "source_url": "https://shop.plaionpictures.com/sale/"
     },
     {
+      "title": "Notting Hill",
+      "url": "https://shop.plaionpictures.com/notting-hill-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/56/84/63/1776930855/1203319.webp?ts=1776930855",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Schindlers Liste",
+      "url": "https://shop.plaionpictures.com/schindlers-liste-steelbook-4k-uhd-2-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/31/e8/c7/1777013017/Spielberg_SchindlersListe_2D.webp?ts=1777013017",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
       "title": "Mercy",
       "url": "https://shop.plaionpictures.com/mercy-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/f3/2a/e7/1769071001/1198746.webp?ts=1769071001",
@@ -9036,6 +9056,16 @@
       "title": "Der gelbe Strom",
       "url": "https://shop.plaionpictures.com/der-gelbe-strom-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/92/9c/e7/1769700270/DerGelbeStrom_2D-FSK.webp?ts=1769700270",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "Song Sung Blue",
+      "url": "https://shop.plaionpictures.com/song-sung-blue-dvd",
+      "image": "https://shop.plaionpictures.com/media/cc/e1/2d/1767772659/SongSungBlue_DVD_2D.webp?ts=1767772659",
       "price": "",
       "release_date": "",
       "source_id": "plaion_sale",
@@ -9066,6 +9096,16 @@
       "title": "Einladung zum Mord",
       "url": "https://shop.plaionpictures.com/einladung-zum-mord-blu-ray",
       "image": "https://shop.plaionpictures.com/media/3d/2b/05/1753348111/Einladung-zum-Mord_BD_2D.webp?ts=1753348111",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_sale",
+      "source_label": "Plaion Pictures – Sale",
+      "source_url": "https://shop.plaionpictures.com/sale/"
+    },
+    {
+      "title": "The Bikeriders",
+      "url": "https://shop.plaionpictures.com/the-bikeriders-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/bb/5f/59/1765967391/1185591.webp?ts=1765967391",
       "price": "",
       "release_date": "",
       "source_id": "plaion_sale",
