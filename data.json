@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T07:37:13Z",
-  "count": 917,
+  "updated": "2026-11-03T15:51:42Z",
+  "count": 919,
   "products": [
     {
       "title": "Die Chroniken von Narnia 3-Movie-Collection",
@@ -1938,6 +1938,26 @@
       "image": "",
       "price": "17,99 €",
       "release_date": "18.02.2027",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "The Weight - Im Goldrausch - Limitiertes 2-Disc-Mediabook (4K Ultra HD + Blu-ray)",
+      "url": "https://shop.capelight.de/The-Weight-Im-Goldrausch-Limitiertes-2-Disc-Mediabook-4K-Ultra-HD-Blu-ray/6426188",
+      "image": "",
+      "price": "34,99 €",
+      "release_date": "01.04.2027",
+      "source_id": "capelight_vorschau",
+      "source_label": "Capelight – Vorschau",
+      "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "The Weight - Im Goldrausch (Blu-ray)",
+      "url": "https://shop.capelight.de/The-Weight-Im-Goldrausch-Blu-ray/6426189",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "01.04.2027",
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
@@ -7413,16 +7433,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "House of the Dragon: Die komplette 3. Staffel",
-      "url": "https://shop.plaionpictures.com/house-of-the-dragon-die-komplette-3.-staffel-4-dvds",
-      "image": "https://shop.plaionpictures.com/media/ec/2e/4a/1793101686/HOTD%20S3%20DVD%20Cover%202D.webp?ts=1793101691",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Finding Emily",
       "url": "https://shop.plaionpictures.com/finding-emily-dvd",
       "image": "https://shop.plaionpictures.com/media/08/f5/a7/1788952915/FindingEmily__DVD-2D.webp?ts=1788952915",
@@ -7483,26 +7493,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Clayface",
-      "url": "https://shop.plaionpictures.com/clayface-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/8a/64/90/1792057025/1108620.webp?ts=1792057029",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die Odyssee",
-      "url": "https://shop.plaionpictures.com/die-odyssee-collector-s-edition-4k-uhd-2-blu-rays-shop-exkl",
-      "image": "https://shop.plaionpictures.com/media/8a/64/90/1792057025/1108620.webp?ts=1792057029",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Heimsuchung - Eine Jahrhundertgeschichte",
       "url": "https://shop.plaionpictures.com/heimsuchung-eine-jahrhundertgeschichte-dvd",
       "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
@@ -7515,6 +7505,26 @@
     {
       "title": "Die Blutgräfin",
       "url": "https://shop.plaionpictures.com/die-blutgraefin-special-edition-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/cf/1e/30/1793223189/DBG_FSB_frontal.webp?ts=1793223192",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Clayface",
+      "url": "https://shop.plaionpictures.com/clayface-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/cf/1e/30/1793223189/DBG_FSB_frontal.webp?ts=1793223192",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Die Odyssee",
+      "url": "https://shop.plaionpictures.com/die-odyssee-collector-s-edition-4k-uhd-2-blu-rays-shop-exkl",
       "image": "https://shop.plaionpictures.com/media/cf/1e/30/1793223189/DBG_FSB_frontal.webp?ts=1793223192",
       "price": "",
       "release_date": "",
@@ -7613,16 +7623,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Verity - Dunkle Geheimnisse",
-      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/22/58/26/1792063322/PP_QuietHouse-DVD_2D.webp?ts=1792063356",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Begierde",
       "url": "https://shop.plaionpictures.com/begierde-fullsleeve-edition-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/95/7c/0f/1792144818/1214834.webp?ts=1792144826",
@@ -7655,6 +7655,16 @@
     {
       "title": "Ihr größter Coup",
       "url": "https://shop.plaionpictures.com/ihr-groesster-coup-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/48/01/b6/1792055717/1214770.webp?ts=1792055760",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Verity - Dunkle Geheimnisse",
+      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
       "image": "https://shop.plaionpictures.com/media/48/01/b6/1792055717/1214770.webp?ts=1792055760",
       "price": "",
       "release_date": "",
@@ -7946,6 +7956,16 @@
       "title": "Lebensansichten eines Huhns",
       "url": "https://shop.plaionpictures.com/lebensansichten-eines-huhns-dvd",
       "image": "https://shop.plaionpictures.com/media/36/7b/61/1789561708/1212128.webp?ts=1789561708",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "House of the Dragon: Die komplette 3. Staffel",
+      "url": "https://shop.plaionpictures.com/house-of-the-dragon-die-komplette-3.-staffel-4-dvds",
+      "image": "https://shop.plaionpictures.com/media/ec/2e/4a/1793101686/HOTD%20S3%20DVD%20Cover%202D.webp?ts=1793101691",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
