@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T11:54:30Z",
-  "count": 921,
+  "updated": "2026-11-05T19:33:41Z",
+  "count": 923,
   "products": [
     {
       "title": "Die Chroniken von Narnia 3-Movie-Collection",
@@ -2786,6 +2786,26 @@
       "title": "GROSSANGRIFF DER ZOMBIES - HARTBOX - WEEKEND OF HORROR EDITION - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffderZombiesWOHEditionHartbox.jpg?v=1793037645",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "LEBENDIG GEFRESSEN - MEDIABOOK - WEEKEND OF HORROR WHITE EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/lebendig-gefressen-mediabook-weekend-of-horror-white-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/LebendingGefressenWOHEditionMediabook.jpg?v=1793035096",
+      "price": "59,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "MAN EATER - MEDIABOOK  -  WEEKEND OF HORROR WHITE EDITION - 4K-UHD/2xBD",
+      "url": "https://eykmedia.de/products/man-eater-mediabook-weekend-of-horror-white-edition-4k-uhd-2xbd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ManEaterWOHEditionMediabook_96de5e80-6271-4cc9-9172-a6458a5a0286.jpg?v=1793034976",
       "price": "59,99 €",
       "release_date": "13.11.2026",
       "source_id": "eykmedia_vorbestellen",
@@ -7103,6 +7123,176 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "Masters of the Universe",
+      "url": "https://shop.plaionpictures.com/masters-of-the-universe-dvd",
+      "image": "https://shop.plaionpictures.com/media/07/3c/55/1793188695/Masters%20of%20the%20Universe_DVD_2D.webp?ts=1793188704",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Kill Bill: The Whole Bloody Affair",
+      "url": "https://shop.plaionpictures.com/kill-bill-the-whole-bloody-affair-2-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/48/2e/04/1784806474/KILLBILL-TWBA_UHD-BluRay_Fullsleeve.webp?ts=1784806474",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "EPiC: Elvis Presley in Concert",
+      "url": "https://shop.plaionpictures.com/epic-elvis-presley-in-concert-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/85/4c/1d/1785763640/EPiC_Steelbook_Cover.webp?ts=1785763640",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Ice Cream Man",
+      "url": "https://shop.plaionpictures.com/ice-cream-man-dvd",
+      "image": "https://shop.plaionpictures.com/media/34/a3/61/1785999863/PP_IceCreamMan-DVD_2D.webp?ts=1785999863",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Shrek - 25th Anniversary Edition",
+      "url": "https://shop.plaionpictures.com/shrek-25th-anniversary-edition-steelbook-4k-uhd-2-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/47/51/49/1787294721/Shrek_Steelbook_Cover.webp?ts=1787294721",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Verzaubert unterm Weihnachtsbaum",
+      "url": "https://shop.plaionpictures.com/verzaubert-unterm-weihnachtsbaum-dvd",
+      "image": "https://shop.plaionpictures.com/media/39/c5/05/1787550713/Verzaubert_DVD3_Cover.webp?ts=1787550713",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Rudolf mit der roten Nase",
+      "url": "https://shop.plaionpictures.com/rudolf-mit-der-roten-nase-dvd",
+      "image": "https://shop.plaionpictures.com/media/dd/35/d7/1787239506/1204834.webp?ts=1787239506",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Rick and Morty: Die komplette 9. Staffel",
+      "url": "https://shop.plaionpictures.com/rick-and-morty-die-komplette-9.-staffel-dvd",
+      "image": "https://shop.plaionpictures.com/media/1e/29/1d/1787294994/RICK_AND_MORTY_S9_DVD_2D_vorlufig.webp?ts=1787294994",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Matewan",
+      "url": "https://shop.plaionpictures.com/matewan-dvd",
+      "image": "https://shop.plaionpictures.com/media/14/4d/57/1787239609/1210816.webp?ts=1787239609",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Into the Wild",
+      "url": "https://shop.plaionpictures.com/into-the-wild-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/d6/8b/64/1787295911/IntoTheWild_BD_2D.webp?ts=1787295911",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Die Oberen Zehntausend",
+      "url": "https://shop.plaionpictures.com/die-oberen-zehntausend-steelbook-4k-uhd",
+      "image": "https://shop.plaionpictures.com/media/47/9a/19/1791536418/HIGH%20SOCIETY_4K-Steelbook_2D_JC.webp?ts=1791536438",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "PLAION PICTURES",
+      "url": "https://shop.plaionpictures.com/film-neuheiten/",
+      "image": "https://shop.plaionpictures.com/media/47/9a/19/1791536418/HIGH%20SOCIETY_4K-Steelbook_2D_JC.webp?ts=1791536438",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warner Bros",
+      "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/47/9a/19/1791536418/HIGH%20SOCIETY_4K-Steelbook_2D_JC.webp?ts=1791536438",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "24 Weihnachtsrezepte zum Verlieben",
+      "url": "https://shop.plaionpictures.com/24-weihnachtsrezepte-zum-verlieben-dvd",
+      "image": "https://shop.plaionpictures.com/media/07/c9/fe/1787239793/1204829.webp?ts=1787239793",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Vom Winde verweht",
+      "url": "https://shop.plaionpictures.com/vom-winde-verweht-collector-s-edition-2-4k-uhds-blu-ray-shop",
+      "image": "https://shop.plaionpictures.com/media/22/d0/68/1791181337/GONE%20WITH%20THE%20WIND_4K-UCE_2D_JC.webp?ts=1791181380",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Rudolph mit der roten Nase",
+      "url": "https://shop.plaionpictures.com/rudolph-mit-der-roten-nase-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/a1/7b/7b/1789561752/1212320.webp?ts=1789561752",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Godzilla Minus One",
+      "url": "https://shop.plaionpictures.com/godzilla-minus-one-glow-in-the-dark-steelbook-edition-4k-uhd-3-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/f0/46/5b/1790254948/Godzilla_MinusOne_GlowInTheDark__BD_Front-FSK12_CMYK.webp?ts=1790254955",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Die Strandflitzer & Die Ski-Flitzer Edition",
       "url": "https://shop.plaionpictures.com/die-strandflitzer-die-ski-flitzer-edition-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/40/93/85/1787816193/1210666.webp?ts=1787816193",
@@ -7225,26 +7415,6 @@
     {
       "title": "Twins - Zwillinge",
       "url": "https://shop.plaionpictures.com/twins-zwillinge-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/88/1a/09/1787293743/PP_Twins-BD_2D.webp?ts=1787293743",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "PLAION PICTURES",
-      "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/88/1a/09/1787293743/PP_Twins-BD_2D.webp?ts=1787293743",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Warner Bros",
-      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/88/1a/09/1787293743/PP_Twins-BD_2D.webp?ts=1787293743",
       "price": "",
       "release_date": "",
@@ -7473,16 +7643,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Trainspotting",
-      "url": "https://shop.plaionpictures.com/trainspotting-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/30/ae/16/1792062660/Trainspotting_Steelbook_Cover%2016.03.webp?ts=1792062666",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Geister",
       "url": "https://shop.plaionpictures.com/geister-dvd",
       "image": "https://shop.plaionpictures.com/media/52/b8/52/1793871775/geister_precover.webp?ts=1793871778",
@@ -7513,9 +7673,19 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
+      "url": "https://shop.plaionpictures.com/heimsuchung-eine-jahrhundertgeschichte-dvd",
+      "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Clayface",
       "url": "https://shop.plaionpictures.com/clayface-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/55/cd/bd/1793803223/1215521.webp?ts=1793803230",
+      "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7525,16 +7695,6 @@
     {
       "title": "Die Odyssee",
       "url": "https://shop.plaionpictures.com/die-odyssee-collector-s-edition-4k-uhd-2-blu-rays-shop-exkl",
-      "image": "https://shop.plaionpictures.com/media/55/cd/bd/1793803223/1215521.webp?ts=1793803230",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
-      "url": "https://shop.plaionpictures.com/heimsuchung-eine-jahrhundertgeschichte-dvd",
       "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
       "price": "",
       "release_date": "",
@@ -7653,9 +7813,9 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Verity - Dunkle Geheimnisse",
-      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/95/7c/0f/1792144818/1214834.webp?ts=1792144826",
+      "title": "Das Ding mit Federn",
+      "url": "https://shop.plaionpictures.com/das-ding-mit-federn-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/ec/09/79/1792055699/1210681.webp?ts=1792055704",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7663,8 +7823,8 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Das Ding mit Federn",
-      "url": "https://shop.plaionpictures.com/das-ding-mit-federn-blu-ray",
+      "title": "Verity - Dunkle Geheimnisse",
+      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
       "image": "https://shop.plaionpictures.com/media/ec/09/79/1792055699/1210681.webp?ts=1792055704",
       "price": "",
       "release_date": "",
@@ -7716,6 +7876,16 @@
       "title": "Spellbinder: Ein teuflischer Plan",
       "url": "https://shop.plaionpictures.com/spellbinder-ein-teuflischer-plan-blu-ray",
       "image": "https://shop.plaionpictures.com/media/97/f2/66/1792055770/1214772.webp?ts=1792055922",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Trainspotting",
+      "url": "https://shop.plaionpictures.com/trainspotting-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/30/ae/16/1792062660/Trainspotting_Steelbook_Cover%2016.03.webp?ts=1792062666",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7816,6 +7986,16 @@
       "title": "Ist ja irre - 1964-1966 Collection",
       "url": "https://shop.plaionpictures.com/ist-ja-irre-1964-1966-collection-4-filme-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/20/58/80/1779975695/IstJaIrreColl_BluRay_2D.webp?ts=1779975695",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Cloud - Mediabook",
+      "url": "https://shop.plaionpictures.com/cloud-mediabook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/bf/73/70/1793632385/PP_Cloud-MB_2D.webp?ts=1793632389",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7943,16 +8123,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Masters of the Universe",
-      "url": "https://shop.plaionpictures.com/masters-of-the-universe-collector-s-steelbook-edition-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/d5/99/26/1793188608/Masters%20of%20the%20Universe_Collectors%20Edition%20Schuber_2D.webp?ts=1793188612",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "Abstieg zur Hölle",
       "url": "https://shop.plaionpictures.com/abstieg-zur-hoelle-blu-ray",
       "image": "https://shop.plaionpictures.com/media/a3/55/fb/1789642023/Abstieg-zur-Hoelle-BD-2D-FSK.webp?ts=1789642023",
@@ -8056,16 +8226,6 @@
       "title": "Operation Black Jungle",
       "url": "https://shop.plaionpictures.com/operation-black-jungle-blu-ray",
       "image": "https://shop.plaionpictures.com/media/af/a5/1d/1789561734/1211598.webp?ts=1789561734",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Ice Cream Man",
-      "url": "https://shop.plaionpictures.com/ice-cream-man-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/72/23/1b/1792055707/1214934.webp?ts=1792055733",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8216,16 +8376,6 @@
       "title": "Couture",
       "url": "https://shop.plaionpictures.com/couture-dvd",
       "image": "https://shop.plaionpictures.com/media/df/4b/f0/1791465969/Couture_DVD_2D.webp?ts=1791465978",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Cloud - Mediabook",
-      "url": "https://shop.plaionpictures.com/cloud-mediabook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/bf/73/70/1793632385/PP_Cloud-MB_2D.webp?ts=1793632389",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8446,136 +8596,6 @@
       "title": "Mortal Kombat (2021) (Steelbook, 4K-UHD+Blu-ray)(Shop)",
       "url": "https://shop.plaionpictures.com/mortal-kombat-2021-steelbook-4k-uhd-blu-ray-shop",
       "image": "https://shop.plaionpictures.com/media/27/fb/71/1793221025/5051890342225.webp?ts=1793221029",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Kill Bill: The Whole Bloody Affair",
-      "url": "https://shop.plaionpictures.com/kill-bill-the-whole-bloody-affair-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/48/2e/04/1784806474/KILLBILL-TWBA_UHD-BluRay_Fullsleeve.webp?ts=1784806474",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "EPiC: Elvis Presley in Concert",
-      "url": "https://shop.plaionpictures.com/epic-elvis-presley-in-concert-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/85/4c/1d/1785763640/EPiC_Steelbook_Cover.webp?ts=1785763640",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Shrek - 25th Anniversary Edition",
-      "url": "https://shop.plaionpictures.com/shrek-25th-anniversary-edition-steelbook-4k-uhd-2-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/47/51/49/1787294721/Shrek_Steelbook_Cover.webp?ts=1787294721",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Verzaubert unterm Weihnachtsbaum",
-      "url": "https://shop.plaionpictures.com/verzaubert-unterm-weihnachtsbaum-dvd",
-      "image": "https://shop.plaionpictures.com/media/39/c5/05/1787550713/Verzaubert_DVD3_Cover.webp?ts=1787550713",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Rudolf mit der roten Nase",
-      "url": "https://shop.plaionpictures.com/rudolf-mit-der-roten-nase-dvd",
-      "image": "https://shop.plaionpictures.com/media/dd/35/d7/1787239506/1204834.webp?ts=1787239506",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Rick and Morty: Die komplette 9. Staffel",
-      "url": "https://shop.plaionpictures.com/rick-and-morty-die-komplette-9.-staffel-dvd",
-      "image": "https://shop.plaionpictures.com/media/1e/29/1d/1787294994/RICK_AND_MORTY_S9_DVD_2D_vorlufig.webp?ts=1787294994",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Matewan",
-      "url": "https://shop.plaionpictures.com/matewan-dvd",
-      "image": "https://shop.plaionpictures.com/media/14/4d/57/1787239609/1210816.webp?ts=1787239609",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Into the Wild",
-      "url": "https://shop.plaionpictures.com/into-the-wild-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/d6/8b/64/1787295911/IntoTheWild_BD_2D.webp?ts=1787295911",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die Oberen Zehntausend",
-      "url": "https://shop.plaionpictures.com/die-oberen-zehntausend-steelbook-4k-uhd",
-      "image": "https://shop.plaionpictures.com/media/47/9a/19/1791536418/HIGH%20SOCIETY_4K-Steelbook_2D_JC.webp?ts=1791536438",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "24 Weihnachtsrezepte zum Verlieben",
-      "url": "https://shop.plaionpictures.com/24-weihnachtsrezepte-zum-verlieben-dvd",
-      "image": "https://shop.plaionpictures.com/media/07/c9/fe/1787239793/1204829.webp?ts=1787239793",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Vom Winde verweht",
-      "url": "https://shop.plaionpictures.com/vom-winde-verweht-collector-s-edition-2-4k-uhds-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/22/d0/68/1791181337/GONE%20WITH%20THE%20WIND_4K-UCE_2D_JC.webp?ts=1791181380",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Rudolph mit der roten Nase",
-      "url": "https://shop.plaionpictures.com/rudolph-mit-der-roten-nase-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a1/7b/7b/1789561752/1212320.webp?ts=1789561752",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Godzilla Minus One",
-      "url": "https://shop.plaionpictures.com/godzilla-minus-one-glow-in-the-dark-steelbook-edition-4k-uhd-3-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/f0/46/5b/1790254948/Godzilla_MinusOne_GlowInTheDark__BD_Front-FSK12_CMYK.webp?ts=1790254955",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
