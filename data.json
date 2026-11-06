@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T07:41:50Z",
+  "updated": "2026-11-06T15:41:56Z",
   "count": 924,
   "products": [
     {
@@ -343,16 +343,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
-      "url": "https://shop.leoninestudios.com/products/der-club-der-toten-dichter-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/der-club-der-toten-dichteruhd-steelbook2d-packshotlow-res-rgbjpg-220212.jpg?v=1788442454",
-      "price": "34,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Mrs. Doubtfire - Das stachelige Kindermädchen 4K UHD + Blu-ray",
       "url": "https://shop.leoninestudios.com/products/mrs-doubtfire-das-stachelige-kinderm-dchen-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573349101jpg-220078.jpg?v=1788442446",
@@ -373,50 +363,10 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Die Legende von Aang 4K UHD + Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/die-legende-von-aang-4k-uhd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573399601jpg-220824.jpg?v=1788505207",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Die Schule der magischen Tiere 1-4",
-      "url": "https://shop.leoninestudios.com/products/die-schule-der-magischen-tiere-1-4",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936675501jpg-221004.jpg?v=1788506024",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Die Schule der magischen Tiere 1-4 Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/die-schule-der-magischen-tiere-1-4-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936676201jpg-221184.jpg?v=1788510850",
-      "price": "39,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "In meinem Himmel 4K UHD + Blu-ray",
       "url": "https://shop.leoninestudios.com/products/in-meinem-himmel-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573409201jpg-221428.jpg?v=1788510865",
       "price": "34,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Flight 298 Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/flight-298-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972971001jpg-221518.jpg?v=1788510857",
-      "price": "14,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -1607,6 +1557,56 @@
       "url": "https://shop.leoninestudios.com/products/scary-movie-4k-uhd-blu-ray-lim-steelbook",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/scarymoviesbuhdbdpackshotfrontjpg-216812.jpg?v=1787032312",
       "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/der-club-der-toten-dichter-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/der-club-der-toten-dichteruhd-steelbook2d-packshotlow-res-rgbjpg-220212.jpg?v=1788442454",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Die Legende von Aang 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/die-legende-von-aang-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573399601jpg-220824.jpg?v=1788505207",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Flight 298 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/flight-298-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972971001jpg-221518.jpg?v=1788510857",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Die Schule der magischen Tiere 1-4",
+      "url": "https://shop.leoninestudios.com/products/die-schule-der-magischen-tiere-1-4",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936675501jpg-221004.jpg?v=1788506024",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Die Schule der magischen Tiere 1-4 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/die-schule-der-magischen-tiere-1-4-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122936676201jpg-221184.jpg?v=1788510850",
+      "price": "39,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
       "source_label": "Leonine – Neuheiten",
@@ -7745,7 +7745,7 @@
     {
       "title": "Sleepless",
       "url": "https://shop.plaionpictures.com/sleepless-mediabook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/bd/fb/68/1787310860/Vorab-Cover%20fr%20Listung.webp?ts=1787310860",
+      "image": "https://shop.plaionpictures.com/media/6c/23/a7/1793969856/Argento-SLEEPLESS__2DmPET.webp?ts=1793969863",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8135,7 +8135,7 @@
     {
       "title": "Abstieg zur Hölle",
       "url": "https://shop.plaionpictures.com/abstieg-zur-hoelle-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/a3/55/fb/1789642023/Abstieg-zur-Hoelle-BD-2D-FSK.webp?ts=1789642023",
+      "image": "https://shop.plaionpictures.com/media/7a/fb/3c/1793951561/Abstieg-zur-Hlle-BD-FSK.webp?ts=1793951577",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8395,7 +8395,7 @@
     {
       "title": "Chicago Med: Staffel 11",
       "url": "https://shop.plaionpictures.com/chicago-med-staffel-11-dvd",
-      "image": "https://shop.plaionpictures.com/media/2f/60/9b/1787296897/Vorabcover_Shop_ChicagoMeds.webp?ts=1787296897",
+      "image": "https://shop.plaionpictures.com/media/e9/ca/f8/1793951762/ChicagoMed_S11_2D.webp?ts=1793951779",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8405,7 +8405,7 @@
     {
       "title": "Chicago Fire: Staffel 14",
       "url": "https://shop.plaionpictures.com/chicago-fire-staffel-14-dvd",
-      "image": "https://shop.plaionpictures.com/media/d2/cf/3e/1787297176/Vorabcover_Shop_ChicagoFire.webp?ts=1787297176",
+      "image": "https://shop.plaionpictures.com/media/cd/54/1d/1793951687/ChicagoFire-S14-DVD__2D.webp?ts=1793951693",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
