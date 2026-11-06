@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T15:41:56Z",
-  "count": 924,
+  "updated": "2026-11-06T21:18:05Z",
+  "count": 933,
   "products": [
     {
       "title": "Die Chroniken von Narnia 3-Movie-Collection",
@@ -2681,6 +2681,96 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "CREEPSHOW - MEDIABOOK - COVER A - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-a-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-A_336e892b-14e1-40d1-a2e5-ee0254a1fd7f.jpg?v=1793907799",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - MEDIABOOK - COVER H - WATTIERT - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-h-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-H_wattiert.jpg?v=1793907407",
+      "price": "44,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - MEDIABOOK - COVER G - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-g-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-G.jpg?v=1793907291",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - MEDIABOOK - COVER F - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-f-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-F.jpg?v=1793907198",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - MEDIABOOK - COVER E - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-e-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-E.jpg?v=1793907076",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - MEDIABOOK - COVER D - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-d-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-D.jpg?v=1793906982",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - MEDIABOOK - COVER C - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-b-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-C.jpg?v=1793906861",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - MEDIABOOK - COVER B - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-a-4k-uhd-bd-kopie-1",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-B.jpg?v=1793906742",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW - FULLSET - 8 MEDIABOOKS - COVER A-H  4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-mediabook-cover-a-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Shop_headergrafik.jpg?v=1793907676",
+      "price": "329,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "5 TASSEN VON WEEKEND OF HORROR EDITION",
