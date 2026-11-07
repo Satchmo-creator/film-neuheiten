@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T08:24:08Z",
-  "count": 933,
+  "updated": "2026-11-07T15:27:15Z",
+  "count": 939,
   "products": [
     {
       "title": "Die Chroniken von Narnia 3-Movie-Collection",
@@ -2683,6 +2683,26 @@
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
+      "title": "CREEPSHOW 2 - MEDIABOOK - COVER E - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-e-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-E_7f744f8f-1f91-4d31-9e42-e7afd7703d75.jpg?v=1793985855",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW 2 - MEDIABOOK - COVER B - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-a-shop-exklusive-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-B.jpg?v=1793908217",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
       "title": "CREEPSHOW - MEDIABOOK - COVER A - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-a-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-A_336e892b-14e1-40d1-a2e5-ee0254a1fd7f.jpg?v=1793907799",
@@ -2908,6 +2928,46 @@
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/ManEaterWOHEditionMediabook_96de5e80-6271-4cc9-9172-a6458a5a0286.jpg?v=1793034976",
       "price": "59,99 €",
       "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT 2 - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-2-mediabook-weekend-of-horror-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionMediabook_224c7638-15df-4ade-a26b-833a7305f69c.jpg?v=1793034554",
+      "price": "49,99 €",
+      "release_date": "",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT - HARTBOX -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionHartbox.jpg?v=1793034328",
+      "price": "49,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT - MEDIABOOK -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/the-descent-mediabook-weekend-of-horror-edition-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescentWOHEditionMediabook.jpg?v=1793034182",
+      "price": "49,99 €",
+      "release_date": "13.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "THE DESCENT 2 - HARTBOX -  WEEKEND OF HORROR EDITION - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/zombies-unter-kannibalen-mediabook-cover-i-event-edition-4disc-edition-111-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/TheDescent2WOHEditionHartbox.jpg?v=1793034422",
+      "price": "49,99 €",
+      "release_date": "",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
