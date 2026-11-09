@@ -1,7 +1,87 @@
 {
-  "updated": "2026-11-09T09:13:00Z",
-  "count": 931,
+  "updated": "2026-11-09T20:27:15Z",
+  "count": 941,
   "products": [
+    {
+      "title": "Das Ende der Sterne 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/das-ende-der-sterne-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976009601jpg-245485.jpg?v=1794225968",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Ein Talent fürs Morden Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/ein-talent-f-rs-morden-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122984320102png-245281.png?v=1794225957",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Das Ende der Sterne Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/das-ende-der-sterne-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976001001jpg-245689.jpg?v=1794225978",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Coneheads Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/coneheads-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983501501jpg-245893.jpg?v=1794225989",
+      "price": "12,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Die Namensbox (3 DVDs)",
+      "url": "https://shop.leoninestudios.com/products/die-namensbox-3-dvds",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573205001jpg-246505.jpg?v=1794226026",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Uprising - Für die Freiheit Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/the-uprising-f-r-die-freiheit-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955791701jpg-246301.jpg?v=1794226016",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "The Uprising - Für die Freiheit 4K UHD + Blu-ray (Collector's Edition)",
+      "url": "https://shop.leoninestudios.com/products/the-uprising-f-r-die-freiheit-4k-uhd-blu-ray-collector-s-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122955799301jpg-246097.jpg?v=1794225999",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Kommissar Jennerwein - Hochsaison Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/kommissar-jennerwein-hochsaison-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573511201jpg-245045.jpg?v=1794213549",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Die Chroniken von Narnia 3-Movie-Collection",
       "url": "https://shop.leoninestudios.com/products/die-chroniken-von-narnia-3-movie-collection",
@@ -2681,6 +2761,26 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "CREEPSHOW 2 - MEDIABOOK - COVER D - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-d-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-D.jpg?v=1793908464",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW 2 - MEDIABOOK - COVER C - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-b-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-C.jpg?v=1793908351",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "CREEPSHOW - MEDIABOOK - COVER A - 4K-UHD/BD",
@@ -7715,7 +7815,7 @@
     {
       "title": "Geister",
       "url": "https://shop.plaionpictures.com/geister-dvd",
-      "image": "https://shop.plaionpictures.com/media/52/b8/52/1793871775/geister_precover.webp?ts=1793871778",
+      "image": "https://shop.plaionpictures.com/media/72/78/72/1794217483/Geister_DVD-Inlay2D.webp?ts=1794217492",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7823,6 +7923,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Chained Heat",
+      "url": "https://shop.plaionpictures.com/chained-heat-mediabook-b-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/fd/71/17/1787297551/ChainedHeat_MediabookB_2D.webp?ts=1787297551",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Staatsschutz",
       "url": "https://shop.plaionpictures.com/staatsschutz-blu-ray",
       "image": "https://shop.plaionpictures.com/media/6c/91/b4/1787816258/1184790.webp?ts=1787816258",
@@ -7873,6 +7983,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Verity - Dunkle Geheimnisse",
+      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/22/58/26/1792063322/PP_QuietHouse-DVD_2D.webp?ts=1792063356",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Begierde",
       "url": "https://shop.plaionpictures.com/begierde-fullsleeve-edition-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/95/7c/0f/1792144818/1214834.webp?ts=1792144826",
@@ -7885,16 +8005,6 @@
     {
       "title": "Das Ding mit Federn",
       "url": "https://shop.plaionpictures.com/das-ding-mit-federn-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/ec/09/79/1792055699/1210681.webp?ts=1792055704",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Verity - Dunkle Geheimnisse",
-      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
       "image": "https://shop.plaionpictures.com/media/ec/09/79/1792055699/1210681.webp?ts=1792055704",
       "price": "",
       "release_date": "",
@@ -8496,16 +8606,6 @@
       "title": "American Pie",
       "url": "https://shop.plaionpictures.com/american-pie-4k-uhd",
       "image": "https://shop.plaionpictures.com/media/2d/8e/6a/1793797545/AmericanPie_4K_Sleeve_2D_%281%29.webp?ts=1793797552",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Chained Heat",
-      "url": "https://shop.plaionpictures.com/chained-heat-mediabook-b-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/fd/71/17/1787297551/ChainedHeat_MediabookB_2D.webp?ts=1787297551",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
