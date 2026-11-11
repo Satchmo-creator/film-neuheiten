@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-11T01:01:57Z",
-  "count": 941,
+  "updated": "2026-11-11T08:54:09Z",
+  "count": 943,
   "products": [
+    {
+      "title": "Street Fighter 4K UHD + Blu-ray (Lim. Steelbook 1 \"Good Guys\")",
+      "url": "https://shop.leoninestudios.com/products/street-fighter-4k-uhd-blu-ray-lim-steelbook-1-good-guys",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983177201jpg-247038.jpg?v=1794381848",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Street Fighter 4K UHD + Blu-ray (Lim. Steelbook 2 \"Bad Guys\")",
+      "url": "https://shop.leoninestudios.com/products/street-fighter-4k-uhd-blu-ray-lim-steelbook-2-bad-guys",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983178901jpg-246833.jpg?v=1794381187",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Das Ende der Sterne 4K UHD + Blu-ray",
       "url": "https://shop.leoninestudios.com/products/das-ende-der-sterne-4k-uhd-blu-ray",
@@ -15,7 +35,7 @@
     {
       "title": "Ein Talent fürs Morden Blu-ray",
       "url": "https://shop.leoninestudios.com/products/ein-talent-f-rs-morden-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122984320102png-245281.png?v=1794225957",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122984320101jpg-245332.jpg?v=1794225963",
       "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
@@ -4056,7 +4076,7 @@
       "title": "DIE HORDE - MEDIABOOK - COVER F - WATTIERT - 4K-UHD/BD ( SHOP EXKLUSIV )",
       "url": "https://eykmedia.de/products/die-horde-mediabook-cover-f-wattiert-4k-uhd-bd-shop-exklusiv",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/DieHorde_cover-F-Wattiert.jpg?v=1776344669",
-      "price": "46,99 €",
+      "price": "49,99 €",
       "release_date": "04.09.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
