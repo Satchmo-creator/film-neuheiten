@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T05:56:52Z",
-  "count": 942,
+  "updated": "2026-11-12T14:49:44Z",
+  "count": 944,
   "products": [
     {
       "title": "Street Fighter 4K UHD + Blu-ray (Lim. Steelbook 1 \"Good Guys\")",
@@ -2771,6 +2771,26 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "CREEPSHOW 2 - MEDIABOOK - COVER F - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-e-4k-uhd-bd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-F_d004b04e-ce8a-4938-979e-0e78a01a0594.jpg?v=1793908760",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "CREEPSHOW 2 - MEDIABOOK - COVER E - 4K-UHD/BD",
+      "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-e-4k-uhd-bd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-E_7f744f8f-1f91-4d31-9e42-e7afd7703d75.jpg?v=1793985855",
+      "price": "41,99 €",
+      "release_date": "30.11.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "CREEPSHOW 2 - MEDIABOOK - COVER D - 4K-UHD/BD",
@@ -7773,19 +7793,9 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
-      "title": "Der General starb im Morgengrauen",
-      "url": "https://shop.plaionpictures.com/der-general-starb-im-morgengrauen-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/61/85/59/1772110860/1200703.webp?ts=1772110860",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Finding Emily",
-      "url": "https://shop.plaionpictures.com/finding-emily-dvd",
-      "image": "https://shop.plaionpictures.com/media/08/f5/a7/1788952915/FindingEmily__DVD-2D.webp?ts=1788952915",
+      "title": "Exit 8",
+      "url": "https://shop.plaionpictures.com/exit-8-dvd",
+      "image": "https://shop.plaionpictures.com/media/19/55/3d/1786608508/1210676.webp?ts=1786608508",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7806,16 +7816,6 @@
       "title": "Digger",
       "url": "https://shop.plaionpictures.com/digger-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/16/71/e5/1792139097/GER%20DIGGER%20Poster.webp?ts=1792139102",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Verity – Dunkle Geheimnisse",
-      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/3a/c4/1f/1790775151/PP_Verity-UHD_2D.webp?ts=1790775154",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7863,9 +7863,29 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Die Blutgräfin",
+      "url": "https://shop.plaionpictures.com/die-blutgraefin-special-edition-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/cf/1e/30/1793223189/DBG_FSB_frontal.webp?ts=1793223192",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Der General starb im Morgengrauen",
+      "url": "https://shop.plaionpictures.com/der-general-starb-im-morgengrauen-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/61/85/59/1772110860/1200703.webp?ts=1772110860",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Clayface",
       "url": "https://shop.plaionpictures.com/clayface-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
+      "image": "https://shop.plaionpictures.com/media/61/85/59/1772110860/1200703.webp?ts=1772110860",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7875,7 +7895,7 @@
     {
       "title": "Die Odyssee",
       "url": "https://shop.plaionpictures.com/die-odyssee-collector-s-edition-4k-uhd-2-blu-rays-shop-exkl",
-      "image": "https://shop.plaionpictures.com/media/f0/d5/a1/1792057049/1214935.webp?ts=1792057105",
+      "image": "https://shop.plaionpictures.com/media/61/85/59/1772110860/1200703.webp?ts=1772110860",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7883,9 +7903,9 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Die Blutgräfin",
-      "url": "https://shop.plaionpictures.com/die-blutgraefin-special-edition-blu-ray-dvd",
-      "image": "https://shop.plaionpictures.com/media/cf/1e/30/1793223189/DBG_FSB_frontal.webp?ts=1793223192",
+      "title": "Verity - Dunkle Geheimnisse",
+      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/61/85/59/1772110860/1200703.webp?ts=1772110860",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7916,6 +7936,16 @@
       "title": "Sleepless",
       "url": "https://shop.plaionpictures.com/sleepless-mediabook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/6c/23/a7/1793969856/Argento-SLEEPLESS__2DmPET.webp?ts=1793969863",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Other Mommy",
+      "url": "https://shop.plaionpictures.com/other-mommy-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/41/f4/a5/1793223564/OtherMommy_BD_2D.webp?ts=1793223573",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -7995,16 +8025,6 @@
     {
       "title": "A Quiet House",
       "url": "https://shop.plaionpictures.com/a-quiet-house-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/6e/2d/b5/1792063386/PP_QuietHouse-DVD_2D_%281%29.webp?ts=1792063392",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Verity - Dunkle Geheimnisse",
-      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-blu-ray",
       "image": "https://shop.plaionpictures.com/media/6e/2d/b5/1792063386/PP_QuietHouse-DVD_2D_%281%29.webp?ts=1792063392",
       "price": "",
       "release_date": "",
@@ -8123,16 +8143,6 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
-      "title": "Other Mommy",
-      "url": "https://shop.plaionpictures.com/other-mommy-dvd",
-      "image": "https://shop.plaionpictures.com/media/32/88/7a/1793223627/OtherMommy_DVD_2D.webp?ts=1793223630",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
       "title": "By Any Means",
       "url": "https://shop.plaionpictures.com/by-any-means-mediabook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/a8/22/a1/1793223077/ByAnyMeans_MB_2D_Sticker_18.webp?ts=1793223082",
@@ -8166,16 +8176,6 @@
       "title": "Michael Jackson: This is it",
       "url": "https://shop.plaionpictures.com/michael-jackson-this-is-it-2-dvds",
       "image": "https://shop.plaionpictures.com/media/80/g0/54/1769698939/DVD%202D.webp?ts=1769698939",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Exit 8",
-      "url": "https://shop.plaionpictures.com/exit-8-dvd",
-      "image": "https://shop.plaionpictures.com/media/19/55/3d/1786608508/1210676.webp?ts=1786608508",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
@@ -8303,6 +8303,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Verity – Dunkle Geheimnisse",
+      "url": "https://shop.plaionpictures.com/verity-dunkle-geheimnisse-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/3a/c4/1f/1790775151/PP_Verity-UHD_2D.webp?ts=1790775154",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "A.I.: Künstliche Intelligenz",
       "url": "https://shop.plaionpictures.com/a.i.-kuenstliche-intelligenz-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/62/f1/32/1791366351/A.I._4K-Steelbook_2D_JC.webp?ts=1791366353",
@@ -8316,6 +8326,16 @@
       "title": "Nosferatu - Der Untote",
       "url": "https://shop.plaionpictures.com/nosferatu-der-untote-steelbook-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/5c/3c/38/1792063146/Nosferatu_2D.webp?ts=1792063149",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
+      "title": "Finding Emily",
+      "url": "https://shop.plaionpictures.com/finding-emily-dvd",
+      "image": "https://shop.plaionpictures.com/media/08/f5/a7/1788952915/FindingEmily__DVD-2D.webp?ts=1788952915",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
