@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:49:44Z",
+  "updated": "2026-11-12T21:45:14Z",
   "count": 944,
   "products": [
     {
@@ -2053,6 +2053,16 @@
       "source_url": "https://shop.capelight.de/VORSCHAU/"
     },
     {
+      "title": "Christmas Bloody Christmas (UHD-Blu-ray)",
+      "url": "https://shop.capelight.de/Christmas-Bloody-Christmas-UHD-Blu-ray/6422715",
+      "image": "",
+      "price": "24,99 €",
+      "release_date": "12.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
       "title": "Chucky – Die Mörderpuppe (Blu-ray)",
       "url": "https://shop.capelight.de/Chucky-Die-Moerderpuppe-Blu-ray/6425110",
       "image": "",
@@ -2758,16 +2768,6 @@
       "image": "",
       "price": "17,99 €",
       "release_date": "27.08.2026",
-      "source_id": "capelight_neuheiten",
-      "source_label": "Capelight – Neuheiten",
-      "source_url": "https://shop.capelight.de/NEUHEITEN/"
-    },
-    {
-      "title": "West Side Story - Limitiertes Mediabook (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
-      "url": "https://shop.capelight.de/West-Side-Story-Limitiertes-Mediabook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425216",
-      "image": "",
-      "price": "39,99 €",
-      "release_date": "20.08.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
@@ -7403,6 +7403,106 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "Superman",
+      "url": "https://shop.plaionpictures.com/superman-limitiertes-steelbook-a-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/84/03/07/1752059817/Superman%20SB%20A_2D.webp?ts=1752059817",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Mit leiser Stimme",
+      "url": "https://shop.plaionpictures.com/mit-leiser-stimme-dvd",
+      "image": "https://shop.plaionpictures.com/media/f5/14/08/1783513083/1207227.webp?ts=1783513083",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "The End of Oak Street",
+      "url": "https://shop.plaionpictures.com/the-end-of-oak-street-dvd",
+      "image": "https://shop.plaionpictures.com/media/67/89/d2/1793106680/THE%20END%20OF%20OAK%20STREET%20DVD%20Cover%202D.webp?ts=1793106687",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Die Geisha",
+      "url": "https://shop.plaionpictures.com/die-geisha-4k-uhd",
+      "image": "https://shop.plaionpictures.com/media/11/f5/0a/1787239687/1211690.webp?ts=1787239687",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Van Helsing",
+      "url": "https://shop.plaionpictures.com/van-helsing-steelbook-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/70/52/e3/1787293600/Van%20Helsing_Steelbook_Cover.webp?ts=1787293600",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Masters of the Universe - Revelation",
+      "url": "https://shop.plaionpictures.com/masters-of-the-universe-revelation-2-blu-rays-shop",
+      "image": "https://shop.plaionpictures.com/media/20/56/37/1787816785/PP_MotU-Revelation_BD-2D.webp?ts=1787816785",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Game of Thrones - Die komplette Serie",
+      "url": "https://shop.plaionpictures.com/game-of-thrones-die-komplette-serie-steelbook-collection-30-4k-uhds-3-blu-rays-shop",
+      "image": "https://shop.plaionpictures.com/media/0f/05/ca/1790077075/GAME%20OF%20THRONES%20CSR%204K%20UHD%20Library%20Case%20Cover%202D%20J-Card.webp?ts=1790077369",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Blade Runner - The Final Cut (Steelbook, 4K-UHD+Blu-ray)(Shop)",
+      "url": "https://shop.plaionpictures.com/blade-runner-the-final-cut-steelbook-4k-uhd-blu-ray-shop",
+      "image": "https://shop.plaionpictures.com/media/97/1d/8a/1793221341/ASSET_MMS_157842489.webp?ts=1793221348",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "V wie Vendetta (Steelbook, 4K-UHD+Blu-ray)(Shop)",
+      "url": "https://shop.plaionpictures.com/v-wie-vendetta-steelbook-4k-uhd-blu-ray-shop",
+      "image": "https://shop.plaionpictures.com/media/45/4a/4a/1793220705/5051890324719.webp?ts=1793220708",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Mortal Kombat (2021) (Steelbook, 4K-UHD+Blu-ray)(Shop)",
+      "url": "https://shop.plaionpictures.com/mortal-kombat-2021-steelbook-4k-uhd-blu-ray-shop",
+      "image": "https://shop.plaionpictures.com/media/27/fb/71/1793221025/5051890342225.webp?ts=1793221029",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "Masters of the Universe",
       "url": "https://shop.plaionpictures.com/masters-of-the-universe-dvd",
       "image": "https://shop.plaionpictures.com/media/07/3c/55/1793188695/Masters%20of%20the%20Universe_DVD_2D.webp?ts=1793188704",
@@ -7416,6 +7516,26 @@
       "title": "Kill Bill: The Whole Bloody Affair",
       "url": "https://shop.plaionpictures.com/kill-bill-the-whole-bloody-affair-2-blu-rays",
       "image": "https://shop.plaionpictures.com/media/48/2e/04/1784806474/KILLBILL-TWBA_UHD-BluRay_Fullsleeve.webp?ts=1784806474",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "PLAION PICTURES",
+      "url": "https://shop.plaionpictures.com/film-neuheiten/",
+      "image": "https://shop.plaionpictures.com/media/ea/b1/eb/1784806634/KILLBILL-TWBA-SB-J-Card.webp?ts=1784806634",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warner Bros",
+      "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/ea/b1/eb/1784806634/KILLBILL-TWBA-SB-J-Card.webp?ts=1784806634",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -7505,26 +7625,6 @@
     {
       "title": "Die Oberen Zehntausend",
       "url": "https://shop.plaionpictures.com/die-oberen-zehntausend-steelbook-4k-uhd",
-      "image": "https://shop.plaionpictures.com/media/47/9a/19/1791536418/HIGH%20SOCIETY_4K-Steelbook_2D_JC.webp?ts=1791536438",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "PLAION PICTURES",
-      "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/47/9a/19/1791536418/HIGH%20SOCIETY_4K-Steelbook_2D_JC.webp?ts=1791536438",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Warner Bros",
-      "url": "https://shop.plaionpictures.com/warner-bros/",
       "image": "https://shop.plaionpictures.com/media/47/9a/19/1791536418/HIGH%20SOCIETY_4K-Steelbook_2D_JC.webp?ts=1791536438",
       "price": "",
       "release_date": "",
@@ -8696,106 +8796,6 @@
       "title": "Der Schock",
       "url": "https://shop.plaionpictures.com/der-schock-blu-ray",
       "image": "https://shop.plaionpictures.com/media/c6/71/bd/1792057042/1211665.webp?ts=1792057085",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Superman",
-      "url": "https://shop.plaionpictures.com/superman-limitiertes-steelbook-a-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/84/03/07/1752059817/Superman%20SB%20A_2D.webp?ts=1752059817",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Mit leiser Stimme",
-      "url": "https://shop.plaionpictures.com/mit-leiser-stimme-dvd",
-      "image": "https://shop.plaionpictures.com/media/f5/14/08/1783513083/1207227.webp?ts=1783513083",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "The End of Oak Street",
-      "url": "https://shop.plaionpictures.com/the-end-of-oak-street-dvd",
-      "image": "https://shop.plaionpictures.com/media/67/89/d2/1793106680/THE%20END%20OF%20OAK%20STREET%20DVD%20Cover%202D.webp?ts=1793106687",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Die Geisha",
-      "url": "https://shop.plaionpictures.com/die-geisha-4k-uhd",
-      "image": "https://shop.plaionpictures.com/media/11/f5/0a/1787239687/1211690.webp?ts=1787239687",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Van Helsing",
-      "url": "https://shop.plaionpictures.com/van-helsing-steelbook-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/70/52/e3/1787293600/Van%20Helsing_Steelbook_Cover.webp?ts=1787293600",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Masters of the Universe - Revelation",
-      "url": "https://shop.plaionpictures.com/masters-of-the-universe-revelation-2-blu-rays-shop",
-      "image": "https://shop.plaionpictures.com/media/20/56/37/1787816785/PP_MotU-Revelation_BD-2D.webp?ts=1787816785",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Game of Thrones - Die komplette Serie",
-      "url": "https://shop.plaionpictures.com/game-of-thrones-die-komplette-serie-steelbook-collection-30-4k-uhds-3-blu-rays-shop",
-      "image": "https://shop.plaionpictures.com/media/0f/05/ca/1790077075/GAME%20OF%20THRONES%20CSR%204K%20UHD%20Library%20Case%20Cover%202D%20J-Card.webp?ts=1790077369",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Blade Runner - The Final Cut (Steelbook, 4K-UHD+Blu-ray)(Shop)",
-      "url": "https://shop.plaionpictures.com/blade-runner-the-final-cut-steelbook-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/97/1d/8a/1793221341/ASSET_MMS_157842489.webp?ts=1793221348",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "V wie Vendetta (Steelbook, 4K-UHD+Blu-ray)(Shop)",
-      "url": "https://shop.plaionpictures.com/v-wie-vendetta-steelbook-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/45/4a/4a/1793220705/5051890324719.webp?ts=1793220708",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Mortal Kombat (2021) (Steelbook, 4K-UHD+Blu-ray)(Shop)",
-      "url": "https://shop.plaionpictures.com/mortal-kombat-2021-steelbook-4k-uhd-blu-ray-shop",
-      "image": "https://shop.plaionpictures.com/media/27/fb/71/1793221025/5051890342225.webp?ts=1793221029",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
