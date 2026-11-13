@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T02:25:31Z",
+  "updated": "2026-11-13T10:36:15Z",
   "count": 944,
   "products": [
     {
@@ -373,16 +373,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Freitag, der 13. - 8 Movie Collection Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/freitag-der-13-8-movie-collection-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983226701jpg-227332.jpg?v=1790259478",
-      "price": "59,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Dutton Ranch - Staffel 1 Blu-ray",
       "url": "https://shop.leoninestudios.com/products/dutton-ranch-staffel-1-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976276201jpg-226768.jpg?v=1790151567",
@@ -463,29 +453,9 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "In meinem Himmel 4K UHD + Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/in-meinem-himmel-4k-uhd-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573409201jpg-221428.jpg?v=1788510865",
-      "price": "34,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "The Crow - Die Krähe 4K UHD + Blu-ray Lim. SteelBook (exkl. LEONINE Shop)",
       "url": "https://shop.leoninestudios.com/products/the-crow-die-kr-he-4k-uhd-blu-ray-lim-steelbook-exkl-leonine-shop",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/crowtacosbuhdbdpackshotfrontcmykjpg-237896.jpg?v=1792745955",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Die Geister, die ich rief… 4K UHD + Blu-ray Lim. SteelBook",
-      "url": "https://shop.leoninestudios.com/products/die-geister-die-ich-rief-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573389701jpg-218889.jpg?v=1787661275",
       "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
@@ -661,6 +631,36 @@
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Freitag, der 13. - 8 Movie Collection Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/freitag-der-13-8-movie-collection-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983226701jpg-227332.jpg?v=1790259478",
+      "price": "59,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "In meinem Himmel 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/in-meinem-himmel-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573409201jpg-221428.jpg?v=1788510865",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Die Geister, die ich rief… 4K UHD + Blu-ray Lim. SteelBook",
+      "url": "https://shop.leoninestudios.com/products/die-geister-die-ich-rief-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573389701jpg-218889.jpg?v=1787661275",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
       "title": "Der Club der toten Dichter 4K UHD + Blu-ray (Lim. Steelbook)",
