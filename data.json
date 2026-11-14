@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T07:23:19Z",
-  "count": 952,
+  "updated": "2026-11-14T14:48:06Z",
+  "count": 953,
   "products": [
     {
       "title": "Street Fighter 4K UHD + Blu-ray (Lim. Steelbook 1 \"Good Guys\")",
@@ -2771,6 +2771,16 @@
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "THE WOLF OF WALL STREET - MEDIABOOK - COVER D - BD/DVD - B WARE",
+      "url": "https://eykmedia.de/products/the-wolf-of-wall-street-mediabook-cover-b-bd-dvd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/1000279655.jpg?v=1794656554",
+      "price": "30,00 €",
+      "release_date": "30.05.2025",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "CREEPSHOW 2 - MEDIABOOK - COVER F - 4K-UHD/BD",
