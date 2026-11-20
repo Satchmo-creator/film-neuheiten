@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-20T05:54:52Z",
-  "count": 950,
+  "updated": "2026-11-20T14:58:05Z",
+  "count": 956,
   "products": [
+    {
+      "title": "I Play Rocky 4K UHD + Blu-ray (Collector`s Edition)",
+      "url": "https://shop.leoninestudios.com/products/i-play-rocky-4k-uhd-blu-ray-collector-s-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockyo-card3dpackshot1png-250310.png?v=1795186077",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "I Play Rocky Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/i-play-rocky-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockybd3dpackshotpng-250411.png?v=1795186087",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Eiserne Wildnis - Heart of the Beast 4K UHD + Blu-ray Lim. Steelbook",
+      "url": "https://shop.leoninestudios.com/products/eiserne-wildnis-heart-of-the-beast-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983157401jpg-249768.jpg?v=1795169334",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Ebenezer - Eine Weihnachtsgeschichte 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/ebenezer-eine-weihnachtsgeschichte-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983189501jpg-249239.jpg?v=1795169343",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Ebenezer - Eine Weihnachtsgeschichte Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/ebenezer-eine-weihnachtsgeschichte-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983181901jpg-249443.jpg?v=1795169351",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Ebenezer - Eine Weihnachtsgeschichte",
+      "url": "https://shop.leoninestudios.com/products/ebenezer-eine-weihnachtsgeschichte",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983180201jpg-249647.jpg?v=1795169358",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "Hokum Blu-ray",
       "url": "https://shop.leoninestudios.com/products/hokum-blu-ray",
@@ -303,26 +363,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
     },
     {
-      "title": "Con Air 4K UHD + Blu-ray (Lim. Steelbook, ungeschnittene Fassung)",
-      "url": "https://shop.leoninestudios.com/products/con-air-4k-uhd-blu-ray-lim-steelbook-ungeschnittene-fassung",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573277701jpg-230439.jpg?v=1791193238",
-      "price": "34,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Das Vermächtnis der Tempelritter 4K UHD + Blu-ray (Lim. Steelbook)",
-      "url": "https://shop.leoninestudios.com/products/das-verm-chtnis-der-tempelritter-4k-uhd-blu-ray-lim-steelbook",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573317001jpg-230815.jpg?v=1791194425",
-      "price": "34,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
       "title": "Star Trek: Starfleet Academy - Staffel 1 Blu-ray",
       "url": "https://shop.leoninestudios.com/products/star-trek-starfleet-academy-staffel-1-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976266301jpg-231003.jpg?v=1791194431",
@@ -517,16 +557,6 @@
       "url": "https://shop.leoninestudios.com/products/oh-la-la-2-neue-tests-neues-chaos-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122972671901jpg-219159.jpg?v=1787661290",
       "price": "17,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Paw Patrol: Der Dino Film Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/paw-patrol-der-dino-film-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976101701jpg-218397.jpg?v=1787126776",
-      "price": "14,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
       "source_label": "Leonine – Vorbestellungen",
@@ -1757,6 +1787,36 @@
       "url": "https://shop.leoninestudios.com/products/scary-movie-4k-uhd-blu-ray-lim-steelbook",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/scarymoviesbuhdbdpackshotfrontjpg-216812.jpg?v=1787032312",
       "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Con Air 4K UHD + Blu-ray (Lim. Steelbook, ungeschnittene Fassung)",
+      "url": "https://shop.leoninestudios.com/products/con-air-4k-uhd-blu-ray-lim-steelbook-ungeschnittene-fassung",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573277701jpg-230439.jpg?v=1791193238",
+      "price": "34,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Paw Patrol: Der Dino Film Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/paw-patrol-der-dino-film-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976101701jpg-218397.jpg?v=1787126776",
+      "price": "14,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
+      "title": "Das Vermächtnis der Tempelritter 4K UHD + Blu-ray (Lim. Steelbook)",
+      "url": "https://shop.leoninestudios.com/products/das-verm-chtnis-der-tempelritter-4k-uhd-blu-ray-lim-steelbook",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357573317001jpg-230815.jpg?v=1791194425",
+      "price": "34,99 €",
       "release_date": "",
       "source_id": "leonine_neuheiten",
       "source_label": "Leonine – Neuheiten",
@@ -8195,7 +8255,7 @@
     {
       "title": "The Passenger - Kein Weg zurück",
       "url": "https://shop.plaionpictures.com/the-passenger-kein-weg-zurueck-dvd",
-      "image": "https://shop.plaionpictures.com/media/03/3f/e3/1794555961/passenger_precover.webp?ts=1794555965",
+      "image": "https://shop.plaionpictures.com/media/45/8b/49/1795157977/ThePassenger_DVD_2D.webp?ts=1795158776",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
