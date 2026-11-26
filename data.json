@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T14:45:05Z",
-  "count": 988,
+  "updated": "2026-11-26T23:30:33Z",
+  "count": 989,
   "products": [
     {
       "title": "Prinzessin Mononoke 4K UHD + Blu-ray (Mediabook Limited Edition)",
@@ -1853,16 +1853,6 @@
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
-      "title": "Geballte Ladung – Double Impact - Limitiertes 3-Disc-SteelBook® (4K Ultra HD + Blu-ray + Bonus-Blu-ray) (exklusiv im capelight-Shop)",
-      "url": "https://shop.capelight.de/Geballte-Ladung-Double-Impact-Limitiertes-3-Disc-SteelBook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-exklusiv-im-capelight-Shop/6425907",
-      "image": "",
-      "price": "37,99 €",
-      "release_date": "27.11.2026",
-      "source_id": "capelight_vorschau",
-      "source_label": "Capelight – Vorschau",
-      "source_url": "https://shop.capelight.de/VORSCHAU/"
-    },
-    {
       "title": "Terminator - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Terminator-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425756",
       "image": "",
@@ -2101,6 +2091,86 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Rocky - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Rocky-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425780",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Rocky - Limitiertes 3-Disc-Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray) - Shop Exklusiv",
+      "url": "https://shop.capelight.de/Rocky-Limitiertes-3-Disc-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-Shop-Exklusiv/6425908",
+      "image": "",
+      "price": "39,99 €",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Rocky - Limitiertes 3-Disc-SteelBook® (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
+      "url": "https://shop.capelight.de/Rocky-Limitiertes-3-Disc-SteelBook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425909",
+      "image": "",
+      "price": "37,99 €",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Full Set „ROCKY“: 3-Disc-Mediabooks – Cover A + B und 3-Disc-SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Full-Set-ROCKY-3-Disc-Mediabooks-Cover-A-B-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425910",
+      "image": "",
+      "price": "",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Mediabook-Set „ROCKY“: 3-Disc-Mediabooks – Cover A + B (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Mediabook-Set-ROCKY-3-Disc-Mediabooks-Cover-A-B-exklusiv-im-capelight-Shop-UHD-Blu-ray/6426150",
+      "image": "",
+      "price": "",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Rocky - 3-Disc-Mediabook – Cover A und 3-Disc-SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Rocky-3-Disc-Mediabook-Cover-A-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425911",
+      "image": "",
+      "price": "",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Rocky - 3-Disc-Mediabook – Cover B und 3-Disc-SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
+      "url": "https://shop.capelight.de/Rocky-3-Disc-Mediabook-Cover-B-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425912",
+      "image": "",
+      "price": "",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+    },
+    {
+      "title": "Rocky (Blu-ray)",
+      "url": "https://shop.capelight.de/Rocky-Blu-ray/6425893",
+      "image": "",
+      "price": "17,99 €",
+      "release_date": "26.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Sunny Dancer (Blu-ray)",
@@ -2738,66 +2808,6 @@
       "image": "",
       "price": "",
       "release_date": "10.09.2026",
-      "source_id": "capelight_neuheiten",
-      "source_label": "Capelight – Neuheiten",
-      "source_url": "https://shop.capelight.de/NEUHEITEN/"
-    },
-    {
-      "title": "Set 1 „ROBOCOP 2“: 3-Disc-Mediabook – Cover A und 3-Disc-SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
-      "url": "https://shop.capelight.de/Set-1-ROBOCOP-2-3-Disc-Mediabook-Cover-A-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425889",
-      "image": "",
-      "price": "",
-      "release_date": "10.09.2026",
-      "source_id": "capelight_neuheiten",
-      "source_label": "Capelight – Neuheiten",
-      "source_url": "https://shop.capelight.de/NEUHEITEN/"
-    },
-    {
-      "title": "Set 2 „ROBOCOP 2“: 3-Disc-Mediabook – Cover B und 3-Disc-SteelBook® (exklusiv im capelight-Shop) (UHD Blu-ray)",
-      "url": "https://shop.capelight.de/Set-2-ROBOCOP-2-3-Disc-Mediabook-Cover-B-und-3-Disc-SteelBook-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425890",
-      "image": "",
-      "price": "",
-      "release_date": "10.09.2026",
-      "source_id": "capelight_neuheiten",
-      "source_label": "Capelight – Neuheiten",
-      "source_url": "https://shop.capelight.de/NEUHEITEN/"
-    },
-    {
-      "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
-      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425844",
-      "image": "",
-      "price": "37,99 €",
-      "release_date": "03.09.2026",
-      "source_id": "capelight_neuheiten",
-      "source_label": "Capelight – Neuheiten",
-      "source_url": "https://shop.capelight.de/NEUHEITEN/"
-    },
-    {
-      "title": "Wie ein wilder Stier - Limitiertes 3-Disc-Mediabook – Cover B (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
-      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Limitiertes-3-Disc-Mediabook-Cover-B-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425845",
-      "image": "",
-      "price": "37,99 €",
-      "release_date": "03.09.2026",
-      "source_id": "capelight_neuheiten",
-      "source_label": "Capelight – Neuheiten",
-      "source_url": "https://shop.capelight.de/NEUHEITEN/"
-    },
-    {
-      "title": "Mediabook-Set „WIE EIN WILDER STIER“: Limitiertes 3-Disc-Mediabook – Cover A + B (exklusiv im capelight-Shop) (UHD Blu-ray)",
-      "url": "https://shop.capelight.de/Mediabook-Set-WIE-EIN-WILDER-STIER-Limitiertes-3-Disc-Mediabook-Cover-A-B-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425884",
-      "image": "",
-      "price": "",
-      "release_date": "03.09.2026",
-      "source_id": "capelight_neuheiten",
-      "source_label": "Capelight – Neuheiten",
-      "source_url": "https://shop.capelight.de/NEUHEITEN/"
-    },
-    {
-      "title": "Wie ein wilder Stier (Blu-ray)",
-      "url": "https://shop.capelight.de/Wie-ein-wilder-Stier-Blu-ray/6425885",
-      "image": "",
-      "price": "17,99 €",
-      "release_date": "03.09.2026",
       "source_id": "capelight_neuheiten",
       "source_label": "Capelight – Neuheiten",
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
@@ -7343,6 +7353,96 @@
       "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
     },
     {
+      "title": "Chéri, ich komme! - Die Erfindung der Lust",
+      "url": "https://shop.plaionpictures.com/cheri-ich-komme-die-erfindung-der-lust-blu-ray-dvd",
+      "image": "https://shop.plaionpictures.com/media/12/c0/a0/1784806338/CHIK_FSB_frontal.webp?ts=1784806338",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Michael",
+      "url": "https://shop.plaionpictures.com/michael-collectors-edition-4k-uhd-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/60/b5/1d/1790258642/MAVEN_SPECIAL_EDITION_Schuber_2D_PACKSHOT.webp?ts=1790258647",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "One Night Only",
+      "url": "https://shop.plaionpictures.com/one-night-only-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/f7/bf/c2/1787816234/1211672.webp?ts=1787816234",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Herr der Ringe: Die Ringe der Macht - Staffel 1",
+      "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-ringe-der-macht-staffel-1-4-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/dd/85/c7/1789643140/1212791.webp?ts=1789643140",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Herr der Ringe: Die Ringe der Macht - Staffel 2",
+      "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-ringe-der-macht-staffel-2-4-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/ed/93/8c/1789643509/1212794.webp?ts=1789643509",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Jacques Tati Complete Collection",
+      "url": "https://shop.plaionpictures.com/jacques-tati-complete-collection-6-4k-uhds-1-bonus-blu-ray",
+      "image": "https://shop.plaionpictures.com/media/e3/81/04/1791205341/Tati-Schuber-UHD.webp?ts=1791205344",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Der Mann, der König sein wollte",
+      "url": "https://shop.plaionpictures.com/der-mann-der-koenig-sein-wollte-steelbook-4k-uhd",
+      "image": "https://shop.plaionpictures.com/media/c2/92/36/1791377689/DerMannDer__SB2D_C-Card.webp?ts=1791377693",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Zurück in die Zukunft – Trilogie – Fluxkompensator-Edition",
+      "url": "https://shop.plaionpictures.com/zurueck-in-die-zukunft-trilogie-fluxkompensator-edition-steelbook-3-4k-uhds-5-blu-rays",
+      "image": "https://shop.plaionpictures.com/media/0c/20/50/1791378513/ZIDZ__Steelbook_2Dmit.webp?ts=1791378523",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Jonny Madoc",
+      "url": "https://shop.plaionpictures.com/jonny-madoc-western-all-arrabbiata-10-blu-ray-dvd-shop",
+      "image": "https://shop.plaionpictures.com/media/48/c3/bc/1795422086/JonnyMadoc__2D-FSK.webp?ts=1795422116",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
       "title": "The Hidden - Das unsagbar Böse",
       "url": "https://shop.plaionpictures.com/the-hidden-das-unsagbar-boese-fullsleeve-edition-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/23/0d/80/1787294104/TheHidden__Fullsleeve__2D.webp?ts=1787294104",
@@ -7366,6 +7466,26 @@
       "title": "Yeti",
       "url": "https://shop.plaionpictures.com/yeti-mediabook-blu-ray-dvd",
       "image": "https://shop.plaionpictures.com/media/31/50/54/1792575918/Yeti-MB-Sticker.webp?ts=1792575936",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "PLAION PICTURES",
+      "url": "https://shop.plaionpictures.com/film-neuheiten/",
+      "image": "https://shop.plaionpictures.com/media/5b/30/14/1792575830/Yeti-DVD-2D-FSK.webp?ts=1792575843",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_neuheiten",
+      "source_label": "Plaion Pictures – Neuheiten",
+      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
+    },
+    {
+      "title": "Warner Bros",
+      "url": "https://shop.plaionpictures.com/warner-bros/",
+      "image": "https://shop.plaionpictures.com/media/5b/30/14/1792575830/Yeti-DVD-2D-FSK.webp?ts=1792575843",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -7456,26 +7576,6 @@
       "title": "Chaplin",
       "url": "https://shop.plaionpictures.com/chaplin-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/8e/85/05/1787816158/1210675.webp?ts=1787816158",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "PLAION PICTURES",
-      "url": "https://shop.plaionpictures.com/film-neuheiten/",
-      "image": "https://shop.plaionpictures.com/media/f5/03/c2/1787816167/1210674.webp?ts=1787816167",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_neuheiten",
-      "source_label": "Plaion Pictures – Neuheiten",
-      "source_url": "https://shop.plaionpictures.com/film-neuheiten/"
-    },
-    {
-      "title": "Warner Bros",
-      "url": "https://shop.plaionpictures.com/warner-bros/",
-      "image": "https://shop.plaionpictures.com/media/f5/03/c2/1787816167/1210674.webp?ts=1787816167",
       "price": "",
       "release_date": "",
       "source_id": "plaion_neuheiten",
@@ -8626,96 +8726,6 @@
       "title": "Operation Black Jungle",
       "url": "https://shop.plaionpictures.com/operation-black-jungle-blu-ray",
       "image": "https://shop.plaionpictures.com/media/af/a5/1d/1789561734/1211598.webp?ts=1789561734",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Chéri, ich komme! - Die Erfindung der Lust",
-      "url": "https://shop.plaionpictures.com/cheri-ich-komme-die-erfindung-der-lust-blu-ray-dvd",
-      "image": "https://shop.plaionpictures.com/media/12/c0/a0/1784806338/CHIK_FSB_frontal.webp?ts=1784806338",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Michael",
-      "url": "https://shop.plaionpictures.com/michael-collectors-edition-4k-uhd-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/60/b5/1d/1790258642/MAVEN_SPECIAL_EDITION_Schuber_2D_PACKSHOT.webp?ts=1790258647",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "One Night Only",
-      "url": "https://shop.plaionpictures.com/one-night-only-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/f7/bf/c2/1787816234/1211672.webp?ts=1787816234",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Herr der Ringe: Die Ringe der Macht - Staffel 1",
-      "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-ringe-der-macht-staffel-1-4-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/dd/85/c7/1789643140/1212791.webp?ts=1789643140",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Herr der Ringe: Die Ringe der Macht - Staffel 2",
-      "url": "https://shop.plaionpictures.com/der-herr-der-ringe-die-ringe-der-macht-staffel-2-4-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/ed/93/8c/1789643509/1212794.webp?ts=1789643509",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Jacques Tati Complete Collection",
-      "url": "https://shop.plaionpictures.com/jacques-tati-complete-collection-6-4k-uhds-1-bonus-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/e3/81/04/1791205341/Tati-Schuber-UHD.webp?ts=1791205344",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Der Mann, der König sein wollte",
-      "url": "https://shop.plaionpictures.com/der-mann-der-koenig-sein-wollte-steelbook-4k-uhd",
-      "image": "https://shop.plaionpictures.com/media/c2/92/36/1791377689/DerMannDer__SB2D_C-Card.webp?ts=1791377693",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Zurück in die Zukunft – Trilogie – Fluxkompensator-Edition",
-      "url": "https://shop.plaionpictures.com/zurueck-in-die-zukunft-trilogie-fluxkompensator-edition-steelbook-3-4k-uhds-5-blu-rays",
-      "image": "https://shop.plaionpictures.com/media/0c/20/50/1791378513/ZIDZ__Steelbook_2Dmit.webp?ts=1791378523",
-      "price": "",
-      "release_date": "",
-      "source_id": "plaion_vorbesteller",
-      "source_label": "Plaion Pictures – Vorbesteller",
-      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
-    },
-    {
-      "title": "Jonny Madoc",
-      "url": "https://shop.plaionpictures.com/jonny-madoc-western-all-arrabbiata-10-blu-ray-dvd-shop",
-      "image": "https://shop.plaionpictures.com/media/48/c3/bc/1795422086/JonnyMadoc__2D-FSK.webp?ts=1795422116",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
