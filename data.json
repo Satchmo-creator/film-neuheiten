@@ -1,11 +1,41 @@
 {
-  "updated": "2026-11-26T04:47:51Z",
-  "count": 984,
+  "updated": "2026-11-26T14:45:05Z",
+  "count": 988,
   "products": [
+    {
+      "title": "Prinzessin Mononoke 4K UHD + Blu-ray (Mediabook Limited Edition)",
+      "url": "https://shop.leoninestudios.com/products/prinzessin-mononoke-4k-uhd-blu-ray-mediabook-limited-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/401357572027901jpg-251201.jpg?v=1795694206",
+      "price": "39,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Meine Frau, unsere Schwiegertochter und ich 4K UHD + Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/meine-frau-unsere-schwiegertochter-und-ich-4k-uhd-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/meinefrauschwiegertochterichuhdbdpackshot2djpg-250997.jpg?v=1795691109",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
+    {
+      "title": "Meine Frau, unsere Schwiegertochter und ich Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/meine-frau-unsere-schwiegertochter-und-ich-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122983191801jpg-250691.jpg?v=1795680281",
+      "price": "17,99 €",
+      "release_date": "",
+      "source_id": "leonine_vorbestellungen",
+      "source_label": "Leonine – Vorbestellungen",
+      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
+    },
     {
       "title": "I Play Rocky 4K UHD + Blu-ray (Collector`s Edition)",
       "url": "https://shop.leoninestudios.com/products/i-play-rocky-4k-uhd-blu-ray-collector-s-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockyo-card3dpackshot1png-250310.png?v=1795186077",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122970527101jpg-250360.jpg?v=1795186081",
       "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
@@ -15,7 +45,7 @@
     {
       "title": "I Play Rocky Blu-ray",
       "url": "https://shop.leoninestudios.com/products/i-play-rocky-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockybd3dpackshotpng-250411.png?v=1795186087",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/iplayrockybd2dpackshotjpg-250462.jpg?v=1795186093",
       "price": "17,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
@@ -8013,6 +8043,16 @@
       "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
     },
     {
+      "title": "Parallele Leben",
+      "url": "https://shop.plaionpictures.com/parallele-leben-dvd",
+      "image": "https://shop.plaionpictures.com/media/0e/5f/ab/1795608213/1217461.webp?ts=1795608216",
+      "price": "",
+      "release_date": "",
+      "source_id": "plaion_vorbesteller",
+      "source_label": "Plaion Pictures – Vorbesteller",
+      "source_url": "https://shop.plaionpictures.com/film-vorbesteller/"
+    },
+    {
       "title": "Stephen Kings Katzenauge",
       "url": "https://shop.plaionpictures.com/stephen-kings-katzenauge-4k-uhd-blu-ray",
       "image": "https://shop.plaionpictures.com/media/b7/6a/a3/1794409601/CatsEye_UHD-FullSleeve2D.webp?ts=1794409611",
@@ -8195,7 +8235,7 @@
     {
       "title": "Sinn und Sinnlichkeit",
       "url": "https://shop.plaionpictures.com/sinn-und-sinnlichkeit-blu-ray",
-      "image": "https://shop.plaionpictures.com/media/1a/80/d5/1792055735/1213906.webp?ts=1792055814",
+      "image": "https://shop.plaionpictures.com/media/6c/f1/e2/1795680282/Sinn--Sinnlichkeit-BD_2D.webp?ts=1795680285",
       "price": "",
       "release_date": "",
       "source_id": "plaion_vorbesteller",
