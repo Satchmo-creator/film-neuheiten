@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T06:57:13Z",
-  "count": 989,
+  "updated": "2026-11-27T17:18:44Z",
+  "count": 999,
   "products": [
     {
       "title": "Prinzessin Mononoke 4K UHD + Blu-ray (Mediabook Limited Edition)",
@@ -486,16 +486,6 @@
       "title": "Resident Evil (2026) 4K UHD + Blu-ray",
       "url": "https://shop.leoninestudios.com/products/resident-evil-2026-4k-uhd-blu-ray",
       "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122973139301jpg-228822.jpg?v=1790259498",
-      "price": "29,99 €",
-      "release_date": "",
-      "source_id": "leonine_vorbestellungen",
-      "source_label": "Leonine – Vorbestellungen",
-      "source_url": "https://shop.leoninestudios.com/collections/jetzt-vorbestellen"
-    },
-    {
-      "title": "Dutton Ranch - Staffel 1 Blu-ray",
-      "url": "https://shop.leoninestudios.com/products/dutton-ranch-staffel-1-blu-ray",
-      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976276201jpg-226768.jpg?v=1790151567",
       "price": "29,99 €",
       "release_date": "",
       "source_id": "leonine_vorbestellungen",
@@ -1853,6 +1843,16 @@
       "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
     },
     {
+      "title": "Dutton Ranch - Staffel 1 Blu-ray",
+      "url": "https://shop.leoninestudios.com/products/dutton-ranch-staffel-1-blu-ray",
+      "image": "https://cdn.shopify.com/s/files/1/0656/8322/6677/files/406122976276201jpg-226768.jpg?v=1790151567",
+      "price": "29,99 €",
+      "release_date": "",
+      "source_id": "leonine_neuheiten",
+      "source_label": "Leonine – Neuheiten",
+      "source_url": "https://shop.leoninestudios.com/collections/neuheiten/Neuheiten"
+    },
+    {
       "title": "Terminator - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
       "url": "https://shop.capelight.de/Terminator-Limitiertes-3-Disc-Mediabook-Cover-A-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray/6425756",
       "image": "",
@@ -2091,6 +2091,16 @@
       "source_id": "capelight_vorschau",
       "source_label": "Capelight – Vorschau",
       "source_url": "https://shop.capelight.de/VORSCHAU/"
+    },
+    {
+      "title": "Geballte Ladung – Double Impact - Limitiertes 3-Disc-SteelBook® (4K Ultra HD + Blu-ray + Bonus-Blu-ray) (exklusiv im capelight-Shop)",
+      "url": "https://shop.capelight.de/Geballte-Ladung-Double-Impact-Limitiertes-3-Disc-SteelBook-4K-Ultra-HD-Blu-ray-Bonus-Blu-ray-exklusiv-im-capelight-Shop/6425907",
+      "image": "",
+      "price": "37,99 €",
+      "release_date": "27.11.2026",
+      "source_id": "capelight_neuheiten",
+      "source_label": "Capelight – Neuheiten",
+      "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
       "title": "Rocky - Limitiertes 3-Disc-Mediabook – Cover A (4K Ultra HD + Blu-ray + Bonus-Blu-ray)",
@@ -2803,21 +2813,111 @@
       "source_url": "https://shop.capelight.de/NEUHEITEN/"
     },
     {
-      "title": "Mediabook-Set „ROBOCOP 2“: 3-Disc-Mediabooks – Cover A + B (exklusiv im capelight-Shop) (UHD Blu-ray)",
-      "url": "https://shop.capelight.de/Mediabook-Set-ROBOCOP-2-3-Disc-Mediabooks-Cover-A-B-exklusiv-im-capelight-Shop-UHD-Blu-ray/6425888",
-      "image": "",
-      "price": "",
-      "release_date": "10.09.2026",
-      "source_id": "capelight_neuheiten",
-      "source_label": "Capelight – Neuheiten",
-      "source_url": "https://shop.capelight.de/NEUHEITEN/"
+      "title": "DIE GROSSE KEILEREI - FULLSET 3 MEDIABOOKS - BD/DVD",
+      "url": "https://eykmedia.de/products/die-grosse-keilerei-fullset-5-mediabooks-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/DieGrosseKeilerei_Shop_headergrafik.jpg?v=1795534583",
+      "price": "100,00 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "DIE GROSSE KEILEREI - MEDIABOOKS - COVER C - BD/DVD",
+      "url": "https://eykmedia.de/products/die-grosse-keilerei-mediabooks-cover-c-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/DieGrosseKeilerei_MB-Cover-C.jpg?v=1795534436",
+      "price": "34,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "DIE GROSSE KEILEREI - MEDIABOOKS - COVER B - BD/DVD",
+      "url": "https://eykmedia.de/products/die-grosse-keilerei-mediabooks-cover-a-bd-dvd-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/DieGrosseKeilerei_MB-Cover-B.jpg?v=1795534360",
+      "price": "34,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "DIE GROSSE KEILEREI - MEDIABOOKS - COVER A - BD/DVD",
+      "url": "https://eykmedia.de/products/die-grosse-keilerei-mediabooks-cover-a-bd-dvd",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/DieGrosseKeilerei_MB-Cover-A.jpg?v=1795533878",
+      "price": "34,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - FULLSET 5 MEDIABOOKS - 4K-UHD/BD/SOUNDTRACK/BONUS - 4 DISC EDITION",
+      "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-cover-e-4k-uhd-bd-soundtrack-bonus-4-disc-edition-shop-exklusiv-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffDerZombies_Shop_headergrafik.jpg?v=1795526159",
+      "price": "229,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - MEDIABOOK - COVER E - 4K-UHD/BD/SOUNDTRACK/BONUS - 4 DISC EDITION ( SHOP EXKLUSIV )",
+      "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-cover-d-4k-uhd-bd-soundtrack-bonus-4-disc-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffDerZombies_cover-E.jpg?v=1795525997",
+      "price": "49,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - MEDIABOOK - COVER D - 4K-UHD/BD/SOUNDTRACK/BONUS - 4 DISC EDITION",
+      "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-cover-c-4k-uhd-bd-soundtrack-bonus-4-disc-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffDerZombies_cover-D.jpg?v=1795525862",
+      "price": "45,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - MEDIABOOK - COVER C - 4K-UHD/BD/SOUNDTRACK/BONUS - 4 DISC EDITION",
+      "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-cover-b-4k-uhd-bd-soundtrack-bonus-4-disc-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffDerZombies_cover-C.jpg?v=1795525781",
+      "price": "45,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - MEDIABOOK - COVER B - 4K-UHD/BD/SOUNDTRACK/BONUS - 4 DISC EDITION",
+      "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-cover-a-4k-uhd-bd-soundtrack-bonus-4-disc-edition-kopie",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffDerZombies_cover-B.jpg?v=1795525695",
+      "price": "45,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
+    },
+    {
+      "title": "GROSSANGRIFF DER ZOMBIES - MEDIABOOK - COVER A - 4K-UHD/BD/SOUNDTRACK/BONUS - 4 DISC EDITION",
+      "url": "https://eykmedia.de/products/grossangriff-der-zombies-mediabook-weekend-of-horror-white-edition-4k-uhd-bd-kopie-1",
+      "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/GrossangriffDerZombies_cover-A.jpg?v=1795525525",
+      "price": "45,99 €",
+      "release_date": "15.12.2026",
+      "source_id": "eykmedia_vorbestellen",
+      "source_label": "EYK Media – Vorbestellen",
+      "source_url": "https://eykmedia.de/collections/vorbestellen"
     },
     {
       "title": "CREEPSHOW 2 - MEDIABOOK - COVER F - 4K-UHD/BD",
       "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-e-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-F_d004b04e-ce8a-4938-979e-0e78a01a0594.jpg?v=1793908760",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2827,7 +2927,7 @@
       "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-e-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-E_7f744f8f-1f91-4d31-9e42-e7afd7703d75.jpg?v=1793985855",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2837,7 +2937,7 @@
       "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-d-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-D.jpg?v=1793908464",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2847,7 +2947,7 @@
       "url": "https://eykmedia.de/products/creepshow-2-mediabook-cover-b-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow2_Cover-C.jpg?v=1793908351",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2857,7 +2957,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-a-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-A_336e892b-14e1-40d1-a2e5-ee0254a1fd7f.jpg?v=1793907799",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2867,7 +2967,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-h-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-H_wattiert.jpg?v=1793907407",
       "price": "44,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2877,7 +2977,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-g-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-G.jpg?v=1793907291",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2887,7 +2987,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-f-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-F.jpg?v=1793907198",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2897,7 +2997,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-e-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-E.jpg?v=1793907076",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2907,7 +3007,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-d-4k-uhd-bd",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-D.jpg?v=1793906982",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2917,7 +3017,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-b-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-C.jpg?v=1793906861",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2927,7 +3027,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-a-4k-uhd-bd-kopie-1",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Cover-B.jpg?v=1793906742",
       "price": "41,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
@@ -2937,7 +3037,7 @@
       "url": "https://eykmedia.de/products/creepshow-mediabook-cover-a-4k-uhd-bd-kopie",
       "image": "https://cdn.shopify.com/s/files/1/0903/7139/1813/files/Creepshow_Shop_headergrafik.jpg?v=1793907676",
       "price": "329,99 €",
-      "release_date": "30.11.2026",
+      "release_date": "31.12.2026",
       "source_id": "eykmedia_vorbestellen",
       "source_label": "EYK Media – Vorbestellen",
       "source_url": "https://eykmedia.de/collections/vorbestellen"
